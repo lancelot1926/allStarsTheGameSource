@@ -364,6 +364,7 @@ public class UISystem : MonoBehaviour
     public void EnableItemsMenu()
     {
         ItemsHud.gameObject.SetActive(!ItemsHud.gameObject.activeSelf);
+        ActiveCharHud.gameObject.SetActive(false);
     }
 
     public void SetPlayerHuds()
