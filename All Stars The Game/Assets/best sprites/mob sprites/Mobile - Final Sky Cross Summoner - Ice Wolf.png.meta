@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 7d121ec155f84994ca118c8d42630e84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2420367960805990470
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_0
+  - first:
+      213: 1883675228420126144
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_1
+  - first:
+      213: 9151695713369223155
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_2
+  - first:
+      213: -1363427287331339
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_3
+  - first:
+      213: -8050724644861268780
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_4
+  - first:
+      213: 238547629456087166
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_5
+  - first:
+      213: 6999021816707902088
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_6
+  - first:
+      213: -5115533441769131722
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_7
+  - first:
+      213: -6586395883575240182
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_8
+  - first:
+      213: -6485256324801125387
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_9
+  - first:
+      213: 6038731669094516229
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_10
+  - first:
+      213: -6992788589325635676
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_11
+  - first:
+      213: 4326468133228508508
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_12
+  - first:
+      213: -5005528701681241259
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_13
+  - first:
+      213: -6285364223548650971
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_14
+  - first:
+      213: 6709542664942749513
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_15
+  - first:
+      213: -1672051364314396995
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_16
+  - first:
+      213: 2050567444312929843
+    second: Mobile - Final Sky Cross Summoner - Ice Wolf_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 465
+        width: 172
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640e39136dfd69120800000000000000
+      internalID: 2420367960805990470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 465
+        width: 171
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c53f2ed3a8242a10800000000000000
+      internalID: 1883675228420126144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 465
+        width: 173
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff66d773ca510f70800000000000000
+      internalID: 9151695713369223155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 464
+        width: 133
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd8cd858f72bfff0800000000000000
+      internalID: -1363427287331339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_4
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 466
+        width: 131
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcaf8e0794164090800000000000000
+      internalID: -8050724644861268780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_5
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 471
+        width: 145
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78ddbb1ecd7f4300800000000000000
+      internalID: 238547629456087166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 356
+        width: 173
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a65188245812160800000000000000
+      internalID: 6999021816707902088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 367
+        width: 195
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63138be1079f109b0800000000000000
+      internalID: -5115533441769131722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 356
+        width: 202
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a176117db6894a0800000000000000
+      internalID: -6586395883575240182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_9
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 356
+        width: 203
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3afd2abbdbff5a0800000000000000
+      internalID: -6485256324801125387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_10
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 358
+        width: 203
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506c74e5572edc350800000000000000
+      internalID: 6038731669094516229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_11
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 357
+        width: 205
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af27dfc3df94fe90800000000000000
+      internalID: -6992788589325635676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 231
+        width: 185
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55f12538d3ba0c30800000000000000
+      internalID: 4326468133228508508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 230
+        width: 205
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553744f8a2ac88ab0800000000000000
+      internalID: -5005528701681241259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_14
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 230
+        width: 181
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a0f6b3a86e5c8a0800000000000000
+      internalID: -6285364223548650971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 22
+        width: 179
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9478d3d41851d1d50800000000000000
+      internalID: 6709542664942749513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 17
+        width: 204
+        height: 201
+      alignment: 9
+      pivot: {x: 0.45711696, y: 0.3422295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db645df942eabc8e0800000000000000
+      internalID: -1672051364314396995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ice Wolf_20
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 20
+        width: 171
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336b04ae934157c10800000000000000
+      internalID: 2050567444312929843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

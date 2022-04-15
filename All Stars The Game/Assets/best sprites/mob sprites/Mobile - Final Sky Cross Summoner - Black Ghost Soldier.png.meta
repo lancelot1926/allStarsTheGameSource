@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 8e764fc4c80e17a4fbc4420b9164f964
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2637127119417482176
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_0
+  - first:
+      213: -32904466513649072
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_1
+  - first:
+      213: -7495257222163346294
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_2
+  - first:
+      213: 2590091249923529840
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_3
+  - first:
+      213: -2548102949535614175
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_4
+  - first:
+      213: -5583506694963117804
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_5
+  - first:
+      213: -6218987553503808288
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_6
+  - first:
+      213: 5090967251769823671
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_7
+  - first:
+      213: 2970344881101262760
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_8
+  - first:
+      213: 8232310228895027329
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_9
+  - first:
+      213: -3417758057924900265
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_10
+  - first:
+      213: 5743673309550205565
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_11
+  - first:
+      213: 8049073990626892666
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_12
+  - first:
+      213: 8014058710547939277
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_13
+  - first:
+      213: 6197128095002546690
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_15
+  - first:
+      213: 3686715519923382353
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_18
+  - first:
+      213: 1837757474331470755
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_20
+  - first:
+      213: 7705285983542741515
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_21
+  - first:
+      213: 4387837245495985790
+    second: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 586
+        width: 196
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04462936bda076bd0800000000000000
+      internalID: -2637127119417482176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 586
+        width: 197
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0522ee1ef891b8ff0800000000000000
+      internalID: -32904466513649072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_2
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 586
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cc5cc944f7bf790800000000000000
+      internalID: -7495257222163346294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_3
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 586
+        width: 196
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c1a87d44ad1f320800000000000000
+      internalID: 2590091249923529840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_4
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 586
+        width: 196
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bfdc92ed153acd0800000000000000
+      internalID: -2548102949535614175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 429
+        width: 193
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41145bd5e366382b0800000000000000
+      internalID: -5583506694963117804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_6
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 429
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e474da05c7b1b9a0800000000000000
+      internalID: -6218987553503808288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 429
+        width: 189
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b113ec0ebfb6a640800000000000000
+      internalID: 5090967251769823671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 280
+        width: 193
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afc07a8ee8c83920800000000000000
+      internalID: 2970344881101262760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 272
+        width: 197
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1805a1a598a0f3270800000000000000
+      internalID: 8232310228895027329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 280
+        width: 220
+        height: 128
+      alignment: 9
+      pivot: {x: 0.33685747, y: 0.53235364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a4825872fa190d0800000000000000
+      internalID: -3417758057924900265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_11
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 279
+        width: 220
+        height: 128
+      alignment: 9
+      pivot: {x: 0.3243081, y: 0.5215688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ad1a99170a5bf40800000000000000
+      internalID: 5743673309550205565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_12
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 279
+        width: 196
+        height: 132
+      alignment: 9
+      pivot: {x: 0.45069823, y: 0.4895417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bd62e062e04bf60800000000000000
+      internalID: 8049073990626892666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 25
+        width: 108
+        height: 237
+      alignment: 9
+      pivot: {x: 0.4375595, y: 0.28652033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfb55bdfe7a73f60800000000000000
+      internalID: 8014058710547939277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 24
+        width: 123
+        height: 204
+      alignment: 9
+      pivot: {x: 0.41404867, y: 0.3519324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202583a2b2f900650800000000000000
+      internalID: 6197128095002546690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 24
+        width: 231
+        height: 243
+      alignment: 9
+      pivot: {x: 0.30629173, y: 0.24915235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158e3f87b38d92330800000000000000
+      internalID: 3686715519923382353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_20
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 195
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aba8d0afa6018910800000000000000
+      internalID: 1837757474331470755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_21
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 24
+        width: 227
+        height: 121
+      alignment: 9
+      pivot: {x: 0.31336257, y: 0.44917095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a8cd517ccaeea60800000000000000
+      internalID: 7705285983542741515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Ghost Soldier_22
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 24
+        width: 191
+        height: 126
+      alignment: 9
+      pivot: {x: 0.32700688, y: 0.44257295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76440e1abab4ec30800000000000000
+      internalID: 4387837245495985790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

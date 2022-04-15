@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 489fd94c25c3ce64e891de04e1a39731, type: 3}
+  m_Name: SSJGokuMagic4
+  m_EditorClassIdentifier: 
+  IsItAttack: 1
+  IsItSpecial: 0
+  IsItHeal: 0
+  IsItBuff: 0
+  Melee: 0
+  CanTP: 0
+  Jump: 1
+  Element: Light
+  Damage: 50
+  ManaCost: 50
+  TpDelay: 0
+  AttackDelay: 1.7
+  maxDelay: 6.3
+  AttackName: Spirit Bomb
+  EventNameE: 
+  Projectile: 1
+  IsItAoe: 0
+  AttackNum: 6
+  EventName: 
+  ChosenMeleeAoe: {fileID: 0}
+  AttackEffect: {fileID: 3879998458971260702, guid: 8fd678d9b88209d4eb65cbfd90537b35,
+    type: 3}

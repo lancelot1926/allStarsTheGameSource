@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 489fd94c25c3ce64e891de04e1a39731, type: 3}
+  m_Name: SpiderManMagic6
+  m_EditorClassIdentifier: 
+  IsItAttack: 1
+  IsItSpecial: 0
+  IsItHeal: 0
+  IsItBuff: 0
+  Melee: 1
+  CanTP: 0
+  Jump: 0
+  Element: Rock
+  Damage: 50
+  ManaCost: 35
+  TpDelay: 0
+  AttackDelay: 4.5
+  maxDelay: 10
+  AttackName: No Way Home
+  EventNameE: 
+  Projectile: 0
+  IsItAoe: 0
+  AttackNum: 4
+  EventName: 
+  ChosenMeleeAoe: {fileID: 0}
+  AttackEffect: {fileID: 8642273051182286848, guid: 0dd2ac016eb6479418901c3ac8f15b4e,
+    type: 3}

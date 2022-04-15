@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: b37f398c8faf3db41b4d5ac33d42e76a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5928224117230995221
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_0
+  - first:
+      213: 7888810601861520270
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_1
+  - first:
+      213: 8795887455877779234
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_2
+  - first:
+      213: 1950905054552809876
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_3
+  - first:
+      213: 6226628854333593494
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_5
+  - first:
+      213: 5497680591627345648
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_6
+  - first:
+      213: 1213311354210166570
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_7
+  - first:
+      213: -7111866770998784136
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_8
+  - first:
+      213: -645068376582141876
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_9
+  - first:
+      213: 4383460906852407346
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_10
+  - first:
+      213: -2974771416180311131
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_11
+  - first:
+      213: -7699789839083904869
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_12
+  - first:
+      213: -5264699322611325339
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_13
+  - first:
+      213: 1844830647328097024
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_14
+  - first:
+      213: -893819744379862969
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_17
+  - first:
+      213: -2315379884270690366
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_18
+  - first:
+      213: -5079440290494966099
+    second: Mobile - Final Sky Cross Summoner - Red Medusa_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 419
+        width: 155
+        height: 153
+      alignment: 9
+      pivot: {x: 0.63676345, y: 0.57351726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8fa8f0397babda0800000000000000
+      internalID: -5928224117230995221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 419
+        width: 166
+        height: 157
+      alignment: 9
+      pivot: {x: 0.6511563, y: 0.5881773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b9a48127faa7d60800000000000000
+      internalID: 7888810601861520270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 419
+        width: 169
+        height: 161
+      alignment: 9
+      pivot: {x: 0.63055384, y: 0.60210913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fc8ebd905411a70800000000000000
+      internalID: 8795887455877779234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_3
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 419
+        width: 160
+        height: 157
+      alignment: 9
+      pivot: {x: 0.65682447, y: 0.5964441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491622f8fc1031b10800000000000000
+      internalID: 1950905054552809876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_5
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 419
+        width: 175
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69750c2f3fd696650800000000000000
+      internalID: 6226628854333593494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_6
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 419
+        width: 114
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fed180ce5fab4c40800000000000000
+      internalID: 5497680591627345648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_7
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 419
+        width: 148
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2725ad8f3c86d010800000000000000
+      internalID: 1213311354210166570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 235
+        width: 115
+        height: 152
+      alignment: 9
+      pivot: {x: 0.7070256, y: 0.53674054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f86b02ad29d4d90800000000000000
+      internalID: -7111866770998784136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 235
+        width: 114
+        height: 155
+      alignment: 9
+      pivot: {x: 0.8068165, y: 0.5834366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48cbfdaab14c07f0800000000000000
+      internalID: -645068376582141876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 235
+        width: 439
+        height: 153
+      alignment: 9
+      pivot: {x: 0.27436757, y: 0.5441847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238dfbf587e25dc30800000000000000
+      internalID: 4383460906852407346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_11
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 235
+        width: 201
+        height: 156
+      alignment: 9
+      pivot: {x: 0.60089993, y: 0.53391445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab3692782d77b6d0800000000000000
+      internalID: -2974771416180311131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_12
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 235
+        width: 167
+        height: 154
+      alignment: 9
+      pivot: {x: 0.6566425, y: 0.56298393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90ed34cfe9d42590800000000000000
+      internalID: -7699789839083904869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 18
+        width: 153
+        height: 191
+      alignment: 9
+      pivot: {x: 0.6819525, y: 0.4937311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56623821cd700f6b0800000000000000
+      internalID: -5264699322611325339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 18
+        width: 332
+        height: 191
+      alignment: 9
+      pivot: {x: 0.314756, y: 0.49832943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003cebc03b72a9910800000000000000
+      internalID: 1844830647328097024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_17
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 18
+        width: 346
+        height: 191
+      alignment: 9
+      pivot: {x: 0.29942632, y: 0.4974503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740020b9da38893f0800000000000000
+      internalID: -893819744379862969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_18
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 18
+        width: 327
+        height: 187
+      alignment: 9
+      pivot: {x: 0.3007652, y: 0.4887673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfd5fd334e1edfd0800000000000000
+      internalID: -2315379884270690366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Red Medusa_19
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 18
+        width: 342
+        height: 168
+      alignment: 9
+      pivot: {x: 0.29639244, y: 0.5554496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da69d33c7f33289b0800000000000000
+      internalID: -5079440290494966099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

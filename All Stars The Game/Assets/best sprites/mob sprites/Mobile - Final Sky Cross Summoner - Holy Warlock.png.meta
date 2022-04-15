@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 02b870c010ec9ea4eba4cb1680624f20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3192956571472093037
+    second: Mobile - Final Sky Cross Summoner - Holy Warlock_0
+  - first:
+      213: -1342954345087017625
+    second: Mobile - Final Sky Cross Summoner - Holy Warlock_1
+  - first:
+      213: 7755426079339359195
+    second: Mobile - Final Sky Cross Summoner - Holy Warlock_2
+  - first:
+      213: -5126585975919168047
+    second: Mobile - Final Sky Cross Summoner - Holy Warlock_4
+  - first:
+      213: 3586832734241231939
+    second: Mobile - Final Sky Cross Summoner - Holy Warlock_5
+  - first:
+      213: -5499054170461995447
+    second: Mobile - Final Sky Cross Summoner - Holy Warlock_6
+  - first:
+      213: 6477649699128043321
+    second: Mobile - Final Sky Cross Summoner - Holy Warlock_7
+  - first:
+      213: 7525415913814317583
+    second: Mobile - Final Sky Cross Summoner - Holy Warlock_8
+  - first:
+      213: 7835565934270357767
+    second: Mobile - Final Sky Cross Summoner - Holy Warlock_9
+  - first:
+      213: -3507748430235328896
+    second: Mobile - Final Sky Cross Summoner - Holy Warlock_10
+  - first:
+      213: 7633572925959449371
+    second: Mobile - Final Sky Cross Summoner - Holy Warlock_11
+  - first:
+      213: 5956462984814518209
+    second: Mobile - Final Sky Cross Summoner - Holy Warlock_12
+  - first:
+      213: 7059978008917522959
+    second: Mobile - Final Sky Cross Summoner - Holy Warlock_13
+  - first:
+      213: 4978054670526361118
+    second: Mobile - Final Sky Cross Summoner - Holy Warlock_14
+  - first:
+      213: 2098648238154155175
+    second: Mobile - Final Sky Cross Summoner - Holy Warlock_15
+  - first:
+      213: -7227286819285532465
+    second: Mobile - Final Sky Cross Summoner - Holy Warlock_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Holy Warlock_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 165
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fd7d1b519af4c20800000000000000
+      internalID: 3192956571472093037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Holy Warlock_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 165
+        width: 67
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d558f632edc5de0800000000000000
+      internalID: -1342954345087017625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Holy Warlock_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 165
+        width: 64
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdba2dcddeec0ab60800000000000000
+      internalID: 7755426079339359195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Holy Warlock_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 168
+        width: 85
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5b6da7735bad8b0800000000000000
+      internalID: -5126585975919168047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Holy Warlock_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 169
+        width: 87
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34411313e5df6c130800000000000000
+      internalID: 3586832734241231939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Holy Warlock_6
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 164
+        width: 84
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e7bf00e5f6fa3b0800000000000000
+      internalID: -5499054170461995447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Holy Warlock_7
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 166
+        width: 84
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93761ffc41c35e950800000000000000
+      internalID: 6477649699128043321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Holy Warlock_8
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 166
+        width: 70
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a59f9f6e5af6860800000000000000
+      internalID: 7525415913814317583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Holy Warlock_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 15
+        width: 65
+        height: 138
+      alignment: 9
+      pivot: {x: 0.6068397, y: 0.5251615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701265ed3b58dbc60800000000000000
+      internalID: 7835565934270357767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Holy Warlock_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 64
+        height: 138
+      alignment: 9
+      pivot: {x: 0.6220726, y: 0.51887107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e93663369f15fc0800000000000000
+      internalID: -3507748430235328896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Holy Warlock_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 15
+        width: 70
+        height: 136
+      alignment: 9
+      pivot: {x: 0.66121346, y: 0.5095743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b2adab126efe960800000000000000
+      internalID: 7633572925959449371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Holy Warlock_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 14
+        width: 87
+        height: 135
+      alignment: 9
+      pivot: {x: 0.6646343, y: 0.5160754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfd1a7a68b99a250800000000000000
+      internalID: 5956462984814518209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Holy Warlock_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 14
+        width: 90
+        height: 135
+      alignment: 9
+      pivot: {x: 0.6495012, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a399ff7941af160800000000000000
+      internalID: 7059978008917522959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Holy Warlock_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 14
+        width: 133
+        height: 134
+      alignment: 9
+      pivot: {x: 0.6305372, y: 0.5064781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ea235195a951540800000000000000
+      internalID: 4978054670526361118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Holy Warlock_15
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 14
+        width: 116
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5898006, y: 0.50993973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a48da71475ef1d10800000000000000
+      internalID: 2098648238154155175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Holy Warlock_16
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 13
+        width: 130
+        height: 132
+      alignment: 9
+      pivot: {x: 0.63688827, y: 0.51315254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc08f9efde483bb90800000000000000
+      internalID: -7227286819285532465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d64ca5d6b415ebc468ff06b0c067a60e, type: 3}
+  m_Name: Blue Goblin
+  m_EditorClassIdentifier: 
+  charMaxHp: 100
+  charCurrentHp: 100
+  charMaxMp: 1000
+  CharCurrentMp: 1000
+  charAttackDamage: 5
+  charMagicDamage: 5
+  charDefence: 5
+  charSpeed: 5
+  maxAttackMultiplier: 2
+  minAttackMultiplier: 1
+  maxDefenceMultiplier: 2
+  minDefenceMultiplier: 1
+  isDed: 0

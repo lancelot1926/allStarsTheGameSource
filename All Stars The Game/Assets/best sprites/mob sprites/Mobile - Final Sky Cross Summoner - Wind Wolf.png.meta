@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: d530fe76839a7344485a3e6e3e33e45f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7325214616658991849
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_0
+  - first:
+      213: 62499951324333766
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_1
+  - first:
+      213: -721640580574823123
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_2
+  - first:
+      213: 230230240316167999
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_3
+  - first:
+      213: 1353436184977885468
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_4
+  - first:
+      213: 1350876053868898962
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_5
+  - first:
+      213: 3592091268957584418
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_6
+  - first:
+      213: 2154628062776116899
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_7
+  - first:
+      213: 1962968582778465759
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_8
+  - first:
+      213: 3607283001587390362
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_9
+  - first:
+      213: -6246459618629746645
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_10
+  - first:
+      213: 1593338356250056405
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_11
+  - first:
+      213: 868879839013336138
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_12
+  - first:
+      213: -5133046191237201393
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_13
+  - first:
+      213: -8895020270155002175
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_14
+  - first:
+      213: -3215155744256788714
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_15
+  - first:
+      213: 4300433719637696834
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_16
+  - first:
+      213: 6439809429123142222
+    second: Mobile - Final Sky Cross Summoner - Wind Wolf_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 465
+        width: 172
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea557912e368a560800000000000000
+      internalID: 7325214616658991849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 465
+        width: 171
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c68a25ef5b0ed000800000000000000
+      internalID: 62499951324333766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 465
+        width: 173
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2db45327b73cf5f0800000000000000
+      internalID: -721640580574823123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 464
+        width: 133
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37199a0f21f13300800000000000000
+      internalID: 230230240316167999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_4
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 466
+        width: 131
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1944c71a0f58c210800000000000000
+      internalID: 1353436184977885468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_5
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 471
+        width: 145
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aef6e1d964fb210800000000000000
+      internalID: 1350876053868898962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 356
+        width: 173
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cbff63afba9d130800000000000000
+      internalID: 3592091268957584418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 367
+        width: 195
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6cbd0bec6c6ed10800000000000000
+      internalID: 2154628062776116899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 356
+        width: 202
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd23c9968ddd3b10800000000000000
+      internalID: 1962968582778465759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_9
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 356
+        width: 203
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97dbe917c4af0230800000000000000
+      internalID: 3607283001587390362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_10
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 358
+        width: 203
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2080cf621e1059a0800000000000000
+      internalID: -6246459618629746645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_11
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 357
+        width: 205
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d61a4b0bccac1610800000000000000
+      internalID: 1593338356250056405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 231
+        width: 185
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4473ec2c91ee0c00800000000000000
+      internalID: 868879839013336138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 230
+        width: 205
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0282a36fa1c3c8b0800000000000000
+      internalID: -5133046191237201393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_14
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 230
+        width: 181
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce038f213a8e8480800000000000000
+      internalID: -8895020270155002175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 22
+        width: 179
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617740e92e87163d0800000000000000
+      internalID: -3215155744256788714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 16
+        width: 205
+        height: 202
+      alignment: 9
+      pivot: {x: 0.42954057, y: 0.34193408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241ed1feea53eab30800000000000000
+      internalID: 4300433719637696834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Wind Wolf_20
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 20
+        width: 171
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4298146e8cce5950800000000000000
+      internalID: 6439809429123142222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

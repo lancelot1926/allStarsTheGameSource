@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &157917994883044529
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2269126496557200988}
+  - component: {fileID: 349244494573884338}
+  - component: {fileID: 3617546100526237007}
+  - component: {fileID: 9031311486850065769}
+  - component: {fileID: 2376892940276683940}
+  - component: {fileID: 5296659729939324354}
+  - component: {fileID: 6331264339783186484}
+  m_Layer: 0
+  m_Name: SSJGokuClone
+  m_TagString: PlayerClone
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2269126496557200988
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 157917994883044529}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &349244494573884338
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 157917994883044529}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: -884092965
+  m_SortingLayer: 3
+  m_SortingOrder: 12
+  m_Sprite: {fileID: 5502587247875778934, guid: c39525a429948d9458dce946a4ea04f3,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 1
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1.687524, y: 1.890625}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &3617546100526237007
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 157917994883044529}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dffc31412ced2d046a126b7c81187565, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  unitName: SSJ Goku
+  maxHP: 0
+  currentHP: 0
+  maxMP: 0
+  currentMP: 0
+  attackDamage: 40
+  magicDamage: 20
+  defence: 20
+  speed: 9
+  MaxAttackMultip: 5
+  minAttackMultip: 1
+  MaxDefenceMultip: 5
+  minDefenceMultip: 1
+  weakTo: []
+  strongTo: []
+  IsDead: 0
+  GuardUp: 0
+  CanTransform: 0
+  takenDamageType: 
+  turnCountPassiveDamaege: 0
+  takingPassiveDamage: 0
+  passiveDamageType: 
+  burning: 0
+  wet: 0
+  poisoned: 0
+  cursed: 0
+  bleeding: 0
+  turnCountImmobilization: 0
+  immobilized: 0
+  immobilizationType: 
+  stunned: 0
+  frozen: 0
+  shocked: 0
+  petrified: 0
+  sleep: 0
+  feared: 0
+  turnCountSpecialStatus: 0
+  underSpecialStatus: 0
+  specialStatusType: 
+  charmed: 0
+  confused: 0
+  blinded: 0
+  raged: 0
+  passiveDamage: 0
+  PlayerStatssIcon: {fileID: 21300000, guid: 4c9fed48f32d78543aec22293062b57c, type: 3}
+  HealthBar: {fileID: 0}
+  MagicAttackList:
+  - {fileID: 11400000, guid: ecb526b2c8218a944a5a427ebc97e5a7, type: 2}
+  SpecialAttackList: []
+  AllAttackList:
+  - {fileID: 11400000, guid: baf375ee3258519409da219c3fb50ace, type: 2}
+  - {fileID: 11400000, guid: ecb526b2c8218a944a5a427ebc97e5a7, type: 2}
+  NormalAttack: {fileID: 11400000, guid: baf375ee3258519409da219c3fb50ace, type: 2}
+  TestMultipAttack: {fileID: 0}
+  charStat: {fileID: 11400000, guid: b5cb0fd3942b4584cbb86a666a50b3e6, type: 2}
+  Clone: {fileID: 0}
+--- !u!114 &9031311486850065769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 157917994883044529}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fef073ecf6db387438b08994c5aa974e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  anim: {fileID: 0}
+  attackDelay: 0
+  tpDelay: 0
+  currentAnimaton: 
+--- !u!114 &2376892940276683940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 157917994883044529}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d42aea2134c6b043b3a4d96d896c59f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Attacking: 0
+  projectileArrived: 0
+--- !u!65 &5296659729939324354
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 157917994883044529}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.687524, y: 1.890625, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!95 &6331264339783186484
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 157917994883044529}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 95c6c1390b6080342995b683675b16f2, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

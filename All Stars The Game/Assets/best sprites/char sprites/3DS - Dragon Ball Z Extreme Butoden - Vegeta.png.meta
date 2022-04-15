@@ -1,0 +1,7040 @@
+fileFormatVersion: 2
+guid: ceb1a03f39e57bd46af9458c96189fee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1731118114588457394
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_0
+  - first:
+      213: 4808888349881758892
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_6
+  - first:
+      213: -8445295072191518981
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_7
+  - first:
+      213: -2149046095653271428
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_8
+  - first:
+      213: -5713671851681978737
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_9
+  - first:
+      213: 8828248873798840298
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_10
+  - first:
+      213: 2593809609906210480
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_11
+  - first:
+      213: -810905476525874433
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_12
+  - first:
+      213: -3936114691605245485
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_13
+  - first:
+      213: -6772937574423709851
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_14
+  - first:
+      213: -113317760935032897
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_15
+  - first:
+      213: -3110271172814717503
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_16
+  - first:
+      213: 9094368793238238089
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_17
+  - first:
+      213: 8767039097416122866
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_18
+  - first:
+      213: 8331509232769196037
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_19
+  - first:
+      213: -6974353059989035758
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_20
+  - first:
+      213: 1235300472352442553
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_21
+  - first:
+      213: 6774729873735174736
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_22
+  - first:
+      213: -954659121357283931
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_23
+  - first:
+      213: 3627929862290303490
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_24
+  - first:
+      213: 2084980870701067338
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_25
+  - first:
+      213: -5636462257087871822
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_26
+  - first:
+      213: 1059050154336229506
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_27
+  - first:
+      213: 7947072688902435062
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_28
+  - first:
+      213: -9193126406294528223
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_29
+  - first:
+      213: 7663472247354595487
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_30
+  - first:
+      213: -2151260868763921256
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_31
+  - first:
+      213: -3318416668746365626
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_32
+  - first:
+      213: 2284897229894808379
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_33
+  - first:
+      213: -8381088429268877322
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_34
+  - first:
+      213: 6306131992490632688
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_35
+  - first:
+      213: 4773233466631461357
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_36
+  - first:
+      213: 3913170359921202981
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_37
+  - first:
+      213: 4303308193883364289
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_38
+  - first:
+      213: 4407866232981709468
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_39
+  - first:
+      213: 4594220946840559488
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_40
+  - first:
+      213: -3309421862225926042
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_41
+  - first:
+      213: -6572299087965973612
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_42
+  - first:
+      213: 1625428017045236906
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_43
+  - first:
+      213: 8770940069750951029
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_44
+  - first:
+      213: -8478944952466139095
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_45
+  - first:
+      213: -8350814540618435569
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_46
+  - first:
+      213: 3976217035590175454
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_47
+  - first:
+      213: -3116205566738508673
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_48
+  - first:
+      213: -995477503714977337
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_49
+  - first:
+      213: -5508951512026108866
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_50
+  - first:
+      213: -5622171481650850138
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_51
+  - first:
+      213: 5388287986949591467
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_52
+  - first:
+      213: 5477411522786484175
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_53
+  - first:
+      213: -7155284116839745635
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_54
+  - first:
+      213: 6658746384814210660
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_55
+  - first:
+      213: -7860565491206894617
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_56
+  - first:
+      213: -989308593655664669
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_57
+  - first:
+      213: -3335513804262617345
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_58
+  - first:
+      213: -3201297059083907253
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_59
+  - first:
+      213: -5932937880219522742
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_60
+  - first:
+      213: -3164991636487627755
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_61
+  - first:
+      213: -1551241389093147375
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_62
+  - first:
+      213: 7486515392418402450
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_63
+  - first:
+      213: -6814397452280603789
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_64
+  - first:
+      213: 3913277666085771191
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_65
+  - first:
+      213: 5245693209495530115
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_66
+  - first:
+      213: 2964281009700838931
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_67
+  - first:
+      213: 3724909042154009583
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_68
+  - first:
+      213: -4095001613316956334
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_69
+  - first:
+      213: 6486693228623490088
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_70
+  - first:
+      213: 8707036492999670881
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_71
+  - first:
+      213: 1266693517494256380
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_72
+  - first:
+      213: 7019676161482290435
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_73
+  - first:
+      213: 7864566113255474452
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_74
+  - first:
+      213: 4080525887125168864
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_75
+  - first:
+      213: 433371798746751419
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_76
+  - first:
+      213: 4134266372408401571
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_77
+  - first:
+      213: 9163182849137146658
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_78
+  - first:
+      213: 1635853840592481240
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_79
+  - first:
+      213: 8084544859814834640
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_80
+  - first:
+      213: -5067884157749805710
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_81
+  - first:
+      213: -3607463538145065607
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_82
+  - first:
+      213: 2262917991010818430
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_83
+  - first:
+      213: 1497830996491578693
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_84
+  - first:
+      213: 8370047450636021169
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_85
+  - first:
+      213: 3813964542440895284
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_86
+  - first:
+      213: -5389417708252640790
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_87
+  - first:
+      213: 2549280355047257206
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_88
+  - first:
+      213: -7817837012944779602
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_89
+  - first:
+      213: -7396299452173613085
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_90
+  - first:
+      213: 6127647484331341613
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_91
+  - first:
+      213: 76044005734643802
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_92
+  - first:
+      213: -1119458741926415417
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_93
+  - first:
+      213: 4891323716321685202
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_94
+  - first:
+      213: -1384394848394408607
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_95
+  - first:
+      213: 8732562537214172951
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_96
+  - first:
+      213: 8696821200393007062
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_97
+  - first:
+      213: -6637293400918922469
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_98
+  - first:
+      213: -7273235683396242585
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_99
+  - first:
+      213: -2313475554571173254
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_100
+  - first:
+      213: 8386957328367535447
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_101
+  - first:
+      213: -7027231643948989154
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_102
+  - first:
+      213: -2152777751143734347
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_103
+  - first:
+      213: 716247303233780282
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_104
+  - first:
+      213: -3776698068432436817
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_105
+  - first:
+      213: -2456005880192207050
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_106
+  - first:
+      213: -1447033620701255079
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_107
+  - first:
+      213: -2988113052147649502
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_108
+  - first:
+      213: -4285920272652144822
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_109
+  - first:
+      213: -7856342990949663778
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_110
+  - first:
+      213: 6972410906583434590
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_111
+  - first:
+      213: -3153976979485248289
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_112
+  - first:
+      213: -778287916340132753
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_113
+  - first:
+      213: 982068671906170040
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_114
+  - first:
+      213: -5890949514645292302
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_115
+  - first:
+      213: 348982777336295254
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_116
+  - first:
+      213: -5234712414431410901
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_117
+  - first:
+      213: 8319698843387909442
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_118
+  - first:
+      213: 9123336019454380738
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_119
+  - first:
+      213: -8848180240072929110
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_120
+  - first:
+      213: 204806190301961918
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_121
+  - first:
+      213: -8230722686486471445
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_122
+  - first:
+      213: 8948142096099663743
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_123
+  - first:
+      213: 7295966736714514087
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_124
+  - first:
+      213: -1523574458630226843
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_125
+  - first:
+      213: 1972350404797275299
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_126
+  - first:
+      213: 237077121728944807
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_127
+  - first:
+      213: 6365218289258469669
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_128
+  - first:
+      213: 6254204662379222209
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_129
+  - first:
+      213: -8850268965994996939
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_130
+  - first:
+      213: -3126509963258408728
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_131
+  - first:
+      213: -5343660164419843692
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_132
+  - first:
+      213: 201358331164381040
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_133
+  - first:
+      213: -4057442733419787373
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_134
+  - first:
+      213: 8157089788391875132
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_135
+  - first:
+      213: 5358376868517048057
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_136
+  - first:
+      213: -2008882303236399995
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_137
+  - first:
+      213: -8623557452610854194
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_138
+  - first:
+      213: 1545057315984094899
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_139
+  - first:
+      213: -3250389017723523879
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_140
+  - first:
+      213: 307903512602393006
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_141
+  - first:
+      213: -6340143781927828607
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_142
+  - first:
+      213: -7897075463986814862
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_143
+  - first:
+      213: 4784815043548346013
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_144
+  - first:
+      213: 751589312215724806
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_145
+  - first:
+      213: -7231289957933817027
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_146
+  - first:
+      213: 5562705949664679174
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_147
+  - first:
+      213: 4096698753336359482
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_148
+  - first:
+      213: 1173180504246684279
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_149
+  - first:
+      213: 1359720067974049541
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_150
+  - first:
+      213: 5472090578397628064
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_151
+  - first:
+      213: -7816067677426908009
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_152
+  - first:
+      213: -485466771479821251
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_154
+  - first:
+      213: -7300225804825395306
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_155
+  - first:
+      213: 5766853413737575166
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_156
+  - first:
+      213: 7091302611436504607
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_157
+  - first:
+      213: 1117490646741759371
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_158
+  - first:
+      213: -6280579465982787956
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_159
+  - first:
+      213: 4443325846595134920
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_160
+  - first:
+      213: 4988097210539084157
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_161
+  - first:
+      213: -6470996902693432959
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_162
+  - first:
+      213: 8882238565313782427
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_163
+  - first:
+      213: -3326072334753742949
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_164
+  - first:
+      213: -1395629791565186577
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_165
+  - first:
+      213: -2928212893234598559
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_166
+  - first:
+      213: 2900656393392170422
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_167
+  - first:
+      213: -4765540713400355505
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_168
+  - first:
+      213: -6922404057923364258
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_169
+  - first:
+      213: 6564257603252582875
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_170
+  - first:
+      213: -3584444666369568889
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_171
+  - first:
+      213: -359049186856363421
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_172
+  - first:
+      213: 3955171190547447961
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_173
+  - first:
+      213: 3560947839380347761
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_174
+  - first:
+      213: -4511145492977276356
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_175
+  - first:
+      213: -1281311623424849086
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_176
+  - first:
+      213: -1833138454773114009
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_177
+  - first:
+      213: 8551361258892026484
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_178
+  - first:
+      213: 5947333925767930732
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_179
+  - first:
+      213: -791035122542796467
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_180
+  - first:
+      213: -5422289813075797998
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_181
+  - first:
+      213: -1575776119121975728
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_182
+  - first:
+      213: -5082695976173880378
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_183
+  - first:
+      213: -6402855526110258680
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_184
+  - first:
+      213: -382891582857580249
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_185
+  - first:
+      213: -6520927936673271698
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_186
+  - first:
+      213: 3543258381703056211
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_187
+  - first:
+      213: 7895150367898263895
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_188
+  - first:
+      213: 2375815967576602037
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_189
+  - first:
+      213: 6481208546849117145
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_190
+  - first:
+      213: -5424320943589531055
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_191
+  - first:
+      213: 7748634971897419968
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_192
+  - first:
+      213: 3524111521701914497
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_193
+  - first:
+      213: 673017732941914078
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_194
+  - first:
+      213: 1654391128555331169
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_195
+  - first:
+      213: 1605282180766520103
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_196
+  - first:
+      213: -3633456042187637147
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_197
+  - first:
+      213: 8321144100580748057
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_198
+  - first:
+      213: 6075670910656403655
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_199
+  - first:
+      213: -3237348754358612287
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_200
+  - first:
+      213: -5191543953168410421
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_201
+  - first:
+      213: -1492516789075614473
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_202
+  - first:
+      213: 1201306326799025584
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_203
+  - first:
+      213: 5062482311010562970
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_204
+  - first:
+      213: -4192437161738880589
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_205
+  - first:
+      213: -6040100858756876274
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_206
+  - first:
+      213: -8638658625443258247
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_207
+  - first:
+      213: 4695336764439626685
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_208
+  - first:
+      213: -263504654447346082
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_209
+  - first:
+      213: 3349773461607075128
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_210
+  - first:
+      213: 7916376376424972518
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_211
+  - first:
+      213: -8983799038023669564
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_212
+  - first:
+      213: -4787599365457291997
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_213
+  - first:
+      213: -3225080496731504957
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_214
+  - first:
+      213: -1962803236385089750
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_215
+  - first:
+      213: -6885809017399709442
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_216
+  - first:
+      213: -4550516341043232018
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_217
+  - first:
+      213: -7414881199837006076
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_218
+  - first:
+      213: 5463855240044771960
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_219
+  - first:
+      213: -8365030795501990120
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_220
+  - first:
+      213: 4009149024435918860
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_221
+  - first:
+      213: -1872539062449522643
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_222
+  - first:
+      213: 8034108667329689344
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_223
+  - first:
+      213: -4710917552667802991
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_224
+  - first:
+      213: -186974754177395403
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_225
+  - first:
+      213: -8786463442496541699
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_226
+  - first:
+      213: 7766818765506420094
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_227
+  - first:
+      213: 6867722026241188149
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_228
+  - first:
+      213: 5927033576978005177
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_229
+  - first:
+      213: -9035352049642224847
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_230
+  - first:
+      213: -3176667193648312763
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_231
+  - first:
+      213: -6943690077527150559
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_232
+  - first:
+      213: 4759041558414419094
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_233
+  - first:
+      213: 6142581158357223522
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_234
+  - first:
+      213: -8585436767254503439
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_235
+  - first:
+      213: -3789233892212248648
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_236
+  - first:
+      213: -2752010899884859523
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_237
+  - first:
+      213: -1354273718091420245
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_238
+  - first:
+      213: -82036492177970648
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_239
+  - first:
+      213: 5941629920887678142
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_240
+  - first:
+      213: 8495628073083280686
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_241
+  - first:
+      213: 4079262267587047413
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_242
+  - first:
+      213: -31489199696552999
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_243
+  - first:
+      213: -7333582346802300267
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_244
+  - first:
+      213: -3576540676728325699
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_245
+  - first:
+      213: 3122056108926025332
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_246
+  - first:
+      213: -9095569646121459344
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_247
+  - first:
+      213: 7666682517261575023
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_248
+  - first:
+      213: 5607937752190225125
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_249
+  - first:
+      213: -836549879682499493
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_250
+  - first:
+      213: -6008023811694951798
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_251
+  - first:
+      213: 7910779741147110715
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_252
+  - first:
+      213: 5654480707814543820
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_253
+  - first:
+      213: 7955316923819751906
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_254
+  - first:
+      213: 2381791629991096641
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_255
+  - first:
+      213: 7405169001384288325
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_256
+  - first:
+      213: 4640132531126508220
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_257
+  - first:
+      213: -6293186858359981542
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_258
+  - first:
+      213: -7041310620878572398
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_259
+  - first:
+      213: -5369905635144546763
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_260
+  - first:
+      213: 2558264610053255380
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_261
+  - first:
+      213: -4872527059092304042
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_262
+  - first:
+      213: -408941073143034712
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_263
+  - first:
+      213: 8738390364505606203
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_264
+  - first:
+      213: -6064171538510436776
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_265
+  - first:
+      213: -215535302097669691
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_266
+  - first:
+      213: -260030136145903596
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_267
+  - first:
+      213: -4641534497758629795
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_268
+  - first:
+      213: 7932552354352215403
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_269
+  - first:
+      213: 4097633882852670083
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_270
+  - first:
+      213: -2150504439015924135
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_271
+  - first:
+      213: -4614622286817230092
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_272
+  - first:
+      213: -7475914004186054709
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_273
+  - first:
+      213: 7881425238305174646
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_274
+  - first:
+      213: -7687623693509378347
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_275
+  - first:
+      213: 4685129942305572292
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_276
+  - first:
+      213: -4283282091833666292
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_277
+  - first:
+      213: -8697967140219093391
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_278
+  - first:
+      213: -8771402976172647605
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_279
+  - first:
+      213: -8266456871076269121
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_280
+  - first:
+      213: -5633489169787794011
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_281
+  - first:
+      213: 5624188790538548058
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_282
+  - first:
+      213: 4586542918927221190
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_283
+  - first:
+      213: -8048644190424684595
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_284
+  - first:
+      213: 7072037150220859894
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_285
+  - first:
+      213: 4030804764571991191
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_286
+  - first:
+      213: 1266876571557921107
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_287
+  - first:
+      213: 4532976364374950782
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_288
+  - first:
+      213: -7325107804601973657
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_289
+  - first:
+      213: 5311293068644359087
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_290
+  - first:
+      213: 4401762358093359025
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_291
+  - first:
+      213: -4888684614722201357
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_292
+  - first:
+      213: 6480436838900421051
+    second: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_293
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 7485
+        width: 131
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9f94cd0ca260810800000000000000
+      internalID: 1731118114588457394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7368
+        width: 83
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca47733c97a9cb240800000000000000
+      internalID: 4808888349881758892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 7368
+        width: 83
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6eaae70e84cca80800000000000000
+      internalID: -8445295072191518981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 7368
+        width: 83
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7885ae46fd0d22e0800000000000000
+      internalID: -2149046095653271428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7252
+        width: 83
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86e85529b5f4b0b0800000000000000
+      internalID: -5713671851681978737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 7252
+        width: 83
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefa58f939d348a70800000000000000
+      internalID: 8828248873798840298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 7252
+        width: 84
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6447df8101ff320800000000000000
+      internalID: 2593809609906210480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 7252
+        width: 85
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2a145f3c51fb4f0800000000000000
+      internalID: -810905476525874433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7141
+        width: 83
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d15cabda8c1069c0800000000000000
+      internalID: -3936114691605245485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 7141
+        width: 83
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567349e1921b102a0800000000000000
+      internalID: -6772937574423709851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 7141
+        width: 83
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb789b8c81a6d6ef0800000000000000
+      internalID: -113317760935032897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 7141
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdbd35e8d816d4d0800000000000000
+      internalID: -3110271172814717503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7020
+        width: 96
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983fc51cb30b53e70800000000000000
+      internalID: 9094368793238238089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 7020
+        width: 94
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1037dfb97caa970800000000000000
+      internalID: 8767039097416122866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 7020
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500681641877f9370800000000000000
+      internalID: 8331509232769196037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_20
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 7020
+        width: 91
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215e139f7de163f90800000000000000
+      internalID: -6974353059989035758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_21
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 7020
+        width: 91
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b880751c3ba42110800000000000000
+      internalID: 1235300472352442553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_22
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 7020
+        width: 91
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a46351deca40e50800000000000000
+      internalID: 6774729873735174736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6900
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad99ed469e50c2f0800000000000000
+      internalID: -954659121357283931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 6898
+        width: 81
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a68d7fcfef85230800000000000000
+      internalID: 3627929862290303490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 6897
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c2f912e075fec10800000000000000
+      internalID: 2084980870701067338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6793
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b48160c07347c1b0800000000000000
+      internalID: -5636462257087871822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 6788
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2889888118082be00800000000000000
+      internalID: 1059050154336229506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_28
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 6788
+        width: 79
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0fc32518ca94e60800000000000000
+      internalID: 7947072688902435062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_29
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6654
+        width: 62
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f1d81ad347b6080800000000000000
+      internalID: -9193126406294528223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_30
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 6661
+        width: 70
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9892a9f76f1a5a60800000000000000
+      internalID: 7663472247354595487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 6672
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894d02243af2522e0800000000000000
+      internalID: -2151260868763921256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6507
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64543aa1f9d92f1d0800000000000000
+      internalID: -3318416668746365626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 6500
+        width: 62
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b337728bce595bf10800000000000000
+      internalID: 2284897229894808379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_34
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 6506
+        width: 64
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffba4e7a7460bb80800000000000000
+      internalID: -8381088429268877322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_35
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 6527
+        width: 66
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f56127c2a1e38750800000000000000
+      internalID: 6306131992490632688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_36
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 6524
+        width: 75
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de913985c8eed3240800000000000000
+      internalID: 4773233466631461357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_37
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 6506
+        width: 58
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527d0b0a5bf5e4630800000000000000
+      internalID: 3913170359921202981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_38
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 6501
+        width: 48
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb127f900c68bb30800000000000000
+      internalID: 4303308193883364289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6393
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92605a2cf2eb2d30800000000000000
+      internalID: 4407866232981709468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 6393
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f17142c93f1cf30800000000000000
+      internalID: 4594220946840559488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_41
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 6391
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668ac12b9529212d0800000000000000
+      internalID: -3309421862225926042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6273
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4931a201dc08ac4a0800000000000000
+      internalID: -6572299087965973612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_43
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6299
+        width: 120
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aace2fb6b2eae8610800000000000000
+      internalID: 1625428017045236906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_44
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 6266
+        width: 57
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cceb3e583a8b970800000000000000
+      internalID: 8770940069750951029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6138
+        width: 74
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9281a263d7cb45a80800000000000000
+      internalID: -8478944952466139095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_46
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 6148
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0475497b62fb1c80800000000000000
+      internalID: -8350814540618435569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_47
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 6125
+        width: 76
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda8534b35c5e2730800000000000000
+      internalID: 3976217035590175454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_48
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5998
+        width: 85
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74d4732c8301c4d0800000000000000
+      internalID: -3116205566738508673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_49
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 6043
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c91d211c7a5f22f0800000000000000
+      internalID: -995477503714977337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 5998
+        width: 85
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c25d899c54c83b0800000000000000
+      internalID: -5508951512026108866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_51
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 6004
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a69ed133d80af1b0800000000000000
+      internalID: -5622171481650850138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5851
+        width: 83
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba192a1306b07ca40800000000000000
+      internalID: 5388287986949591467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_53
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5851
+        width: 70
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfd15862cca30c40800000000000000
+      internalID: 5477411522786484175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_54
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 5851
+        width: 69
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97b5cc810353bc90800000000000000
+      internalID: -7155284116839745635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_55
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 5851
+        width: 75
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e7444be8e986c50800000000000000
+      internalID: 6658746384814210660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_56
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 5851
+        width: 78
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb4be23559a9e290800000000000000
+      internalID: -7860565491206894617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_57
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 5851
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efa9ed53154542f0800000000000000
+      internalID: -989308593655664669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_58
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 5855
+        width: 86
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffec3890edfd5b1d0800000000000000
+      internalID: -3335513804262617345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 5738
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f0dc43945b293d0800000000000000
+      internalID: -3201297059083907253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_60
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 5738
+        width: 129
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a496e079e68f9ada0800000000000000
+      internalID: -5932937880219522742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_61
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 5738
+        width: 98
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c921e10e0b314d0800000000000000
+      internalID: -3164991636487627755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_62
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 5738
+        width: 99
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d283aec22e87ae0800000000000000
+      internalID: -1551241389093147375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_63
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5598
+        width: 87
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290d79a851275e760800000000000000
+      internalID: 7486515392418402450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_64
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 5598
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bdc721f956e61a0800000000000000
+      internalID: -6814397452280603789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_65
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5598
+        width: 89
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7138acd41ce4630800000000000000
+      internalID: 3913277666085771191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_66
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 5598
+        width: 91
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ae8a06e227cc840800000000000000
+      internalID: 5245693209495530115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 5598
+        width: 87
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e97a57fdd332920800000000000000
+      internalID: 2964281009700838931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_68
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5468
+        width: 71
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3fa36d90981b330800000000000000
+      internalID: 3724909042154009583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_69
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 5461
+        width: 78
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f579b9ab1ab27c0800000000000000
+      internalID: -4095001613316956334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_70
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5468
+        width: 93
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ce80b9f1d550a50800000000000000
+      internalID: 6486693228623490088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_71
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 5467
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cbb9bfe8b95d870800000000000000
+      internalID: 8707036492999670881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_72
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 5468
+        width: 75
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2098dfa03349110800000000000000
+      internalID: 1266693517494256380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_73
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5467
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305fd6be646ea6160800000000000000
+      internalID: 7019676161482290435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_74
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 5356
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415ca25363d842d60800000000000000
+      internalID: 7864566113255474452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_75
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5357
+        width: 142
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2a1eebca0f0a830800000000000000
+      internalID: 4080525887125168864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_76
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 5357
+        width: 135
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1e8f7da55a30600800000000000000
+      internalID: 433371798746751419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_77
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 5359
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aede368c5ddf5930800000000000000
+      internalID: 4134266372408401571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_78
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 5251
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b75cea04a2a2f70800000000000000
+      internalID: 9163182849137146658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_79
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 5251
+        width: 98
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db29f0a668b3b610800000000000000
+      internalID: 1635853840592481240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_80
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 5253
+        width: 151
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d139fb57b2123070800000000000000
+      internalID: 8084544859814834640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_81
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 5253
+        width: 149
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d3e7695324ba9b0800000000000000
+      internalID: -5067884157749805710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_82
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 5253
+        width: 105
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97580b47607bfedc0800000000000000
+      internalID: -3607463538145065607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_83
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 5253
+        width: 111
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e795a026cef776f10800000000000000
+      internalID: 2262917991010818430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_84
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 5253
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d237ffa5d59c410800000000000000
+      internalID: 1497830996491578693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 5128
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bde2585fc1682470800000000000000
+      internalID: 8370047450636021169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 5126
+        width: 88
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433ff1a4b8cede430800000000000000
+      internalID: 3813964542440895284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_87
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 5126
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9c6611621f435b0800000000000000
+      internalID: -5389417708252640790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_88
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 5120
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674397be9fcd06320800000000000000
+      internalID: 2549280355047257206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_89
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 4998
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6868b48a6718390800000000000000
+      internalID: -7817837012944779602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_90
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 5003
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e786c4e5d01b5990800000000000000
+      internalID: -7396299452173613085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_91
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 4997
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27b26cdbe6c90550800000000000000
+      internalID: 6127647484331341613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_92
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 4996
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a587c1dce992e0100800000000000000
+      internalID: 76044005734643802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_93
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 4993
+        width: 118
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c335c29432e670f0800000000000000
+      internalID: -1119458741926415417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_94
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 4996
+        width: 80
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de2cc0310971e340800000000000000
+      internalID: 4891323716321685202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_95
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4859
+        width: 85
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d02906834a9cce0800000000000000
+      internalID: -1384394848394408607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_96
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 4859
+        width: 85
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fd8894c5b403970800000000000000
+      internalID: 8732562537214172951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_97
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4873
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfe284ddc051b870800000000000000
+      internalID: 8696821200393007062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_98
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 4873
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bee2851d893e3a0800000000000000
+      internalID: -6637293400918922469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_99
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 4872
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763b8736ea6401b90800000000000000
+      internalID: -7273235683396242585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4739
+        width: 127
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a724c3d8d32e4efd0800000000000000
+      internalID: -2313475554571173254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_101
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4733
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755c4bf0145746470800000000000000
+      internalID: 8386957328367535447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_102
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 4732
+        width: 94
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15490c3d024a7e90800000000000000
+      internalID: -7027231643948989154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_103
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 4729
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3a6be8a0ccf12e0800000000000000
+      internalID: -2152777751143734347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_104
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4619
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ab490a02f90f900800000000000000
+      internalID: 716247303233780282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_105
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 4620
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa14e27dd19769bc0800000000000000
+      internalID: -3776698068432436817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_106
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4616
+        width: 143
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6377fd81aa38aedd0800000000000000
+      internalID: -2456005880192207050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_107
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 4617
+        width: 107
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aed04b69a1bebe0800000000000000
+      internalID: -1447033620701255079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_108
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 4609
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224f702c2071886d0800000000000000
+      internalID: -2988113052147649502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_109
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4487
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f6ce4483a5584c0800000000000000
+      internalID: -4285920272652144822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_110
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 4486
+        width: 80
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbb0d6aca9a8f290800000000000000
+      internalID: -7856342990949663778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_111
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 4486
+        width: 141
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5507f237caf2c060800000000000000
+      internalID: 6972410906583434590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_112
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 4486
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4b50cc5a2da34d0800000000000000
+      internalID: -3153976979485248289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_113
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 4486
+        width: 129
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64419d7347f235f0800000000000000
+      internalID: -778287916340132753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_114
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 4486
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4c10ef04201ad00800000000000000
+      internalID: 982068671906170040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_115
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4337
+        width: 84
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fabec5c0a42f3ea0800000000000000
+      internalID: -5890949514645292302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_116
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4337
+        width: 77
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65febdbacf5d7d400800000000000000
+      internalID: 348982777336295254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_117
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 4337
+        width: 79
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b250d743bc09a57b0800000000000000
+      internalID: -5234712414431410901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_118
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 4337
+        width: 83
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2455d56b402857370800000000000000
+      internalID: 8319698843387909442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_119
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 4208
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caca1ea5c99c9e70800000000000000
+      internalID: 9123336019454380738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_120
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4207
+        width: 127
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa092d983f2f43580800000000000000
+      internalID: -8848180240072929110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_121
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 4206
+        width: 123
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebedfbc152e97d200800000000000000
+      internalID: 204806190301961918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_122
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 4207
+        width: 118
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec993b235996cd80800000000000000
+      internalID: -8230722686486471445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_123
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4077
+        width: 97
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f5dbdb3df2e2c70800000000000000
+      internalID: 8948142096099663743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_124
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 4079
+        width: 125
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae3fe2671b704560800000000000000
+      internalID: 7295966736714514087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_125
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 4082
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cbc742a1d2bdae0800000000000000
+      internalID: -1523574458630226843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_126
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 4080
+        width: 93
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac1a824e323f5b10800000000000000
+      internalID: 1972350404797275299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_127
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3948
+        width: 93
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa9609d2644a4300800000000000000
+      internalID: 237077121728944807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_128
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3946
+        width: 100
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52912194f4cc55850800000000000000
+      internalID: 6365218289258469669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_129
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 3947
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c494b511066bc650800000000000000
+      internalID: 6254204662379222209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_130
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3950
+        width: 107
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b543324478d2580800000000000000
+      internalID: -8850268965994996939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_131
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 3950
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0534dd0c76c94d0800000000000000
+      internalID: -3126509963258408728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_132
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3949
+        width: 104
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4998953746187d5b0800000000000000
+      internalID: -5343660164419843692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_133
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 3950
+        width: 120
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f4e99d55e5bc200800000000000000
+      internalID: 201358331164381040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_134
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 3950
+        width: 121
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b060ac45111b7c0800000000000000
+      internalID: -4057442733419787373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_135
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 3950
+        width: 118
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c326016c1fdc33170800000000000000
+      internalID: 8157089788391875132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_136
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3801
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fee0ac3f57cc5a40800000000000000
+      internalID: 5358376868517048057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_137
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3806
+        width: 133
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c960050340f14e0800000000000000
+      internalID: -2008882303236399995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_138
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3827
+        width: 124
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec225f8bf28f25880800000000000000
+      internalID: -8623557452610854194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_139
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 3839
+        width: 114
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6b9dc5175217510800000000000000
+      internalID: 1545057315984094899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_140
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 3820
+        width: 79
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc22c0e86c44e2d0800000000000000
+      internalID: -3250389017723523879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_141
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3661
+        width: 89
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9b2c50d94e54400800000000000000
+      internalID: 307903512602393006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_142
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 3661
+        width: 75
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1834a4562d84308a0800000000000000
+      internalID: -6340143781927828607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_143
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3662
+        width: 98
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270ec9cb4b3f76290800000000000000
+      internalID: -7897075463986814862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_144
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 3661
+        width: 113
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96f4aa5ee3176240800000000000000
+      internalID: 4784815043548346013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_145
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 3661
+        width: 118
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60339935f7e2e6a00800000000000000
+      internalID: 751589312215724806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_146
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3661
+        width: 99
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d336185a81c45ab90800000000000000
+      internalID: -7231289957933817027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_147
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 3660
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60517b7b693b23d40800000000000000
+      internalID: 5562705949664679174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_148
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 3547
+        width: 77
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a36689fc56ad830800000000000000
+      internalID: 4096698753336359482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_149
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3560
+        width: 139
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a890de379f74010800000000000000
+      internalID: 1173180504246684279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_150
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3561
+        width: 138
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f209d9232bed210800000000000000
+      internalID: 1359720067974049541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_151
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 3551
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a607208365c0fb40800000000000000
+      internalID: 5472090578397628064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_152
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3440
+        width: 99
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7948e82dbdfb78390800000000000000
+      internalID: -7816067677426908009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_154
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3415
+        width: 112
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3480bf1b864349f0800000000000000
+      internalID: -485466771479821251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_155
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3415
+        width: 77
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ffd3b0f4360ba90800000000000000
+      internalID: -7300225804825395306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_156
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3413
+        width: 77
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2b39d20aaf70050800000000000000
+      internalID: 5766853413737575166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_157
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 3427
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16097d572e596260800000000000000
+      internalID: 7091302611436504607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_158
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3423
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b853dde82df128f00800000000000000
+      internalID: 1117490646741759371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_159
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3426
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ebb7a6046e6d8a0800000000000000
+      internalID: -6280579465982787956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_160
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3270
+        width: 65
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c56d93d05dd9ad30800000000000000
+      internalID: 4443325846595134920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3270
+        width: 105
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d798c432cf7493540800000000000000
+      internalID: 4988097210539084157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_162
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3271
+        width: 98
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1811e401a966236a0800000000000000
+      internalID: -6470996902693432959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_163
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3273
+        width: 102
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92adcf3aec044b70800000000000000
+      internalID: 8882238565313782427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_164
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3269
+        width: 69
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fbfb575da67d1d0800000000000000
+      internalID: -3326072334753742949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_165
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 3271
+        width: 88
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9fdc3591ab1ace0800000000000000
+      internalID: -1395629791565186577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_166
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 3269
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d680053e5ec57d0800000000000000
+      internalID: -2928212893234598559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_167
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 3275
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b52b971f93314820800000000000000
+      internalID: 2900656393392170422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_168
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 3272
+        width: 96
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f453c1758f56dddb0800000000000000
+      internalID: -4765540713400355505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_169
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 3271
+        width: 87
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a51cf8f2eaeef90800000000000000
+      internalID: -6922404057923364258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_170
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 3271
+        width: 80
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9f600e28de81b50800000000000000
+      internalID: 6564257603252582875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_171
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 3279
+        width: 69
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f8fff219e714ec0800000000000000
+      internalID: -3584444666369568889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_172
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3142
+        width: 87
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a9888baa6640bf0800000000000000
+      internalID: -359049186856363421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_173
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3166
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990807e0e3793e630800000000000000
+      internalID: 3955171190547447961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_174
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3164
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bd5f571370b6130800000000000000
+      internalID: 3560947839380347761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_175
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3158
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a2cf043113561c0800000000000000
+      internalID: -4511145492977276356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_176
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 3152
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bce2ffdddd73ee0800000000000000
+      internalID: -1281311623424849086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_177
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3120
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bd32ba9426f86e0800000000000000
+      internalID: -1833138454773114009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_178
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3112
+        width: 85
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472eb4602c98ca670800000000000000
+      internalID: 8551361258892026484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_179
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2997
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63e606f1bc298250800000000000000
+      internalID: 5947333925767930732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_180
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2995
+        width: 87
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41aaf34fbda505f0800000000000000
+      internalID: -791035122542796467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_181
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2993
+        width: 108
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218d56eb42820c4b0800000000000000
+      internalID: -5422289813075797998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_182
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2993
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056e03ee7f7b12ae0800000000000000
+      internalID: -1575776119121975728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_183
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2993
+        width: 75
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb39de50f2a679b0800000000000000
+      internalID: -5082695976173880378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_184
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2987
+        width: 85
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a1d02a2dc7427a0800000000000000
+      internalID: -6402855526110258680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_185
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2843
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72179405222bfaaf0800000000000000
+      internalID: -382891582857580249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_186
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2843
+        width: 80
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e603ba847920185a0800000000000000
+      internalID: -6520927936673271698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_187
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2844
+        width: 90
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b06d4a9be2c2130800000000000000
+      internalID: 3543258381703056211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_188
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2845
+        width: 77
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751eed6ed65319d60800000000000000
+      internalID: 7895150367898263895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_189
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2844
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5ba1fe80898f020800000000000000
+      internalID: 2375815967576602037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_190
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2844
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3da2e95d0e1f950800000000000000
+      internalID: 6481208546849117145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_191
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2691
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15262a157d0f8b4b0800000000000000
+      internalID: -5424320943589531055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_192
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2731
+        width: 83
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c85d12f37ea88b60800000000000000
+      internalID: 7748634971897419968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_193
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2733
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18767e7e1c828e030800000000000000
+      internalID: 3524111521701914497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_194
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2722
+        width: 76
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf9a83ff0a075900800000000000000
+      internalID: 673017732941914078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_195
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2718
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e191157f395f610800000000000000
+      internalID: 1654391128555331169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_196
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2722
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7235ad463ab174610800000000000000
+      internalID: 1605282180766520103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_197
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2534
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eb8620bfe539dc0800000000000000
+      internalID: -3633456042187637147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_198
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2541
+        width: 53
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91be3ffd874aa7370800000000000000
+      internalID: 8321144100580748057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_199
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2571
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c859d1c08e115450800000000000000
+      internalID: 6075670910656403655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_200
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2576
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cec66ac570a213d0800000000000000
+      internalID: -3237348754358612287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_201
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2575
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8d193d74ee3f7b0800000000000000
+      internalID: -5191543953168410421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_202
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2574
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f467d553e3894be0800000000000000
+      internalID: -1492516789075614473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_203
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 2573
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5094b4db5eba010800000000000000
+      internalID: 1201306326799025584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_204
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 2571
+        width: 142
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93bb75f6dc814640800000000000000
+      internalID: 5062482311010562970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_205
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 2575
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b938672d9871d5c0800000000000000
+      internalID: -4192437161738880589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_206
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 2583
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08b34255404d2ca0800000000000000
+      internalID: -6040100858756876274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_207
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2586
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970279eefb15d1880800000000000000
+      internalID: -8638658625443258247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_208
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 2560
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3814909ef292140800000000000000
+      internalID: 4695336764439626685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_209
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2383
+        width: 78
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ef003b9e7d75cf0800000000000000
+      internalID: -263504654447346082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_210
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2386
+        width: 76
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dce192739cc7e20800000000000000
+      internalID: 3349773461607075128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_211
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2385
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0ca112f5e9cdd60800000000000000
+      internalID: 7916376376424972518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_212
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2383
+        width: 102
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c86a158f52235380800000000000000
+      internalID: -8983799038023669564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_213
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2381
+        width: 102
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325580f2eb70f8db0800000000000000
+      internalID: -4787599365457291997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_214
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2385
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce374c10663e33d0800000000000000
+      internalID: -3225080496731504957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_215
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2384
+        width: 89
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27974b1bd8b2c4e0800000000000000
+      internalID: -1962803236385089750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_216
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2384
+        width: 98
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef075b66e21b070a0800000000000000
+      internalID: -6885809017399709442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_217
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2382
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2028b5f7159d0c0800000000000000
+      internalID: -4550516341043232018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_218
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2379
+        width: 94
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4073eff95dc091990800000000000000
+      internalID: -7414881199837006076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_219
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2247
+        width: 60
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a760f546383db40800000000000000
+      internalID: 5463855240044771960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_220
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2247
+        width: 82
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f86e2bfc079eb80800000000000000
+      internalID: -8365030795501990120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_221
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2245
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c085b1ddbcb53a730800000000000000
+      internalID: 4009149024435918860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_222
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2238
+        width: 84
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2837a2d4a76306e0800000000000000
+      internalID: -1872539062449522643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_223
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2041
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007b2133443ee7f60800000000000000
+      internalID: 8034108667329689344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_224
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2038
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192451302757f9eb0800000000000000
+      internalID: -4710917552667802991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_225
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2039
+        width: 79
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5355a43a37bb76df0800000000000000
+      internalID: -186974754177395403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_226
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2041
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfba90e3d06301680800000000000000
+      internalID: -8786463442496541699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_227
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1927
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d19d0548849cb60800000000000000
+      internalID: 7766818765506420094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_228
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1928
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5316b3ecbcc0f4f50800000000000000
+      internalID: 6867722026241188149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_229
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1818
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc369fa2ad014250800000000000000
+      internalID: 5927033576978005177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_230
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1817
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1334a74ae2bfb9280800000000000000
+      internalID: -9035352049642224847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_231
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1698
+        width: 95
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e84f0a4063ae3d0800000000000000
+      internalID: -3176667193648312763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_232
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1697
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120f69ae9ae03af90800000000000000
+      internalID: -6943690077527150559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_233
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1697
+        width: 84
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694ec9835138b0240800000000000000
+      internalID: 4759041558414419094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_234
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1698
+        width: 80
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268c3ebc405de3550800000000000000
+      internalID: 6142581158357223522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_235
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1576
+        width: 86
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff973e6fb66ad880800000000000000
+      internalID: -8585436767254503439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_236
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1575
+        width: 83
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf61dbe9dfe96bc0800000000000000
+      internalID: -3789233892212248648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_237
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1458
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f1c56daa4eec9d0800000000000000
+      internalID: -2752010899884859523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_238
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1459
+        width: 81
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad63888a37a43de0800000000000000
+      internalID: -1354273718091420245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_239
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1347
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82aec19be3c8cdef0800000000000000
+      internalID: -82036492177970648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_240
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1349
+        width: 115
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4a755dee8e47250800000000000000
+      internalID: 5941629920887678142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_241
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1352
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d17ff78b886e570800000000000000
+      internalID: 8495628073083280686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_242
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1349
+        width: 125
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff2e256b637c9830800000000000000
+      internalID: 4079262267587047413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_243
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1250
+        width: 126
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db53dd5db0209ff0800000000000000
+      internalID: -31489199696552999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_244
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1244
+        width: 112
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59af5c7e5b1e93a90800000000000000
+      internalID: -7333582346802300267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_245
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1151
+        width: 109
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db97fde24339d5ec0800000000000000
+      internalID: -3576540676728325699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_246
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1151
+        width: 114
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ebf5d5d75c35b20800000000000000
+      internalID: 3122056108926025332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_247
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1048
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071ea15e89b06c180800000000000000
+      internalID: -9095569646121459344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_248
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1070
+        width: 118
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63e21f2127856a60800000000000000
+      internalID: 7666682517261575023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_249
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1060
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea0dc96ca563dd40800000000000000
+      internalID: 5607937752190225125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_250
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1085
+        width: 93
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cf0a0115af364f0800000000000000
+      internalID: -836549879682499493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_251
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 932
+        width: 71
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8285d5dc263f9ca0800000000000000
+      internalID: -6008023811694951798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_252
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 937
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d1e6fe24cb8cd60800000000000000
+      internalID: 7910779741147110715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_253
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 927
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1d59abe30c87e40800000000000000
+      internalID: 5654480707814543820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_254
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 929
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9fde7d796f66e60800000000000000
+      internalID: 7955316923819751906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_255
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 821
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1413e924ed2dd0120800000000000000
+      internalID: 2381791629991096641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_256
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 811
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540ae35f8f174c660800000000000000
+      internalID: 7405169001384288325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_257
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 834
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba978cd3ff056040800000000000000
+      internalID: 4640132531126508220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_258
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 824
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1afb4225eb1aa8a0800000000000000
+      internalID: -6293186858359981542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_259
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 717
+        width: 131
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294f859fb4d384e90800000000000000
+      internalID: -7041310620878572398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_260
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 726
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53647db96434a75b0800000000000000
+      internalID: -5369905635144546763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_261
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 709
+        width: 129
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d07dabcb18c08320800000000000000
+      internalID: 2558264610053255380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_262
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 724
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f035c947e416cb0800000000000000
+      internalID: -4872527059092304042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_263
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 719
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac0e39b246235af0800000000000000
+      internalID: -408941073143034712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_264
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 718
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b388d011dbff44970800000000000000
+      internalID: 8738390364505606203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_265
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 733
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8562d067d1cb7dba0800000000000000
+      internalID: -6064171538510436776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_266
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 722
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c179e1e8c3420df0800000000000000
+      internalID: -215535302097669691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_267
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 566
+        width: 81
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410802808ff246cf0800000000000000
+      internalID: -260030136145903596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_268
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 564
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50306857f4f59fb0800000000000000
+      internalID: -4641534497758629795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_269
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 564
+        width: 82
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b653a5b7656161e60800000000000000
+      internalID: 7932552354352215403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_270
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 564
+        width: 82
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ab9076e48bdd830800000000000000
+      internalID: 4097633882852670083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_271
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 564
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e1e884b9fd722e0800000000000000
+      internalID: -2150504439015924135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_272
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 564
+        width: 86
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f288adba7195ffb0800000000000000
+      internalID: -4614622286817230092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_273
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 564
+        width: 85
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf3f1182d7304890800000000000000
+      internalID: -7475914004186054709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_274
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 564
+        width: 86
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6747af42f72706d60800000000000000
+      internalID: 7881425238305174646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_275
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 422
+        width: 84
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de3f754bf2105590800000000000000
+      internalID: -7687623693509378347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_276
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 420
+        width: 85
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c58ba11cdce40140800000000000000
+      internalID: 4685129942305572292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_277
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 420
+        width: 85
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05567b91a9be84c0800000000000000
+      internalID: -4283282091833666292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_278
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 421
+        width: 84
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e783348fc9a4780800000000000000
+      internalID: -8697967140219093391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_279
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 424
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bdc6f4777b54680800000000000000
+      internalID: -8771402976172647605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_280
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 423
+        width: 78
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb37968f545a74d80800000000000000
+      internalID: -8266456871076269121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_281
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 422
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adc9c49273d1d1b0800000000000000
+      internalID: -5633489169787794011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_282
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 423
+        width: 78
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53b8c128e12d0e40800000000000000
+      internalID: 5624188790538548058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_283
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 422
+        width: 78
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c18db5fb7ca6af30800000000000000
+      internalID: 4586542918927221190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_284
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 267
+        width: 50
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7a93a90c87d4090800000000000000
+      internalID: -8048644190424684595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_285
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 267
+        width: 50
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9b741a15ce42260800000000000000
+      internalID: 7072037150220859894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_286
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 268
+        width: 51
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cf347c39b40f730800000000000000
+      internalID: 4030804764571991191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_287
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 270
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35189f59789d49110800000000000000
+      internalID: 1266876571557921107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_288
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 270
+        width: 79
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e738fc59cfd58ee30800000000000000
+      internalID: 4532976364374950782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_289
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 269
+        width: 83
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7640245034df75a90800000000000000
+      internalID: -7325107804601973657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_290
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 135
+        width: 93
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab9a8ec7e085b940800000000000000
+      internalID: 5311293068644359087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_291
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 144
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b727db0b83361d30800000000000000
+      internalID: 4401762358093359025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_292
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8d0988e37e72cb0800000000000000
+      internalID: -4888684614722201357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Vegeta_293
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4
+        width: 85
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1d30c58f22fe950800000000000000
+      internalID: 6480436838900421051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

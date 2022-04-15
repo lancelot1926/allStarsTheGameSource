@@ -1,0 +1,6680 @@
+fileFormatVersion: 2
+guid: 52a48b5901e81b641b248eecc8534de3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8875343257659370623
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_0
+  - first:
+      213: 6210362907230499610
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_1
+  - first:
+      213: 8895337016508742011
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_2
+  - first:
+      213: -6552943167272379845
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_3
+  - first:
+      213: 2516191532621793124
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_4
+  - first:
+      213: 4097853387431938390
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_5
+  - first:
+      213: 5515243918315319283
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_6
+  - first:
+      213: -9192118813666886646
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_7
+  - first:
+      213: -7362056360169825076
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_8
+  - first:
+      213: 4175371927711357642
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_9
+  - first:
+      213: 3007782395412813137
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_10
+  - first:
+      213: 5813816659931970155
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_11
+  - first:
+      213: -6742506092667946581
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_12
+  - first:
+      213: 3595494241830205052
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_13
+  - first:
+      213: -7385047084877523770
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_14
+  - first:
+      213: -1221720181455854736
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_15
+  - first:
+      213: -1146093216197735162
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_16
+  - first:
+      213: 6423731139603297814
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_17
+  - first:
+      213: 22636404111187336
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_18
+  - first:
+      213: -5385347853580121309
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_19
+  - first:
+      213: -2467314224178925903
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_20
+  - first:
+      213: -4239610808105961199
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_21
+  - first:
+      213: -7714723381798945663
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_22
+  - first:
+      213: -3513939393276705348
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_23
+  - first:
+      213: -4811141162878639254
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_24
+  - first:
+      213: 1843534606995445308
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_25
+  - first:
+      213: -8090942267120861855
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_26
+  - first:
+      213: -76819024132052597
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_27
+  - first:
+      213: 8059934376162177794
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_28
+  - first:
+      213: 5822114563686691905
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_29
+  - first:
+      213: -7672423737269270250
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_30
+  - first:
+      213: 6214907236724156322
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_31
+  - first:
+      213: -4951421306035552813
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_32
+  - first:
+      213: -3138437804921481963
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_33
+  - first:
+      213: 5754610222026830176
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_34
+  - first:
+      213: -2424810247489181581
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_35
+  - first:
+      213: 8709431780612910837
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_36
+  - first:
+      213: -5052589923451009276
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_37
+  - first:
+      213: 7196092217492575519
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_38
+  - first:
+      213: 5594851974915500626
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_39
+  - first:
+      213: -1487375921995998022
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_40
+  - first:
+      213: -7813448046160783742
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_41
+  - first:
+      213: -3178277994518800881
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_42
+  - first:
+      213: -1613451211918265555
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_43
+  - first:
+      213: 5163484547195472409
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_44
+  - first:
+      213: -4397553379005908649
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_45
+  - first:
+      213: 8659026228756443193
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_46
+  - first:
+      213: -4062486358038932060
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_47
+  - first:
+      213: -3468415360153368628
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_48
+  - first:
+      213: -3071377793338765347
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_49
+  - first:
+      213: 1001165421640387286
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_50
+  - first:
+      213: -599115600106847200
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_51
+  - first:
+      213: 6659713559498332776
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_52
+  - first:
+      213: 1587413896125408066
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_53
+  - first:
+      213: 3604037939355757543
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_54
+  - first:
+      213: 7334163217280072695
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_55
+  - first:
+      213: -398300885558550808
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_56
+  - first:
+      213: -6923487357493658729
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_57
+  - first:
+      213: -289545434252643897
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_58
+  - first:
+      213: -668197145994088217
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_59
+  - first:
+      213: 3388771430774578334
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_60
+  - first:
+      213: 2947592778174265012
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_61
+  - first:
+      213: 4632820504887419123
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_62
+  - first:
+      213: -1373590694689414975
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_63
+  - first:
+      213: -7849807133493586810
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_64
+  - first:
+      213: 916261291650080226
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_65
+  - first:
+      213: -4381855539061358103
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_66
+  - first:
+      213: -7661879865562658939
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_67
+  - first:
+      213: 8071086478714569337
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_68
+  - first:
+      213: 3581030758205016527
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_69
+  - first:
+      213: 348545872114207489
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_70
+  - first:
+      213: 2236071951203952750
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_71
+  - first:
+      213: 8379786735941412513
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_72
+  - first:
+      213: -2100720558753862087
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_73
+  - first:
+      213: 4458398185813009808
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_74
+  - first:
+      213: 7119408563434233769
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_75
+  - first:
+      213: 1035542281288958835
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_76
+  - first:
+      213: 6955071328821977461
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_77
+  - first:
+      213: 330143728811675914
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_78
+  - first:
+      213: 2561471470139093462
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_79
+  - first:
+      213: 4698386667809875370
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_80
+  - first:
+      213: -2454355359864226634
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_81
+  - first:
+      213: -7009775731516272913
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_82
+  - first:
+      213: -6468446962547646397
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_83
+  - first:
+      213: 8926294970456177001
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_84
+  - first:
+      213: -3983769045889231353
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_85
+  - first:
+      213: -4099320628141703977
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_86
+  - first:
+      213: 6591865736759700320
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_87
+  - first:
+      213: -5666583064808891371
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_88
+  - first:
+      213: -2102373184463126183
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_89
+  - first:
+      213: 6867190857925012622
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_90
+  - first:
+      213: -8878890446101063926
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_91
+  - first:
+      213: 5491440078865207608
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_92
+  - first:
+      213: 5583180179863904485
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_93
+  - first:
+      213: -3456220231937715450
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_94
+  - first:
+      213: 2194269314547933930
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_95
+  - first:
+      213: 4559415684693579574
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_96
+  - first:
+      213: 6329208852431754063
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_97
+  - first:
+      213: 1697822125894100598
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_98
+  - first:
+      213: -4275625343281571701
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_99
+  - first:
+      213: 4427781058139662323
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_100
+  - first:
+      213: 8728280511115886809
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_101
+  - first:
+      213: -908237290633848417
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_102
+  - first:
+      213: -7849442432692198622
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_103
+  - first:
+      213: 2007221681077509337
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_104
+  - first:
+      213: -6643376742947614598
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_105
+  - first:
+      213: 6293877759594541929
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_106
+  - first:
+      213: -397605490159597740
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_107
+  - first:
+      213: -1976288459643313280
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_108
+  - first:
+      213: 7819820608924662677
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_109
+  - first:
+      213: 1277183407517297502
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_110
+  - first:
+      213: -3166858856932306727
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_111
+  - first:
+      213: -2077751732829196116
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_112
+  - first:
+      213: -2562522569901334015
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_113
+  - first:
+      213: -1818710340790262684
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_114
+  - first:
+      213: -4429571944406800645
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_115
+  - first:
+      213: -5397477905629693764
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_116
+  - first:
+      213: -3951446445936520790
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_117
+  - first:
+      213: 1172406134274159092
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_118
+  - first:
+      213: 1124222038093296641
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_119
+  - first:
+      213: 8481748209613116631
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_120
+  - first:
+      213: -8415673071552114843
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_121
+  - first:
+      213: -4527267256645503453
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_122
+  - first:
+      213: -3158881285486653174
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_123
+  - first:
+      213: -5380810467216663396
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_124
+  - first:
+      213: -8413588783960977310
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_125
+  - first:
+      213: -1291719846834998832
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_126
+  - first:
+      213: -2596968355757285169
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_127
+  - first:
+      213: -5952345327438759030
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_128
+  - first:
+      213: 2573894297873221336
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_129
+  - first:
+      213: -799018570837354360
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_130
+  - first:
+      213: -2017539160766932944
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_131
+  - first:
+      213: -174594292227742260
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_132
+  - first:
+      213: -5591082799149667033
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_133
+  - first:
+      213: 5926531436219881856
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_134
+  - first:
+      213: -5963439127854738603
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_135
+  - first:
+      213: 7076884528365427867
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_136
+  - first:
+      213: -4189837644345645689
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_137
+  - first:
+      213: -7724186777174713879
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_138
+  - first:
+      213: -4093498837604292117
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_139
+  - first:
+      213: 1459731681423083993
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_140
+  - first:
+      213: -19620018732687559
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_141
+  - first:
+      213: 1160185879704370798
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_142
+  - first:
+      213: -4134465165206231515
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_143
+  - first:
+      213: 1593821278988179269
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_144
+  - first:
+      213: 2865973096474055445
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_145
+  - first:
+      213: -380678988510426097
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_146
+  - first:
+      213: 4593039915062050386
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_147
+  - first:
+      213: 5836017588836810436
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_148
+  - first:
+      213: 8836496864516594345
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_149
+  - first:
+      213: -7046439783191243488
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_150
+  - first:
+      213: -8256855240241182949
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_151
+  - first:
+      213: 721399039847609081
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_152
+  - first:
+      213: -2011082005333154125
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_153
+  - first:
+      213: 4690953472740850592
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_154
+  - first:
+      213: 442614699243697019
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_155
+  - first:
+      213: 1977414608672452647
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_156
+  - first:
+      213: 6111208294427489410
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_157
+  - first:
+      213: -1608094185693397150
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_158
+  - first:
+      213: 1069151924611995977
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_159
+  - first:
+      213: 1895777909262317426
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_160
+  - first:
+      213: -4496789757433638201
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_161
+  - first:
+      213: 4367334166858775232
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_162
+  - first:
+      213: -1088694658464738486
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_163
+  - first:
+      213: -7330480933910669950
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_164
+  - first:
+      213: -2992269363568409104
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_165
+  - first:
+      213: -5844072839992717140
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_166
+  - first:
+      213: 2453419004140733401
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_167
+  - first:
+      213: 396553987970725280
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_168
+  - first:
+      213: -5018561508822419767
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_169
+  - first:
+      213: 3512379126368841741
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_170
+  - first:
+      213: -4989797544213600870
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_171
+  - first:
+      213: 8533391009887476506
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_172
+  - first:
+      213: -3245859051345358473
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_173
+  - first:
+      213: 2259685777294504068
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_174
+  - first:
+      213: 3906480093655030739
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_175
+  - first:
+      213: 8390897976646229287
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_176
+  - first:
+      213: -4668431414408589018
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_177
+  - first:
+      213: 6765922444831019884
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_178
+  - first:
+      213: 688505032447141747
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_179
+  - first:
+      213: 8111764029103891177
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_180
+  - first:
+      213: -852608755717390540
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_181
+  - first:
+      213: 6410888882766407699
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_182
+  - first:
+      213: -5430538037774413327
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_183
+  - first:
+      213: -5345328192228183545
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_184
+  - first:
+      213: 4458921378550487578
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_185
+  - first:
+      213: 9009295938295026372
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_186
+  - first:
+      213: -6013856383698849962
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_187
+  - first:
+      213: -174087855643435939
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_188
+  - first:
+      213: -6906279905030367214
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_189
+  - first:
+      213: 3192348645566276252
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_190
+  - first:
+      213: 1671600717669332581
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_191
+  - first:
+      213: 3026299059810141020
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_192
+  - first:
+      213: 3205625824207709557
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_193
+  - first:
+      213: -4243787874262026672
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_194
+  - first:
+      213: -5417931474951214730
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_195
+  - first:
+      213: 7357984186399254114
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_196
+  - first:
+      213: 3693201575573519617
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_197
+  - first:
+      213: -7192649305807641936
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_198
+  - first:
+      213: 5775415542409429009
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_199
+  - first:
+      213: 1870363801641736805
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_200
+  - first:
+      213: 7763838542304348879
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_201
+  - first:
+      213: -8652044418221961926
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_202
+  - first:
+      213: 3804922114431869404
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_203
+  - first:
+      213: 6274522383190266601
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_204
+  - first:
+      213: -8888961764714442572
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_205
+  - first:
+      213: -6711388650434962854
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_206
+  - first:
+      213: -1333629342818460736
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_207
+  - first:
+      213: -6953419071209251905
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_208
+  - first:
+      213: -2654993946749579001
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_209
+  - first:
+      213: 3378673869722088039
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_210
+  - first:
+      213: 4681023955403311253
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_211
+  - first:
+      213: 1652140107084932198
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_212
+  - first:
+      213: -6788086202049513458
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_213
+  - first:
+      213: 1538603966387708907
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_214
+  - first:
+      213: 600514398359365355
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_215
+  - first:
+      213: -8928970245301875358
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_216
+  - first:
+      213: 8184904599665603780
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_217
+  - first:
+      213: -4797112104211299364
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_218
+  - first:
+      213: -9181769305614367027
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_219
+  - first:
+      213: -5527240696669994057
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_220
+  - first:
+      213: -1884752778794907678
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_221
+  - first:
+      213: 3683458715461942520
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_222
+  - first:
+      213: 3161919031198247106
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_223
+  - first:
+      213: 6438674342431420786
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_224
+  - first:
+      213: -5843525860124263019
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_225
+  - first:
+      213: 5454733440328783821
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_226
+  - first:
+      213: 1014965421559226300
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_227
+  - first:
+      213: -1033190319307995165
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_228
+  - first:
+      213: -1232821844586072263
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_229
+  - first:
+      213: 1698456686168596688
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_230
+  - first:
+      213: 4746008965651039999
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_231
+  - first:
+      213: 6648864432193117961
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_232
+  - first:
+      213: -3439768300799924488
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_233
+  - first:
+      213: -1956289795148131657
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_234
+  - first:
+      213: -4739576504144252403
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_235
+  - first:
+      213: 6201656941682695433
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_236
+  - first:
+      213: 2336064065289581187
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_237
+  - first:
+      213: 3598738141707088979
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_238
+  - first:
+      213: -966101557669243530
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_239
+  - first:
+      213: 5014782603218485658
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_240
+  - first:
+      213: -8291174227248219326
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_241
+  - first:
+      213: 7741514167090912418
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_242
+  - first:
+      213: 356413335839184302
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_243
+  - first:
+      213: -6884302050526222602
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_244
+  - first:
+      213: -5956620850171491783
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_245
+  - first:
+      213: -8233921630087899276
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_246
+  - first:
+      213: -1447522886930460370
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_247
+  - first:
+      213: 2092402811553377202
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_248
+  - first:
+      213: 7424663071046864443
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_249
+  - first:
+      213: -6975597301810300841
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_250
+  - first:
+      213: -3259252821293781485
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_251
+  - first:
+      213: 4237775811668162100
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_252
+  - first:
+      213: 5696680656917746526
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_253
+  - first:
+      213: -8834082379552564281
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_254
+  - first:
+      213: 7108640964157677920
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_255
+  - first:
+      213: -4286497757170717308
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_256
+  - first:
+      213: -4055383865451086602
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_257
+  - first:
+      213: -8840051506242811206
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_258
+  - first:
+      213: 263887822685439438
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_259
+  - first:
+      213: 8911876077098137477
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_260
+  - first:
+      213: 336210564563497239
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_261
+  - first:
+      213: -5418485895614005135
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_262
+  - first:
+      213: -6665482577355303926
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_263
+  - first:
+      213: 8218228123946165067
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_264
+  - first:
+      213: -9002749953032287751
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_265
+  - first:
+      213: -8645401541166821201
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_266
+  - first:
+      213: 8789561597335613230
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_267
+  - first:
+      213: 5463853380455578542
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_268
+  - first:
+      213: -3418612956431826177
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_269
+  - first:
+      213: -4900098154170601805
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_270
+  - first:
+      213: -4879344581937416978
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_271
+  - first:
+      213: -2296386019382755735
+    second: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_272
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 8549
+        width: 244
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ce1745bad8b2b70800000000000000
+      internalID: 8875343257659370623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 8513
+        width: 1296
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a137cb30924af2650800000000000000
+      internalID: 6210362907230499610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8378
+        width: 95
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79f26213e5927b70800000000000000
+      internalID: 8895337016508742011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 8378
+        width: 95
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a186988e44f05a0800000000000000
+      internalID: -6552943167272379845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8378
+        width: 95
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46784c81ede4be220800000000000000
+      internalID: 2516191532621793124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8240
+        width: 95
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659038bc1ff7ed830800000000000000
+      internalID: 4097853387431938390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 8240
+        width: 95
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff61d86f151a8c40800000000000000
+      internalID: 5515243918315319283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8240
+        width: 95
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c333214a80f6080800000000000000
+      internalID: -9192118813666886646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 8240
+        width: 95
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc1cab0fb8b4d990800000000000000
+      internalID: -7362056360169825076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8105
+        width: 99
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca9f5c65a6e1f930800000000000000
+      internalID: 4175371927711357642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8105
+        width: 97
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1551148172acdb920800000000000000
+      internalID: 3007782395412813137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8105
+        width: 97
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a3e740373dea050800000000000000
+      internalID: 5813816659931970155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_12
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 8105
+        width: 95
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9be9a9e6ecd62a0800000000000000
+      internalID: -6742506092667946581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7975
+        width: 107
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76704496f2c5e130800000000000000
+      internalID: 3595494241830205052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 7975
+        width: 106
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c45750ddca038990800000000000000
+      internalID: -7385047084877523770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 7975
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073e569c7f39b0fe0800000000000000
+      internalID: -1221720181455854736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_16
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 7975
+        width: 101
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d8c09ca424810f0800000000000000
+      internalID: -1146093216197735162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 7975
+        width: 97
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6167ba4ef6da52950800000000000000
+      internalID: 6423731139603297814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_18
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 7975
+        width: 96
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d1a0a80bb605000800000000000000
+      internalID: 22636404111187336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7839
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bc173f8a66345b0800000000000000
+      internalID: -5385347853580121309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 7838
+        width: 97
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beeb8619c652cdd0800000000000000
+      internalID: -2467314224178925903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 7838
+        width: 96
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119ffe4be60e925c0800000000000000
+      internalID: -4239610808105961199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7726
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c397765fbcfe490800000000000000
+      internalID: -7714723381798945663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 7724
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb58d7d4dbafb3fc0800000000000000
+      internalID: -3513939393276705348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 7723
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63eb565a946b3db0800000000000000
+      internalID: -4811141162878639254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7587
+        width: 72
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c365a1525fc859910800000000000000
+      internalID: 1843534606995445308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 7577
+        width: 65
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d311e20e237bf80800000000000000
+      internalID: -8090942267120861855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 7577
+        width: 59
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89ed9a21851feef0800000000000000
+      internalID: -76819024132052597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7412
+        width: 101
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2033b1c9c93aadf60800000000000000
+      internalID: 8059934376162177794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_29
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 7408
+        width: 71
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1447c2a495e4cc050800000000000000
+      internalID: 5822114563686691905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 7415
+        width: 79
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6194acdd243168590800000000000000
+      internalID: -7672423737269270250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_31
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 7439
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7a2fc2439cf3650800000000000000
+      internalID: 6214907236724156322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_32
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 7428
+        width: 76
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd33705e84094bb0800000000000000
+      internalID: -4951421306035552813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_33
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 7412
+        width: 61
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5159fffc1770274d0800000000000000
+      internalID: -3138437804921481963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_34
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 7410
+        width: 55
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061bdb8f18b7cdf40800000000000000
+      internalID: 5754610222026830176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_35
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 7412
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3782ea65de7595ed0800000000000000
+      internalID: -2424810247489181581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7290
+        width: 105
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe2ee65f0e1ed870800000000000000
+      internalID: 8709431780612910837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 7287
+        width: 90
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4070cf00c3891e9b0800000000000000
+      internalID: -5052589923451009276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 7284
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15199aceb7add360800000000000000
+      internalID: 7196092217492575519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_39
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 7292
+        width: 83
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a2bb77a38e4ad40800000000000000
+      internalID: 5594851974915500626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7166
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc95f9ba77cb5be0800000000000000
+      internalID: -1487375921995998022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_41
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 7195
+        width: 139
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286dd91466e019390800000000000000
+      internalID: -7813448046160783742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 7155
+        width: 75
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f061443d00d74e3d0800000000000000
+      internalID: -3178277994518800881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7002
+        width: 115
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d233033dbaedb99e0800000000000000
+      internalID: -1613451211918265555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_44
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 7022
+        width: 138
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a0ece96d168a740800000000000000
+      internalID: 5163484547195472409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_45
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 7006
+        width: 86
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759b8834080c8f2c0800000000000000
+      internalID: -4397553379005908649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_46
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 6894
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93071d14a7a0b2870800000000000000
+      internalID: 8659026228756443193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_47
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 6924
+        width: 166
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5183c6e262f97c0800000000000000
+      internalID: -4062486358038932060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_48
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 6894
+        width: 105
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7cc8c3b96bddfc0800000000000000
+      internalID: -3468415360153368628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 6739
+        width: 58
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf05097b264065d0800000000000000
+      internalID: -3071377793338765347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_50
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 6739
+        width: 56
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da874685aad4ed00800000000000000
+      internalID: 1001165421640387286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_51
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 6740
+        width: 72
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0248c3439838fa7f0800000000000000
+      internalID: -599115600106847200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_52
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 6744
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a10cb923e0c6c50800000000000000
+      internalID: 6659713559498332776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_53
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 6744
+        width: 100
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243e21e2780a70610800000000000000
+      internalID: 1587413896125408066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_54
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 6608
+        width: 87
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eba45c296d140230800000000000000
+      internalID: 3604037939355757543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_55
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 6607
+        width: 144
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbf6ba869e28c560800000000000000
+      internalID: 7334163217280072695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_56
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 6608
+        width: 132
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee1f827473f87af0800000000000000
+      internalID: -398300885558550808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_57
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 6609
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bbea93ee4daef90800000000000000
+      internalID: -6923487357493658729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_58
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6451
+        width: 94
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1f80d26f35bfbf0800000000000000
+      internalID: -289545434252643897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_59
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6447
+        width: 100
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0b7196c361ab6f0800000000000000
+      internalID: -668197145994088217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_60
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 6441
+        width: 151
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c9f4c69a5570f20800000000000000
+      internalID: 3388771430774578334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_61
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 6443
+        width: 152
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b67595c304f7e820800000000000000
+      internalID: 2947592778174265012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_62
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 6455
+        width: 118
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0e5f514b51b4040800000000000000
+      internalID: 4632820504887419123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_63
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 6453
+        width: 88
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c061407a8600fce0800000000000000
+      internalID: -1373590694689414975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_64
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 6441
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68499cc8002ef0390800000000000000
+      internalID: -7849807133493586810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_65
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 6302
+        width: 100
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed5e3a4ac637bc00800000000000000
+      internalID: 916261291650080226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_66
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 6302
+        width: 98
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e18b217a958033c0800000000000000
+      internalID: -4381855539061358103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_67
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 6302
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5878b6d4bd88ba590800000000000000
+      internalID: -7661879865562658939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_68
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 6303
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9728d33d362420070800000000000000
+      internalID: 8071086478714569337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_69
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 6303
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9ce80608062b130800000000000000
+      internalID: 3581030758205016527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_70
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 6303
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bcb4fbf9846d400800000000000000
+      internalID: 348545872114207489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_71
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 6183
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68e9b7a79f180f10800000000000000
+      internalID: 2236071951203952750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_72
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6183
+        width: 134
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6615963abfa4470800000000000000
+      internalID: 8379786735941412513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 6183
+        width: 132
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ead1b28cdb8d2e0800000000000000
+      internalID: -2100720558753862087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_74
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 6183
+        width: 107
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09561a447896fdd30800000000000000
+      internalID: 4458398185813009808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_75
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 6001
+        width: 102
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af1f524e583dc260800000000000000
+      internalID: 7119408563434233769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 6002
+        width: 70
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3734022e73cfe5e00800000000000000
+      internalID: 1035542281288958835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_77
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 6001
+        width: 65
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57120f52680658060800000000000000
+      internalID: 6955071328821977461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_78
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 6003
+        width: 70
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0194a0e8f7e49400800000000000000
+      internalID: 330143728811675914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_79
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 6003
+        width: 93
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d130f71bbc2c8320800000000000000
+      internalID: 2561471470139093462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_80
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 6000
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa52d3008c5043140800000000000000
+      internalID: 4698386667809875370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_81
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 5890
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc77becdc060fdd0800000000000000
+      internalID: -2454355359864226634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_82
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 5894
+        width: 117
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee81df8c1648be90800000000000000
+      internalID: -7009775731516272913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_83
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 5889
+        width: 173
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340a4e442c57b36a0800000000000000
+      internalID: -6468446962547646397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_84
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 5889
+        width: 173
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969756a6bf190eb70800000000000000
+      internalID: 8926294970456177001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_85
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 5893
+        width: 141
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7065390e82fc6b8c0800000000000000
+      internalID: -3983769045889231353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_86
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 5893
+        width: 115
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcbe2b9b994c17c0800000000000000
+      internalID: -4099320628141703977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_87
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 5736
+        width: 85
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b61ae56f20b7b50800000000000000
+      internalID: 6591865736759700320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_88
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 5764
+        width: 151
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c52d3b9b04c51b0800000000000000
+      internalID: -5666583064808891371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_89
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 5758
+        width: 110
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951c4c24abed2d2e0800000000000000
+      internalID: -2102373184463126183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_90
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 5753
+        width: 80
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c2e6b83b92d4f50800000000000000
+      internalID: 6867190857925012622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_91
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 5593
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0759808e28d7c480800000000000000
+      internalID: -8878890446101063926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_92
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5613
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8319a1628a3853c40800000000000000
+      internalID: 5491440078865207608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_93
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 5620
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e02ac9eac07b7d40800000000000000
+      internalID: 5583180179863904485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_94
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 5595
+        width: 99
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60395d9c20a0900d0800000000000000
+      internalID: -3456220231937715450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_95
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 5591
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae26b2bd05c937e10800000000000000
+      internalID: 2194269314547933930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_96
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 5582
+        width: 73
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637518d886c464f30800000000000000
+      internalID: 4559415684693579574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_97
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5453
+        width: 89
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43d37eeaedd5d750800000000000000
+      internalID: 6329208852431754063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_98
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 5450
+        width: 91
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67667b16a30ef8710800000000000000
+      internalID: 1697822125894100598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_99
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 5439
+        width: 85
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b885b0d476de9a4c0800000000000000
+      internalID: -4275625343281571701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_100
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 5439
+        width: 107
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f72e99b963a27d30800000000000000
+      internalID: 4427781058139662323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_101
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 5442
+        width: 109
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0070561e4112970800000000000000
+      internalID: 8728280511115886809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_102
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 5442
+        width: 89
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9991080ffa4563f0800000000000000
+      internalID: -908237290633848417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4947
+        width: 448
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223e08212bd211390800000000000000
+      internalID: -7849442432692198622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_104
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 5289
+        width: 78
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc5616fb751bdb10800000000000000
+      internalID: 2007221681077509337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_105
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 5133
+        width: 124
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a701487ec0cfdc3a0800000000000000
+      internalID: -6643376742947614598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_106
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 5133
+        width: 107
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9633d58d978585750800000000000000
+      internalID: 6293877759594541929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_107
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 5136
+        width: 79
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457ca4ec9eb6b7af0800000000000000
+      internalID: -397605490159597740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_108
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 4801
+        width: 127
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083a145ed10d294e0800000000000000
+      internalID: -1976288459643313280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_109
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 5033
+        width: 110
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bbb32a965958c60800000000000000
+      internalID: 7819820608924662677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_110
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 5033
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b6716da8779b110800000000000000
+      internalID: 1277183407517297502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_111
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 4948
+        width: 180
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d010caf5ae0d04d0800000000000000
+      internalID: -3166858856932306727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4734
+        width: 50
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca07341bec75a23e0800000000000000
+      internalID: -2077751732829196116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_113
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 4800
+        width: 105
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1022c1cac47107cd0800000000000000
+      internalID: -2562522569901334015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_114
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 4800
+        width: 132
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464eddbb494a2c6e0800000000000000
+      internalID: -1818710340790262684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_115
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 4801
+        width: 96
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6a89219cff682c0800000000000000
+      internalID: -4429571944406800645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_116
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 4803
+        width: 129
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb83cef117e4815b0800000000000000
+      internalID: -5397477905629693764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_117
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 4803
+        width: 128
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa159f0a464a929c0800000000000000
+      internalID: -3951446445936520790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_118
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4663
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f176edda29354010800000000000000
+      internalID: 1172406134274159092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_119
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 4660
+        width: 208
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104773dbcf90a9f00800000000000000
+      internalID: 1124222038093296641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_120
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 4669
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d49b44fe0935b570800000000000000
+      internalID: 8481748209613116631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_121
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 4669
+        width: 146
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fc058fde5853b80800000000000000
+      internalID: -8415673071552114843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_122
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 4669
+        width: 141
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3263364aa6aeb21c0800000000000000
+      internalID: -4527267256645503453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_123
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 4669
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0150f215366924d0800000000000000
+      internalID: -3158881285486653174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4338
+        width: 128
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cd8d983658355b0800000000000000
+      internalID: -5380810467216663396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_125
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 4518
+        width: 95
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2609bcdf39dec3b80800000000000000
+      internalID: -8413588783960977310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_126
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 4660
+        width: 58
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1f314a4a3e21ee0800000000000000
+      internalID: -1291719846834998832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_127
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4504
+        width: 80
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0282e2a07b5fbd0800000000000000
+      internalID: -2596968355757285169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_128
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 4547
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b7e892675056da0800000000000000
+      internalID: -5952345327438759030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_129
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 4552
+        width: 130
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d603221a3f48b320800000000000000
+      internalID: 2573894297873221336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_130
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 4556
+        width: 124
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8889c4cd7d059e4f0800000000000000
+      internalID: -799018570837354360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_131
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 4544
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0381c0a92d24004e0800000000000000
+      internalID: -2017539160766932944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3630
+        width: 108
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc564ff8a67b39df0800000000000000
+      internalID: -174594292227742260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_133
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 4338
+        width: 82
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d23e621db7862b0800000000000000
+      internalID: -5591082799149667033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_134
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 4338
+        width: 104
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089521ee0f44f3250800000000000000
+      internalID: 5926531436219881856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_135
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 4337
+        width: 105
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5539d8875bb9d3da0800000000000000
+      internalID: -5963439127854738603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_136
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 4338
+        width: 107
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cddadcbf4263260800000000000000
+      internalID: 7076884528365427867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_137
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 4334
+        width: 117
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785e7367cd4bad5c0800000000000000
+      internalID: -4189837644345645689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_138
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 4193
+        width: 88
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e95bb7fc0d2ec490800000000000000
+      internalID: -7724186777174713879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_139
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4186
+        width: 89
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be92f18de78f037c0800000000000000
+      internalID: -4093498837604292117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_140
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 4180
+        width: 88
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d94b92fa32024410800000000000000
+      internalID: 1459731681423083993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_141
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 4183
+        width: 96
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f93f862bb4abff0800000000000000
+      internalID: -19620018732687559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_142
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 4187
+        width: 99
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ef33129eec91010800000000000000
+      internalID: 1160185879704370798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_143
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4047
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526e7ab66dd6f96c0800000000000000
+      internalID: -4134465165206231515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_144
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4052
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5479c8142046e1610800000000000000
+      internalID: 1593821278988179269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_145
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 4050
+        width: 138
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513992fb85bf5c720800000000000000
+      internalID: 2865973096474055445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_146
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 4055
+        width: 137
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c81641a7e87baf0800000000000000
+      internalID: -380678988510426097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_147
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 4059
+        width: 128
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eb670c771cdbf30800000000000000
+      internalID: 4593039915062050386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_148
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 4050
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cebc859313bdf050800000000000000
+      internalID: 5836017588836810436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_149
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3902
+        width: 89
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa5d5c941b81aa70800000000000000
+      internalID: 8836496864516594345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_150
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3901
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02594bfc954063e90800000000000000
+      internalID: -7046439783191243488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_151
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3903
+        width: 105
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b170a9bd7e1c96d80800000000000000
+      internalID: -8256855240241182949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_152
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3903
+        width: 108
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2bc67ca9ce20a00800000000000000
+      internalID: 721399039847609081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_153
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 3903
+        width: 109
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6efe142933714e0800000000000000
+      internalID: -2011082005333154125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_154
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 3904
+        width: 102
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab7a98645d991140800000000000000
+      internalID: 4690953472740850592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_155
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3763
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7379c059bb742600800000000000000
+      internalID: 442614699243697019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_156
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3761
+        width: 117
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720f69b1c10317b10800000000000000
+      internalID: 1977414608672452647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_157
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3763
+        width: 94
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28475c1b09f5fc450800000000000000
+      internalID: 6111208294427489410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_158
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3791
+        width: 110
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fbf50bbd6eea9e0800000000000000
+      internalID: -1608094185693397150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_159
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 3744
+        width: 72
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9495c65c20466de00800000000000000
+      internalID: 1069151924611995977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_160
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3568
+        width: 73
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277fc96d6f72f4a10800000000000000
+      internalID: 1895777909262317426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_161
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3571
+        width: 93
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c29d866a813891c0800000000000000
+      internalID: -4496789757433638201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_162
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3570
+        width: 76
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca3b0f1943eb9c30800000000000000
+      internalID: 4367334166858775232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_163
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 3570
+        width: 69
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43185de9fd24e0f0800000000000000
+      internalID: -1088694658464738486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_164
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 3581
+        width: 97
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2851b7ddd66e44a90800000000000000
+      internalID: -7330480933910669950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_165
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3585
+        width: 107
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f588381ed25976d0800000000000000
+      internalID: -2992269363568409104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_166
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 3589
+        width: 112
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0d9ba17bea5eea0800000000000000
+      internalID: -5844072839992717140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_167
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 3582
+        width: 94
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d34003e59b4c0220800000000000000
+      internalID: 2453419004140733401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_168
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 3573
+        width: 93
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5724340c7d08500800000000000000
+      internalID: 396553987970725280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_169
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3465
+        width: 124
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6f03fa5ec7a5ab0800000000000000
+      internalID: -5018561508822419767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_170
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3470
+        width: 132
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0036bfb43a7eb030800000000000000
+      internalID: 3512379126368841741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_171
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 3464
+        width: 138
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a952804129da0cab0800000000000000
+      internalID: -4989797544213600870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_172
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 3458
+        width: 165
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bdad169e1bc6670800000000000000
+      internalID: 8533391009887476506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_173
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 3455
+        width: 171
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771d29dd36464f2d0800000000000000
+      internalID: -3245859051345358473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_174
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 3437
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48034abfd340c5f10800000000000000
+      internalID: 2259685777294504068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_175
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3283
+        width: 92
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db5170a2fa963630800000000000000
+      internalID: 3906480093655030739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_176
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 3277
+        width: 94
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dda8cb045727470800000000000000
+      internalID: 8390897976646229287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_177
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3277
+        width: 68
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621d6edec56663fb0800000000000000
+      internalID: -4668431414408589018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_178
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3145
+        width: 101
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63defdbd9265ed50800000000000000
+      internalID: 6765922444831019884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_179
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3146
+        width: 133
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377a41dddaf0e8900800000000000000
+      internalID: 688505032447141747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_180
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 3143
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e267801866c29070800000000000000
+      internalID: 8111764029103891177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_181
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3144
+        width: 86
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fb31f9adcea24f0800000000000000
+      internalID: -852608755717390540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_182
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 3142
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318eac7f87d08f850800000000000000
+      internalID: 6410888882766407699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_183
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 3137
+        width: 96
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f195374d6ad2a4b0800000000000000
+      internalID: -5430538037774413327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2469
+        width: 560
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702bb56745491d5b0800000000000000
+      internalID: -5345328192228183545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_185
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2960
+        width: 77
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a95e19e5541ed30800000000000000
+      internalID: 4458921378550487578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_186
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2974
+        width: 69
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2d17e2ce2770d70800000000000000
+      internalID: 9009295938295026372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_187
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2980
+        width: 82
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f2a675b7d7a8ca0800000000000000
+      internalID: -6013856383698849962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_188
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2979
+        width: 114
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cd9a48404859df0800000000000000
+      internalID: -174087855643435939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_189
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2993
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2181f357407f720a0800000000000000
+      internalID: -6906279905030367214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_190
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2991
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c926d2aed208d4c20800000000000000
+      internalID: 3192348645566276252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_191
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2975
+        width: 92
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566f7f60ff7b23710800000000000000
+      internalID: 1671600717669332581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_192
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2800
+        width: 92
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53051cf5f29ff920800000000000000
+      internalID: 3026299059810141020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_193
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 2800
+        width: 74
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57528b6f3bbac7c20800000000000000
+      internalID: 3205625824207709557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_194
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2812
+        width: 104
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0567084b9690b15c0800000000000000
+      internalID: -4243787874262026672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_195
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 2796
+        width: 102
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679ef1a6704afc4b0800000000000000
+      internalID: -5417931474951214730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_196
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 2800
+        width: 113
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266e44d12afcc1660800000000000000
+      internalID: 7357984186399254114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_197
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 2797
+        width: 97
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10df8fbf343e04330800000000000000
+      internalID: 3693201575573519617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_198
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 2796
+        width: 91
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2206d80939e2c90800000000000000
+      internalID: -7192649305807641936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_199
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2631
+        width: 122
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110859b16d5662050800000000000000
+      internalID: 5775415542409429009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_200
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2631
+        width: 117
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ada9dc7fdd4f910800000000000000
+      internalID: 1870363801641736805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_201
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2336
+        width: 95
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca89870502bebb60800000000000000
+      internalID: 7763838542304348879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_202
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2338
+        width: 81
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d8afe2173cde780800000000000000
+      internalID: -8652044418221961926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_203
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2336
+        width: 76
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd16db4f08ccdc430800000000000000
+      internalID: 3804922114431869404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_204
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2338
+        width: 81
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e21b491dd4931750800000000000000
+      internalID: 6274522383190266601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_205
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2195
+        width: 85
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b09a28ee5014a480800000000000000
+      internalID: -8888961764714442572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_206
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2196
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a5c35b49b5cd2a0800000000000000
+      internalID: -6711388650434962854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_207
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2065
+        width: 71
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb9447bd2ffd7de0800000000000000
+      internalID: -1333629342818460736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_208
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2066
+        width: 73
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb552e023e708f90800000000000000
+      internalID: -6953419071209251905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_209
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1923
+        width: 101
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701dd2b7211972bd0800000000000000
+      internalID: -2654993946749579001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_210
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1924
+        width: 93
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762fda8cbf573ee20800000000000000
+      internalID: 3378673869722088039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_211
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1925
+        width: 85
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59888ee7c7656f040800000000000000
+      internalID: 4681023955403311253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_212
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1925
+        width: 82
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66429f98ca49de610800000000000000
+      internalID: 1652140107084932198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_213
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1786
+        width: 92
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08bb16609fdbc1a0800000000000000
+      internalID: -6788086202049513458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_214
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1787
+        width: 88
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3eb82d7283a5510800000000000000
+      internalID: 1538603966387708907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_215
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1660
+        width: 83
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6a7b4e9a4755800800000000000000
+      internalID: 600514398359365355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_216
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1659
+        width: 79
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dcfbe9edce51480800000000000000
+      internalID: -8928970245301875358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_217
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1544
+        width: 119
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4778f2e5f969170800000000000000
+      internalID: 8184904599665603780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_218
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1542
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd342c815fb3d6db0800000000000000
+      internalID: -4797112104211299364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_219
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1542
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc64541b67dc39080800000000000000
+      internalID: -9181769305614367027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_220
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1542
+        width: 114
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b307e6fedb4b43b0800000000000000
+      internalID: -5527240696669994057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_221
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1426
+        width: 105
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7cf72655308d5e0800000000000000
+      internalID: -1884752778794907678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_222
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1425
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcfce79f264e1330800000000000000
+      internalID: 3683458715461942520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_223
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1411
+        width: 12
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c86e173b9461eb20800000000000000
+      internalID: 3161919031198247106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_224
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1315
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271fb0d6334ca5950800000000000000
+      internalID: 6438674342431420786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_225
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1313
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dfb77c030a7eea0800000000000000
+      internalID: -5843525860124263019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_226
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1188
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7dd3fd92b13bb40800000000000000
+      internalID: 5454733440328783821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_227
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1224
+        width: 133
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf97536ca1e51e00800000000000000
+      internalID: 1014965421559226300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_228
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1204
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e74640f0ee59a1f0800000000000000
+      internalID: -1033190319307995165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_229
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1235
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937fa1a601324eee0800000000000000
+      internalID: -1232821844586072263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_230
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1057
+        width: 88
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d067757b51229710800000000000000
+      internalID: 1698456686168596688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_231
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1058
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6037242063dd140800000000000000
+      internalID: 4746008965651039999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_232
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1056
+        width: 81
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f999059f2854c50800000000000000
+      internalID: 6648864432193117961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_233
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1055
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6eb2184fc7340d0800000000000000
+      internalID: -3439768300799924488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_234
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 925
+        width: 111
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b25972dbccd9d4e0800000000000000
+      internalID: -1956289795148131657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_235
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 924
+        width: 90
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02b1b4e744a93eb0800000000000000
+      internalID: -4739576504144252403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_236
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 951
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d15d37126b01650800000000000000
+      internalID: 6201656941682695433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_237
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 956
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382f320f3ed5b6020800000000000000
+      internalID: 2336064065289581187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_238
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 810
+        width: 152
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354b910e54941f130800000000000000
+      internalID: 3598738141707088979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_239
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 813
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6755c2e70c7b792f0800000000000000
+      internalID: -966101557669243530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_240
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 799
+        width: 153
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9185aa4536189540800000000000000
+      internalID: 5014782603218485658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_241
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 806
+        width: 143
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bfef508f4dfec80800000000000000
+      internalID: -8291174227248219326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_242
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 811
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac9b116e126f6b60800000000000000
+      internalID: 7741514167090912418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_243
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 811
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea518e36a0c32f400800000000000000
+      internalID: 356413335839184302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_244
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 811
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f624e772cb0670a0800000000000000
+      internalID: -6884302050526222602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_245
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 633
+        width: 69
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ac7d375e4d55da0800000000000000
+      internalID: -5956620850171491783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_246
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 633
+        width: 61
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477943217eb3bbd80800000000000000
+      internalID: -8233921630087899276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_247
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 633
+        width: 61
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2113488a9d59ebe0800000000000000
+      internalID: -1447522886930460370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_248
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 632
+        width: 61
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbeaa56545b90d10800000000000000
+      internalID: 2092402811553377202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_249
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 632
+        width: 61
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e85beb9b3b90760800000000000000
+      internalID: 7424663071046864443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_250
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 632
+        width: 60
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7587c695633b13f90800000000000000
+      internalID: -6975597301810300841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_251
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 632
+        width: 62
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e2899c3dec4c2d0800000000000000
+      internalID: -3259252821293781485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_252
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 632
+        width: 62
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4363934e5aa9fca30800000000000000
+      internalID: 4237775811668162100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_253
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 632
+        width: 62
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53db6a00ecae0f40800000000000000
+      internalID: 5696680656917746526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_254
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 633
+        width: 74
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb5b3a71e8076580800000000000000
+      internalID: -8834082379552564281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_255
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 475
+        width: 78
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061a8603b47f6a260800000000000000
+      internalID: 7108640964157677920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_256
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 474
+        width: 77
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48da45d200d4384c0800000000000000
+      internalID: -4286497757170717308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_257
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 473
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcffe75cd168b7c0800000000000000
+      internalID: -4055383865451086602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_258
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 473
+        width: 79
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba8d3eddf3d15580800000000000000
+      internalID: -8840051506242811206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_259
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 473
+        width: 78
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec587bb939489a300800000000000000
+      internalID: 263887822685439438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_260
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 306
+        width: 61
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5877cb133185dab70800000000000000
+      internalID: 8911876077098137477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_261
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 306
+        width: 60
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7117a862ab57aa400800000000000000
+      internalID: 336210564563497239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_262
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 306
+        width: 61
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170867b49cbadc4b0800000000000000
+      internalID: -5418485895614005135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_263
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 309
+        width: 84
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a049e2049e27f73a0800000000000000
+      internalID: -6665482577355303926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_264
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 311
+        width: 91
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43afeacfe20d0270800000000000000
+      internalID: 8218228123946165067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_265
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 306
+        width: 61
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f988d7cd9ecf0380800000000000000
+      internalID: -9002749953032287751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_266
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 306
+        width: 61
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa013268a1d550880800000000000000
+      internalID: -8645401541166821201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_267
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 306
+        width: 59
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2faa9424bbcaf970800000000000000
+      internalID: 8789561597335613230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_268
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 306
+        width: 61
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab3fd663b183db40800000000000000
+      internalID: 5463853380455578542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_269
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 156
+        width: 105
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff24553f0a5ae80d0800000000000000
+      internalID: -3418612956431826177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_270
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 156
+        width: 105
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be2d1cc0ba5ffbb0800000000000000
+      internalID: -4900098154170601805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_271
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 92
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4b4e064f5194cb0800000000000000
+      internalID: -4879344581937416978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Dragon Ball Z Extreme Butoden - Goku Super Saiyan Blue_272
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 95
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e748705199120e0800000000000000
+      internalID: -2296386019382755735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

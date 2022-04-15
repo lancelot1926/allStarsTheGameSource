@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 9505154bf5e6ee749ac79bc2895b080a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6355107915898757749
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_0
+  - first:
+      213: -3488448044370569722
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_1
+  - first:
+      213: -7662930034426634867
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_2
+  - first:
+      213: 7133443899591567225
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_3
+  - first:
+      213: -6134532744917937936
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_4
+  - first:
+      213: 4514317299633915270
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_5
+  - first:
+      213: 2101416985658778306
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_6
+  - first:
+      213: -2711810137433140933
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_7
+  - first:
+      213: 5926949844380417815
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_8
+  - first:
+      213: -561790846829840544
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_9
+  - first:
+      213: -2711988850868551714
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_10
+  - first:
+      213: 4025895620878449034
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_11
+  - first:
+      213: -8241269164970077588
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_12
+  - first:
+      213: 7020592688273515799
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_13
+  - first:
+      213: 480154255672402774
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_14
+  - first:
+      213: 6841408330334756570
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_15
+  - first:
+      213: 6382211035785867358
+    second: Mobile - Final Sky Cross Summoner - Blue Goblin_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 228
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5722b6c8af0e13850800000000000000
+      internalID: 6355107915898757749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 228
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606d2e97cfa869fc0800000000000000
+      internalID: -3488448044370569722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 228
+        width: 79
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d145fcbbdc7a590800000000000000
+      internalID: -7662930034426634867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 228
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977255c9e651ff260800000000000000
+      internalID: 7133443899591567225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 228
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f01a2c78f2cddaa0800000000000000
+      internalID: -6134532744917937936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_5
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 228
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68584188aa316ae30800000000000000
+      internalID: 4514317299633915270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_6
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 228
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2e92b5d9bb92d10800000000000000
+      internalID: 2101416985658778306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 117
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b319efb3c07bd5ad0800000000000000
+      internalID: -2711810137433140933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 117
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ff9db2b71c04250800000000000000
+      internalID: 5926949844380417815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 117
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06734a8833e1438f0800000000000000
+      internalID: -561790846829840544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 117
+        width: 106
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edff82542841d5ad0800000000000000
+      internalID: -2711988850868551714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_11
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 117
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89b241bcbaded730800000000000000
+      internalID: 4025895620878449034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62149bcb5121ad80800000000000000
+      internalID: -8241269164970077588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 9
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7156f317ad72e6160800000000000000
+      internalID: 7020592688273515799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 9
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653eeb660c9d9a600800000000000000
+      internalID: 480154255672402774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 9
+        width: 106
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade500d01a091fe50800000000000000
+      internalID: 6841408330334756570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Blue Goblin_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 9
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5038956f1b229850800000000000000
+      internalID: 6382211035785867358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

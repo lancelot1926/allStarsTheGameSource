@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 8265dc5948de4a24b8e75d543e4136c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4699715322442203744
+    second: DS DSi - Children of Mana - Blood Owl_0
+  - first:
+      213: -6941366071242036765
+    second: DS DSi - Children of Mana - Blood Owl_1
+  - first:
+      213: -486867301798939427
+    second: DS DSi - Children of Mana - Blood Owl_2
+  - first:
+      213: -5027648451900490937
+    second: DS DSi - Children of Mana - Blood Owl_3
+  - first:
+      213: -2469835675080681352
+    second: DS DSi - Children of Mana - Blood Owl_4
+  - first:
+      213: -5419898205651994409
+    second: DS DSi - Children of Mana - Blood Owl_5
+  - first:
+      213: 1097857426372283098
+    second: DS DSi - Children of Mana - Blood Owl_6
+  - first:
+      213: -587386965348843369
+    second: DS DSi - Children of Mana - Blood Owl_7
+  - first:
+      213: 3565427462435292200
+    second: DS DSi - Children of Mana - Blood Owl_8
+  - first:
+      213: 5971137002102113543
+    second: DS DSi - Children of Mana - Blood Owl_9
+  - first:
+      213: -1679869136548581659
+    second: DS DSi - Children of Mana - Blood Owl_10
+  - first:
+      213: 1655977163738551198
+    second: DS DSi - Children of Mana - Blood Owl_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Blood Owl_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 96
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5143994, y: 0.43264845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad3f5c70d147ceb0800000000000000
+      internalID: -4699715322442203744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Blood Owl_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 95
+        width: 34
+        height: 32
+      alignment: 9
+      pivot: {x: 0.500714, y: 0.419559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e96babc5505baf90800000000000000
+      internalID: -6941366071242036765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Blood Owl_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 93
+        width: 33
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.42062497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4758fb4cc4e39f0800000000000000
+      internalID: -486867301798939427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Blood Owl_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 94
+        width: 34
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.41999984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bbde0ee543a3ab0800000000000000
+      internalID: -5027648451900490937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Blood Owl_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 52
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.50456965, y: 0.8267374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8789a3d0a8169bdd0800000000000000
+      internalID: -2469835675080681352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Blood Owl_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 52
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.50149816, y: 0.87910384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8f55d3c47a8c4b0800000000000000
+      internalID: -5419898205651994409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Blood Owl_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 52
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.50563955, y: 0.8152214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adac1f8338f5c3f00800000000000000
+      internalID: 1097857426372283098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Blood Owl_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 53
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5078716, y: 0.84201837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79000b8caae29d7f0800000000000000
+      internalID: -587386965348843369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Blood Owl_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.9450926, y: 0.4969772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824c0eaf261fa7130800000000000000
+      internalID: 3565427462435292200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Blood Owl_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 10
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.9484392, y: 0.49848858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705cc7b877dbdd250800000000000000
+      internalID: 5971137002102113543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Blood Owl_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 9
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.94718224, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee21eeabe7efa8e0800000000000000
+      internalID: -1679869136548581659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Blood Owl_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 10
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.94600135, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e939bc8e4763bf610800000000000000
+      internalID: 1655977163738551198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

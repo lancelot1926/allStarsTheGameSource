@@ -1,0 +1,7040 @@
+fileFormatVersion: 2
+guid: 0128bf213f0dff546a870beed4bbdaa3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6745195336168181569
+    second: Goku Super Saiyan Blue_0
+  - first:
+      213: 3613216115154751042
+    second: Goku Super Saiyan Blue_1
+  - first:
+      213: -2286602932554882063
+    second: Goku Super Saiyan Blue_4
+  - first:
+      213: 6168433352162430543
+    second: Goku Super Saiyan Blue_5
+  - first:
+      213: 2928025754130629569
+    second: Goku Super Saiyan Blue_6
+  - first:
+      213: 6178270746774328848
+    second: Goku Super Saiyan Blue_7
+  - first:
+      213: 4433356786536428749
+    second: Goku Super Saiyan Blue_8
+  - first:
+      213: -5315180793844271535
+    second: Goku Super Saiyan Blue_9
+  - first:
+      213: -5611488388180374486
+    second: Goku Super Saiyan Blue_10
+  - first:
+      213: -7928810727065002745
+    second: Goku Super Saiyan Blue_11
+  - first:
+      213: -8628005221443030723
+    second: Goku Super Saiyan Blue_12
+  - first:
+      213: -2900079389472938588
+    second: Goku Super Saiyan Blue_13
+  - first:
+      213: 4394140370178510005
+    second: Goku Super Saiyan Blue_14
+  - first:
+      213: -2936585205250823921
+    second: Goku Super Saiyan Blue_15
+  - first:
+      213: -8776378949368639733
+    second: Goku Super Saiyan Blue_16
+  - first:
+      213: -656313211236192695
+    second: Goku Super Saiyan Blue_17
+  - first:
+      213: 7943830533859847891
+    second: Goku Super Saiyan Blue_18
+  - first:
+      213: 1468551119354639383
+    second: Goku Super Saiyan Blue_19
+  - first:
+      213: 1035588624811797653
+    second: Goku Super Saiyan Blue_20
+  - first:
+      213: 3275224892182202124
+    second: Goku Super Saiyan Blue_21
+  - first:
+      213: -6257253238610942231
+    second: Goku Super Saiyan Blue_22
+  - first:
+      213: -6228213601850461301
+    second: Goku Super Saiyan Blue_23
+  - first:
+      213: 5162080476806051831
+    second: Goku Super Saiyan Blue_24
+  - first:
+      213: 4003947811928893191
+    second: Goku Super Saiyan Blue_25
+  - first:
+      213: -3496320837280752505
+    second: Goku Super Saiyan Blue_26
+  - first:
+      213: 8237990096136517475
+    second: Goku Super Saiyan Blue_27
+  - first:
+      213: 9139086465032429618
+    second: Goku Super Saiyan Blue_28
+  - first:
+      213: -1804100453277513750
+    second: Goku Super Saiyan Blue_29
+  - first:
+      213: -721453709052994881
+    second: Goku Super Saiyan Blue_30
+  - first:
+      213: 5542483902849243289
+    second: Goku Super Saiyan Blue_31
+  - first:
+      213: -6261281491292964257
+    second: Goku Super Saiyan Blue_32
+  - first:
+      213: 6290046065867424270
+    second: Goku Super Saiyan Blue_33
+  - first:
+      213: 7907500340044590038
+    second: Goku Super Saiyan Blue_34
+  - first:
+      213: 5283407862096509720
+    second: Goku Super Saiyan Blue_35
+  - first:
+      213: -5976947587250659505
+    second: Goku Super Saiyan Blue_36
+  - first:
+      213: 1859195712685436460
+    second: Goku Super Saiyan Blue_37
+  - first:
+      213: -2551486180152222418
+    second: Goku Super Saiyan Blue_38
+  - first:
+      213: 7131836025914703358
+    second: Goku Super Saiyan Blue_39
+  - first:
+      213: -4594415309072433401
+    second: Goku Super Saiyan Blue_40
+  - first:
+      213: 4003511493127910651
+    second: Goku Super Saiyan Blue_41
+  - first:
+      213: -7336001284774011000
+    second: Goku Super Saiyan Blue_42
+  - first:
+      213: 888841497958108710
+    second: Goku Super Saiyan Blue_43
+  - first:
+      213: -8737729917627394340
+    second: Goku Super Saiyan Blue_44
+  - first:
+      213: -4815793872906396853
+    second: Goku Super Saiyan Blue_45
+  - first:
+      213: 582314965279009748
+    second: Goku Super Saiyan Blue_46
+  - first:
+      213: 3361776200824000399
+    second: Goku Super Saiyan Blue_47
+  - first:
+      213: -1699783434032245961
+    second: Goku Super Saiyan Blue_48
+  - first:
+      213: -2100380661521874206
+    second: Goku Super Saiyan Blue_49
+  - first:
+      213: 1491017947452858599
+    second: Goku Super Saiyan Blue_50
+  - first:
+      213: 7950194317518647960
+    second: Goku Super Saiyan Blue_51
+  - first:
+      213: 169936447517713445
+    second: Goku Super Saiyan Blue_52
+  - first:
+      213: -5656563349263519353
+    second: Goku Super Saiyan Blue_53
+  - first:
+      213: 911845189799638537
+    second: Goku Super Saiyan Blue_54
+  - first:
+      213: -3456460781926854479
+    second: Goku Super Saiyan Blue_55
+  - first:
+      213: -2811080925390087792
+    second: Goku Super Saiyan Blue_56
+  - first:
+      213: -4155602708571771138
+    second: Goku Super Saiyan Blue_57
+  - first:
+      213: 1493423320598825974
+    second: Goku Super Saiyan Blue_58
+  - first:
+      213: -259541325970158167
+    second: Goku Super Saiyan Blue_59
+  - first:
+      213: 416191719341060836
+    second: Goku Super Saiyan Blue_60
+  - first:
+      213: 2021073560030299449
+    second: Goku Super Saiyan Blue_61
+  - first:
+      213: -7886239329037047727
+    second: Goku Super Saiyan Blue_62
+  - first:
+      213: 1002477361232605242
+    second: Goku Super Saiyan Blue_63
+  - first:
+      213: 4649159803612029383
+    second: Goku Super Saiyan Blue_64
+  - first:
+      213: 6378233122495762831
+    second: Goku Super Saiyan Blue_65
+  - first:
+      213: 8115803064099186261
+    second: Goku Super Saiyan Blue_66
+  - first:
+      213: -3311307329554489841
+    second: Goku Super Saiyan Blue_67
+  - first:
+      213: -1483789506277711903
+    second: Goku Super Saiyan Blue_68
+  - first:
+      213: 2353571838507446363
+    second: Goku Super Saiyan Blue_69
+  - first:
+      213: -8299218132208577951
+    second: Goku Super Saiyan Blue_70
+  - first:
+      213: 5546822248602138880
+    second: Goku Super Saiyan Blue_71
+  - first:
+      213: -9054732891531838625
+    second: Goku Super Saiyan Blue_72
+  - first:
+      213: 3428492589916173326
+    second: Goku Super Saiyan Blue_73
+  - first:
+      213: -35578895961942776
+    second: Goku Super Saiyan Blue_74
+  - first:
+      213: 5733865978898033159
+    second: Goku Super Saiyan Blue_75
+  - first:
+      213: -3213912157570224236
+    second: Goku Super Saiyan Blue_76
+  - first:
+      213: 1219418532731503239
+    second: Goku Super Saiyan Blue_77
+  - first:
+      213: -3721924174965549334
+    second: Goku Super Saiyan Blue_78
+  - first:
+      213: 6391677199756312860
+    second: Goku Super Saiyan Blue_79
+  - first:
+      213: 3488422947401131326
+    second: Goku Super Saiyan Blue_80
+  - first:
+      213: -962429741232516864
+    second: Goku Super Saiyan Blue_81
+  - first:
+      213: 825753312332174426
+    second: Goku Super Saiyan Blue_82
+  - first:
+      213: -7868039024120131604
+    second: Goku Super Saiyan Blue_83
+  - first:
+      213: 6431063584459844532
+    second: Goku Super Saiyan Blue_84
+  - first:
+      213: 1374892692759516890
+    second: Goku Super Saiyan Blue_85
+  - first:
+      213: 3025209779545739908
+    second: Goku Super Saiyan Blue_86
+  - first:
+      213: -936808238009701300
+    second: Goku Super Saiyan Blue_87
+  - first:
+      213: 6036525500378887393
+    second: Goku Super Saiyan Blue_88
+  - first:
+      213: -3529039581594034755
+    second: Goku Super Saiyan Blue_89
+  - first:
+      213: 888973280901023610
+    second: Goku Super Saiyan Blue_90
+  - first:
+      213: 121633206619407941
+    second: Goku Super Saiyan Blue_91
+  - first:
+      213: -8846096214088508102
+    second: Goku Super Saiyan Blue_92
+  - first:
+      213: -2554538694916239885
+    second: Goku Super Saiyan Blue_93
+  - first:
+      213: 2157190426471095008
+    second: Goku Super Saiyan Blue_94
+  - first:
+      213: 4692754029829577298
+    second: Goku Super Saiyan Blue_95
+  - first:
+      213: 5097753923477927846
+    second: Goku Super Saiyan Blue_96
+  - first:
+      213: -5709358100447209138
+    second: Goku Super Saiyan Blue_97
+  - first:
+      213: 8634552580454100525
+    second: Goku Super Saiyan Blue_98
+  - first:
+      213: -5300015608404142173
+    second: Goku Super Saiyan Blue_99
+  - first:
+      213: 395218533362722009
+    second: Goku Super Saiyan Blue_100
+  - first:
+      213: -3343681605706474531
+    second: Goku Super Saiyan Blue_101
+  - first:
+      213: 2123245978253940651
+    second: Goku Super Saiyan Blue_102
+  - first:
+      213: -4949540626351031159
+    second: Goku Super Saiyan Blue_103
+  - first:
+      213: -18504180913282953
+    second: Goku Super Saiyan Blue_104
+  - first:
+      213: -1026765642471854384
+    second: Goku Super Saiyan Blue_105
+  - first:
+      213: -5971139461319962948
+    second: Goku Super Saiyan Blue_106
+  - first:
+      213: -7096465919426799976
+    second: Goku Super Saiyan Blue_107
+  - first:
+      213: 6758545791851448215
+    second: Goku Super Saiyan Blue_108
+  - first:
+      213: -812375785320015253
+    second: Goku Super Saiyan Blue_109
+  - first:
+      213: -7206331774166723734
+    second: Goku Super Saiyan Blue_110
+  - first:
+      213: -4359132658828545946
+    second: Goku Super Saiyan Blue_111
+  - first:
+      213: 6746990278039776015
+    second: Goku Super Saiyan Blue_112
+  - first:
+      213: -8345372780180765999
+    second: Goku Super Saiyan Blue_113
+  - first:
+      213: -1844787405016190598
+    second: Goku Super Saiyan Blue_114
+  - first:
+      213: 6190070226629353333
+    second: Goku Super Saiyan Blue_115
+  - first:
+      213: -4655153190276000542
+    second: Goku Super Saiyan Blue_116
+  - first:
+      213: -2513754320181536563
+    second: Goku Super Saiyan Blue_117
+  - first:
+      213: 4737676260254512276
+    second: Goku Super Saiyan Blue_118
+  - first:
+      213: -2620642738267683230
+    second: Goku Super Saiyan Blue_119
+  - first:
+      213: -2511632986280200657
+    second: Goku Super Saiyan Blue_120
+  - first:
+      213: 7257690109202426420
+    second: Goku Super Saiyan Blue_121
+  - first:
+      213: 1160836830757562020
+    second: Goku Super Saiyan Blue_122
+  - first:
+      213: -9112305373947918245
+    second: Goku Super Saiyan Blue_123
+  - first:
+      213: 8697651864104223668
+    second: Goku Super Saiyan Blue_124
+  - first:
+      213: -202447139636698607
+    second: Goku Super Saiyan Blue_125
+  - first:
+      213: 3728154804889619317
+    second: Goku Super Saiyan Blue_126
+  - first:
+      213: -1250184507880635383
+    second: Goku Super Saiyan Blue_127
+  - first:
+      213: -8988774757422544382
+    second: Goku Super Saiyan Blue_128
+  - first:
+      213: -7779008324349041890
+    second: Goku Super Saiyan Blue_129
+  - first:
+      213: 9059439694776245498
+    second: Goku Super Saiyan Blue_130
+  - first:
+      213: 560775533691938104
+    second: Goku Super Saiyan Blue_131
+  - first:
+      213: 111291785757002313
+    second: Goku Super Saiyan Blue_132
+  - first:
+      213: -115853970510020355
+    second: Goku Super Saiyan Blue_133
+  - first:
+      213: 3021704015462571889
+    second: Goku Super Saiyan Blue_134
+  - first:
+      213: -7687350557581634899
+    second: Goku Super Saiyan Blue_135
+  - first:
+      213: 3901765056503695749
+    second: Goku Super Saiyan Blue_136
+  - first:
+      213: 2565139947838214506
+    second: Goku Super Saiyan Blue_137
+  - first:
+      213: 4890953463961959352
+    second: Goku Super Saiyan Blue_138
+  - first:
+      213: 8938345859758544835
+    second: Goku Super Saiyan Blue_139
+  - first:
+      213: 1326010838441850336
+    second: Goku Super Saiyan Blue_140
+  - first:
+      213: -702847106165964768
+    second: Goku Super Saiyan Blue_141
+  - first:
+      213: 8792903662118125286
+    second: Goku Super Saiyan Blue_142
+  - first:
+      213: 4952677483621184989
+    second: Goku Super Saiyan Blue_143
+  - first:
+      213: -897464064199726127
+    second: Goku Super Saiyan Blue_144
+  - first:
+      213: -3360375401112255693
+    second: Goku Super Saiyan Blue_145
+  - first:
+      213: -3748609531677110546
+    second: Goku Super Saiyan Blue_146
+  - first:
+      213: 4783165988621960670
+    second: Goku Super Saiyan Blue_147
+  - first:
+      213: 7756405903736785308
+    second: Goku Super Saiyan Blue_148
+  - first:
+      213: 5326742940131691357
+    second: Goku Super Saiyan Blue_149
+  - first:
+      213: 4276738093920845687
+    second: Goku Super Saiyan Blue_150
+  - first:
+      213: 3616132808750328131
+    second: Goku Super Saiyan Blue_151
+  - first:
+      213: -6946737457780151912
+    second: Goku Super Saiyan Blue_152
+  - first:
+      213: 1980303070350264991
+    second: Goku Super Saiyan Blue_153
+  - first:
+      213: 7870649480765706416
+    second: Goku Super Saiyan Blue_154
+  - first:
+      213: 3941303590247544084
+    second: Goku Super Saiyan Blue_155
+  - first:
+      213: 2772362407820486842
+    second: Goku Super Saiyan Blue_156
+  - first:
+      213: 8404942686434237694
+    second: Goku Super Saiyan Blue_157
+  - first:
+      213: -5563669219040396238
+    second: Goku Super Saiyan Blue_158
+  - first:
+      213: -8548185924565919986
+    second: Goku Super Saiyan Blue_159
+  - first:
+      213: 7887196208458348603
+    second: Goku Super Saiyan Blue_160
+  - first:
+      213: -8812450956286277129
+    second: Goku Super Saiyan Blue_161
+  - first:
+      213: 851000129340253726
+    second: Goku Super Saiyan Blue_162
+  - first:
+      213: -9030927681317106141
+    second: Goku Super Saiyan Blue_163
+  - first:
+      213: 5120162873634173000
+    second: Goku Super Saiyan Blue_164
+  - first:
+      213: 8776312320777635311
+    second: Goku Super Saiyan Blue_165
+  - first:
+      213: -8816888112424813279
+    second: Goku Super Saiyan Blue_166
+  - first:
+      213: -8024118357132286419
+    second: Goku Super Saiyan Blue_167
+  - first:
+      213: 6676869963773171271
+    second: Goku Super Saiyan Blue_168
+  - first:
+      213: -6571733178452358504
+    second: Goku Super Saiyan Blue_169
+  - first:
+      213: 4129339979889760743
+    second: Goku Super Saiyan Blue_170
+  - first:
+      213: 8337234837975628570
+    second: Goku Super Saiyan Blue_171
+  - first:
+      213: 497754309203931313
+    second: Goku Super Saiyan Blue_172
+  - first:
+      213: 529719981909964665
+    second: Goku Super Saiyan Blue_173
+  - first:
+      213: 4121737332309297117
+    second: Goku Super Saiyan Blue_174
+  - first:
+      213: 9013770806389908231
+    second: Goku Super Saiyan Blue_175
+  - first:
+      213: -6209863231198993048
+    second: Goku Super Saiyan Blue_176
+  - first:
+      213: -1186940395883620359
+    second: Goku Super Saiyan Blue_177
+  - first:
+      213: -6282452828504240654
+    second: Goku Super Saiyan Blue_178
+  - first:
+      213: 5066029779908896150
+    second: Goku Super Saiyan Blue_179
+  - first:
+      213: 5900682378199503273
+    second: Goku Super Saiyan Blue_180
+  - first:
+      213: -2719608564766628855
+    second: Goku Super Saiyan Blue_181
+  - first:
+      213: -1806392111630169971
+    second: Goku Super Saiyan Blue_182
+  - first:
+      213: 5067905232396419905
+    second: Goku Super Saiyan Blue_183
+  - first:
+      213: 9002135137218487595
+    second: Goku Super Saiyan Blue_184
+  - first:
+      213: -3341067593794970035
+    second: Goku Super Saiyan Blue_185
+  - first:
+      213: -8791012956273202625
+    second: Goku Super Saiyan Blue_186
+  - first:
+      213: -1819385894222625633
+    second: Goku Super Saiyan Blue_187
+  - first:
+      213: 1758131185421881598
+    second: Goku Super Saiyan Blue_188
+  - first:
+      213: 8474310717261669655
+    second: Goku Super Saiyan Blue_189
+  - first:
+      213: 4693480577668128681
+    second: Goku Super Saiyan Blue_190
+  - first:
+      213: -690003703564709556
+    second: Goku Super Saiyan Blue_191
+  - first:
+      213: 6795612940441662082
+    second: Goku Super Saiyan Blue_192
+  - first:
+      213: 4048455697005679793
+    second: Goku Super Saiyan Blue_193
+  - first:
+      213: -4019017796175512916
+    second: Goku Super Saiyan Blue_194
+  - first:
+      213: 110711082181083943
+    second: Goku Super Saiyan Blue_195
+  - first:
+      213: -6823903171623456218
+    second: Goku Super Saiyan Blue_196
+  - first:
+      213: 5259359772095133487
+    second: Goku Super Saiyan Blue_197
+  - first:
+      213: 3498584284459315690
+    second: Goku Super Saiyan Blue_198
+  - first:
+      213: -8202130113506288502
+    second: Goku Super Saiyan Blue_199
+  - first:
+      213: -8590487760337365357
+    second: Goku Super Saiyan Blue_200
+  - first:
+      213: -1588969016418171400
+    second: Goku Super Saiyan Blue_201
+  - first:
+      213: -2360057349240362201
+    second: Goku Super Saiyan Blue_202
+  - first:
+      213: -660933223381152115
+    second: Goku Super Saiyan Blue_203
+  - first:
+      213: -8161227274150910312
+    second: Goku Super Saiyan Blue_204
+  - first:
+      213: -5089827374465731241
+    second: Goku Super Saiyan Blue_205
+  - first:
+      213: 2484079293334611109
+    second: Goku Super Saiyan Blue_206
+  - first:
+      213: -7093125704984733935
+    second: Goku Super Saiyan Blue_207
+  - first:
+      213: -7209822321995690383
+    second: Goku Super Saiyan Blue_208
+  - first:
+      213: -4835554261438949417
+    second: Goku Super Saiyan Blue_209
+  - first:
+      213: -5379312470462301359
+    second: Goku Super Saiyan Blue_210
+  - first:
+      213: -3084357905836261419
+    second: Goku Super Saiyan Blue_211
+  - first:
+      213: -4689164396219746229
+    second: Goku Super Saiyan Blue_212
+  - first:
+      213: -952395664857062711
+    second: Goku Super Saiyan Blue_213
+  - first:
+      213: -7801926457004576959
+    second: Goku Super Saiyan Blue_214
+  - first:
+      213: -1982881864349824156
+    second: Goku Super Saiyan Blue_215
+  - first:
+      213: 5126121566921595796
+    second: Goku Super Saiyan Blue_216
+  - first:
+      213: 8645810758672553985
+    second: Goku Super Saiyan Blue_217
+  - first:
+      213: 6532510959847161198
+    second: Goku Super Saiyan Blue_218
+  - first:
+      213: 5627330076557051540
+    second: Goku Super Saiyan Blue_219
+  - first:
+      213: -5149549281859318590
+    second: Goku Super Saiyan Blue_220
+  - first:
+      213: -7321486039378865987
+    second: Goku Super Saiyan Blue_221
+  - first:
+      213: 995403339520224579
+    second: Goku Super Saiyan Blue_222
+  - first:
+      213: -3941154132386082491
+    second: Goku Super Saiyan Blue_223
+  - first:
+      213: 8387351418502392486
+    second: Goku Super Saiyan Blue_224
+  - first:
+      213: 6966648699730522749
+    second: Goku Super Saiyan Blue_225
+  - first:
+      213: 6815656886649925258
+    second: Goku Super Saiyan Blue_226
+  - first:
+      213: 9039696422525580431
+    second: Goku Super Saiyan Blue_227
+  - first:
+      213: -7006248342626632604
+    second: Goku Super Saiyan Blue_228
+  - first:
+      213: 6747614704856436751
+    second: Goku Super Saiyan Blue_229
+  - first:
+      213: -198340803015673580
+    second: Goku Super Saiyan Blue_230
+  - first:
+      213: 86917924273918916
+    second: Goku Super Saiyan Blue_231
+  - first:
+      213: -2522105461086883941
+    second: Goku Super Saiyan Blue_232
+  - first:
+      213: 5477127562379453725
+    second: Goku Super Saiyan Blue_233
+  - first:
+      213: -3956243444358117086
+    second: Goku Super Saiyan Blue_234
+  - first:
+      213: -1464328580862701978
+    second: Goku Super Saiyan Blue_235
+  - first:
+      213: -140549817689400780
+    second: Goku Super Saiyan Blue_236
+  - first:
+      213: -7674402195104867412
+    second: Goku Super Saiyan Blue_237
+  - first:
+      213: -1509974940864717094
+    second: Goku Super Saiyan Blue_238
+  - first:
+      213: -2143996443845700967
+    second: Goku Super Saiyan Blue_239
+  - first:
+      213: 1449815202007853796
+    second: Goku Super Saiyan Blue_240
+  - first:
+      213: -6292915284895898033
+    second: Goku Super Saiyan Blue_241
+  - first:
+      213: -6799513073936390499
+    second: Goku Super Saiyan Blue_242
+  - first:
+      213: -7465056992666727289
+    second: Goku Super Saiyan Blue_243
+  - first:
+      213: 3255266816816021661
+    second: Goku Super Saiyan Blue_244
+  - first:
+      213: -9159783676766040079
+    second: Goku Super Saiyan Blue_245
+  - first:
+      213: 3705213771364838931
+    second: Goku Super Saiyan Blue_246
+  - first:
+      213: -5587683700619416865
+    second: Goku Super Saiyan Blue_247
+  - first:
+      213: 6529881013776166423
+    second: Goku Super Saiyan Blue_248
+  - first:
+      213: -9115055299757536259
+    second: Goku Super Saiyan Blue_249
+  - first:
+      213: 4528385989182657511
+    second: Goku Super Saiyan Blue_250
+  - first:
+      213: 2535333392618817260
+    second: Goku Super Saiyan Blue_251
+  - first:
+      213: -6273169774635749730
+    second: Goku Super Saiyan Blue_252
+  - first:
+      213: -4128714038767752128
+    second: Goku Super Saiyan Blue_253
+  - first:
+      213: 4463941093898204326
+    second: Goku Super Saiyan Blue_254
+  - first:
+      213: -8944861171630373037
+    second: Goku Super Saiyan Blue_255
+  - first:
+      213: -1827026683017432691
+    second: Goku Super Saiyan Blue_256
+  - first:
+      213: 2862912354972233306
+    second: Goku Super Saiyan Blue_257
+  - first:
+      213: -2139980014658306950
+    second: Goku Super Saiyan Blue_258
+  - first:
+      213: 4844864940259280243
+    second: Goku Super Saiyan Blue_259
+  - first:
+      213: -5721788743035210152
+    second: Goku Super Saiyan Blue_260
+  - first:
+      213: 3112084907789265895
+    second: Goku Super Saiyan Blue_261
+  - first:
+      213: -6667937244997769970
+    second: Goku Super Saiyan Blue_262
+  - first:
+      213: 3690912935426826879
+    second: Goku Super Saiyan Blue_263
+  - first:
+      213: 4367686858253395087
+    second: Goku Super Saiyan Blue_264
+  - first:
+      213: -9060848279129356640
+    second: Goku Super Saiyan Blue_265
+  - first:
+      213: -5524478219508197021
+    second: Goku Super Saiyan Blue_266
+  - first:
+      213: 3422818108397590858
+    second: Goku Super Saiyan Blue_267
+  - first:
+      213: 6001738049678278307
+    second: Goku Super Saiyan Blue_268
+  - first:
+      213: 6936991021256604211
+    second: Goku Super Saiyan Blue_269
+  - first:
+      213: -4430521804452516777
+    second: Goku Super Saiyan Blue_270
+  - first:
+      213: 991704728705699942
+    second: Goku Super Saiyan Blue_271
+  - first:
+      213: -8942058157535987578
+    second: Goku Super Saiyan Blue_272
+  - first:
+      213: -8850784865128782468
+    second: Goku Super Saiyan Blue_273
+  - first:
+      213: 8898192340162748639
+    second: Goku Super Saiyan Blue_274
+  - first:
+      213: 8245747687871958330
+    second: Goku Super Saiyan Blue_275
+  - first:
+      213: 8345130454533665352
+    second: Goku Super Saiyan Blue_276
+  - first:
+      213: -5192930333116249966
+    second: Goku Super Saiyan Blue_277
+  - first:
+      213: -1498897816927138796
+    second: Goku Super Saiyan Blue_278
+  - first:
+      213: -8634138621342209543
+    second: Goku Super Saiyan Blue_279
+  - first:
+      213: 5435230969183185405
+    second: Goku Super Saiyan Blue_280
+  - first:
+      213: 9200283985972156526
+    second: Goku Super Saiyan Blue_281
+  - first:
+      213: -2199993208727711826
+    second: Goku Super Saiyan Blue_282
+  - first:
+      213: 6922375954371303958
+    second: Goku Super Saiyan Blue_283
+  - first:
+      213: 1758387118007335962
+    second: Goku Super Saiyan Blue_284
+  - first:
+      213: -5711063765638258640
+    second: Goku Super Saiyan Blue_285
+  - first:
+      213: -3348870263976447088
+    second: Goku Super Saiyan Blue_286
+  - first:
+      213: 3569865461345576792
+    second: Goku Super Saiyan Blue_287
+  - first:
+      213: -6987016129461884594
+    second: Goku Super Saiyan Blue_288
+  - first:
+      213: 3365467898141763175
+    second: Goku Super Saiyan Blue_289
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 8550
+        width: 240
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f0de0bb6fbb9d50800000000000000
+      internalID: 6745195336168181569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 8513
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e0480c9e8b42230800000000000000
+      internalID: 3613216115154751042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8379
+        width: 94
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f323be6fba5440e0800000000000000
+      internalID: -2286602932554882063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 8379
+        width: 94
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e4058b37daa9550800000000000000
+      internalID: 6168433352162430543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8379
+        width: 94
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3c628f8ef62a820800000000000000
+      internalID: 2928025754130629569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8241
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016dba3a280adb550800000000000000
+      internalID: 6178270746774328848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 8241
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc432182282768d30800000000000000
+      internalID: 4433356786536428749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 8241
+        width: 94
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156fee1aa3fac36b0800000000000000
+      internalID: -5315180793844271535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 8241
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c8749ba0dff12b0800000000000000
+      internalID: -5611488388180374486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8106
+        width: 98
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ddbf107a437f190800000000000000
+      internalID: -7928810727065002745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8106
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d313ca7d6fa234880800000000000000
+      internalID: -8628005221443030723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 8106
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5a80a1929d0c7d0800000000000000
+      internalID: -2900079389472938588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 8106
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc81b1b26f1bfc30800000000000000
+      internalID: 4394140370178510005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7976
+        width: 107
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f096b5480572f37d0800000000000000
+      internalID: -2936585205250823921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 7976
+        width: 105
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f8aa448d9043680800000000000000
+      internalID: -8776378949368639733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 7976
+        width: 103
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eeed69c9e44e6f0800000000000000
+      internalID: -656313211236192695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_18
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 7976
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de2e9648c72e3e60800000000000000
+      internalID: 7943830533859847891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 7976
+        width: 96
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714b2ab5677516410800000000000000
+      internalID: 1468551119354639383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_20
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 7976
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ca7531e562f5e00800000000000000
+      internalID: 1035588624811797653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7840
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c078902cfafe37d20800000000000000
+      internalID: 3275224892182202124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7839
+        width: 95
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6aee2f455c929a0800000000000000
+      internalID: -6257253238610942231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_23
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 7839
+        width: 93
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8372744ab0f099a0800000000000000
+      internalID: -6228213601850461301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7727
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f00208d463a740800000000000000
+      internalID: 5162080476806051831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 7724
+        width: 78
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70769353251e09730800000000000000
+      internalID: 4003947811928893191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 7724
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c951909b29a7fc0800000000000000
+      internalID: -3496320837280752505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7589
+        width: 72
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367376f7858335270800000000000000
+      internalID: 8237990096136517475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 7578
+        width: 65
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230a6df08be84de70800000000000000
+      internalID: 9139086465032429618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 7579
+        width: 59
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7c54f323c86f6e0800000000000000
+      internalID: -1804100453277513750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7413
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba120e8ca1ecf5f0800000000000000
+      internalID: -721453709052994881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_31
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 7409
+        width: 71
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99856aa8ebbdaec40800000000000000
+      internalID: 5542483902849243289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 7416
+        width: 79
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a31c848a57b19a0800000000000000
+      internalID: -6261281491292964257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 7440
+        width: 84
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e020fd0229bba4750800000000000000
+      internalID: 6290046065867424270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_34
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 7429
+        width: 76
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db63add9a51dbd60800000000000000
+      internalID: 7907500340044590038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_35
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 7413
+        width: 61
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bb4c7357f625940800000000000000
+      internalID: 5283407862096509720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_36
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 7411
+        width: 55
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fdbcc26dd9d0da0800000000000000
+      internalID: -5976947587250659505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_37
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 7413
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e6b8676a03dc910800000000000000
+      internalID: 1859195712685436460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7291
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d55b666dc479cd0800000000000000
+      internalID: -2551486180152222418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_39
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 7288
+        width: 90
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdbaf8541f59f260800000000000000
+      internalID: 7131836025914703358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 7293
+        width: 83
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ffe106e9b5d30c0800000000000000
+      internalID: -4594415309072433401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7167
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf43512dd745f8730800000000000000
+      internalID: 4003511493127910651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7195
+        width: 135
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f5c3503b9413a90800000000000000
+      internalID: -7336001284774011000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 7156
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e4b6312acc55c00800000000000000
+      internalID: 888841497958108710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7003
+        width: 103
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd614843fe85db680800000000000000
+      internalID: -8737729917627394340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_45
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 7023
+        width: 107
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b59eddcfcda2db0800000000000000
+      internalID: -4815793872906396853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_46
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 7007
+        width: 85
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db69dc206cc41800800000000000000
+      internalID: 582314965279009748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_47
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 6895
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f0a78a4ad67ae20800000000000000
+      internalID: 3361776200824000399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_48
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 6924
+        width: 165
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7331a6bf8f72968e0800000000000000
+      internalID: -1699783434032245961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_49
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 6894
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e283e8aae2f9d2e0800000000000000
+      internalID: -2100380661521874206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_50
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 6740
+        width: 57
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0e8a76ce821b410800000000000000
+      internalID: 1491017947452858599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 6740
+        width: 55
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892370f1c93c45e60800000000000000
+      internalID: 7950194317518647960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_52
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 6741
+        width: 71
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5246fa47c4cbb5200800000000000000
+      internalID: 169936447517713445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_53
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 6745
+        width: 99
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78177a58a99df71b0800000000000000
+      internalID: -5656563349263519353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_54
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 6745
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906f7247e5687ac00800000000000000
+      internalID: 911845189799638537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 6609
+        width: 86
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b05e216b3f2800d0800000000000000
+      internalID: -3456460781926854479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_56
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 6608
+        width: 142
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0995f37cac80df8d0800000000000000
+      internalID: -2811080925390087792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_57
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 6609
+        width: 131
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeade79a555456c0800000000000000
+      internalID: -4155602708571771138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_58
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 6610
+        width: 98
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbc39bf894b9b410800000000000000
+      internalID: 1493423320598825974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_59
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6452
+        width: 94
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adc3050a8ce56cf0800000000000000
+      internalID: -259541325970158167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_60
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6448
+        width: 100
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e278c5e92c96c500800000000000000
+      internalID: 416191719341060836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_61
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 6442
+        width: 149
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9354a8ad1bb4c0c10800000000000000
+      internalID: 2021073560030299449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_62
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 6445
+        width: 139
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15828030d137e8290800000000000000
+      internalID: -7886239329037047727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_63
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 6456
+        width: 117
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30f3a349d389ed00800000000000000
+      internalID: 1002477361232605242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_64
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 6455
+        width: 88
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1e1568532258040800000000000000
+      internalID: 4649159803612029383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_65
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 6303
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f819df84b39048850800000000000000
+      internalID: 6378233122495762831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_66
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 6303
+        width: 96
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556a8ae23ef11a070800000000000000
+      internalID: 8115803064099186261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_67
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 6303
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ed1cf178fdb02d0800000000000000
+      internalID: -3311307329554489841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_68
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 6304
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef5dd43e45886be0800000000000000
+      internalID: -1483789506277711903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_69
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 6304
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50799b0e1199a020800000000000000
+      internalID: 2353571838507446363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_70
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 6304
+        width: 102
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1621a34741143dc80800000000000000
+      internalID: -8299218132208577951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_71
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 6183
+        width: 81
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009f92062754afc40800000000000000
+      internalID: 5546822248602138880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_72
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6184
+        width: 133
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bf230c860275280800000000000000
+      internalID: -9054732891531838625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 6183
+        width: 131
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04330978d3749f20800000000000000
+      internalID: 3428492589916173326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_74
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 6184
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80510b0ce29918ff0800000000000000
+      internalID: -35578895961942776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_75
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 6002
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a2aed7ab8c29f40800000000000000
+      internalID: 5733865978898033159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 6003
+        width: 69
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fa7b4bbe3e563d0800000000000000
+      internalID: -3213912157570224236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_77
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 6002
+        width: 62
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7824dfbd1be3ce010800000000000000
+      internalID: 1219418532731503239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_78
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 6004
+        width: 67
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae65d36bea1195cc0800000000000000
+      internalID: -3721924174965549334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_79
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 6004
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1140727c8cc3b850800000000000000
+      internalID: 6391677199756312860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_80
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 6001
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356a2e203e596030800000000000000
+      internalID: 3488422947401131326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_81
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 5890
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0019090ef33c4a2f0800000000000000
+      internalID: -962429741232516864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_82
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 5895
+        width: 117
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5459a5334aa57b00800000000000000
+      internalID: 825753312332174426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_83
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 5890
+        width: 173
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef8868b13c1fc290800000000000000
+      internalID: -7868039024120131604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_84
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 5890
+        width: 172
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbedafb14abf3950800000000000000
+      internalID: 6431063584459844532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_85
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 5893
+        width: 140
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6163c9e99941310800000000000000
+      internalID: 1374892692759516890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_86
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 5894
+        width: 115
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4829cd82444bbf920800000000000000
+      internalID: 3025209779545739908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_87
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 5737
+        width: 85
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ca5c6fed9cff2f0800000000000000
+      internalID: -936808238009701300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_88
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5765
+        width: 150
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4bbafa5fb06c350800000000000000
+      internalID: 6036525500378887393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_89
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 5759
+        width: 109
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd5bccb235560fc0800000000000000
+      internalID: -3529039581594034755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_90
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 5754
+        width: 80
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a774bee2d74465c00800000000000000
+      internalID: 888973280901023610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_91
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 5593
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5460179c1c020b100800000000000000
+      internalID: 121633206619407941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_92
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5613
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d9356ac5a5c3580800000000000000
+      internalID: -8846096214088508102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_93
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 5620
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd078c67947c8cd0800000000000000
+      internalID: -2554538694916239885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 5595
+        width: 97
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eadeaa7341efed10800000000000000
+      internalID: 2157190426471095008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_95
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 5592
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a56464de2002140800000000000000
+      internalID: 4692754029829577298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_96
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 5583
+        width: 73
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a771413f2cdeb640800000000000000
+      internalID: 5097753923477927846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_97
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5454
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49585f9e0944c0b0800000000000000
+      internalID: -5709358100447209138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_98
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 5451
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e2668f2d714d770800000000000000
+      internalID: 8634552580454100525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_99
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 5440
+        width: 84
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a79b0582ef8276b0800000000000000
+      internalID: -5300015608404142173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_100
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 5441
+        width: 107
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d46cb189291c7500800000000000000
+      internalID: 395218533362722009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_101
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 5443
+        width: 109
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb9bd19b4bd891d0800000000000000
+      internalID: -3343681605706474531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_102
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 5443
+        width: 89
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba75a90c7f8477d10800000000000000
+      internalID: 2123245978253940651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_103
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5319
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c7bfc2603bf4bb0800000000000000
+      internalID: -4949540626351031159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_104
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5300
+        width: 114
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770edc5ab824ebff0800000000000000
+      internalID: -18504180913282953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_105
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 5296
+        width: 103
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dea3e4961230c1f0800000000000000
+      internalID: -1026765642471854384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_106
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 5290
+        width: 78
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbec4bfdb40422da0800000000000000
+      internalID: -5971139461319962948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_107
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5143
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89656ef48d9448d90800000000000000
+      internalID: -7096465919426799976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_108
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 5161
+        width: 121
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7974481e69d2bcd50800000000000000
+      internalID: 6758545791851448215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_109
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 5159
+        width: 126
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a1fd3078cd9b4f0800000000000000
+      internalID: -812375785320015253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_110
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 5134
+        width: 120
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a639e23ae67fdfb90800000000000000
+      internalID: -7206331774166723734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_111
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 5134
+        width: 104
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66078b541ff3183c0800000000000000
+      internalID: -4359132658828545946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_112
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 5137
+        width: 79
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b239929ef12ad50800000000000000
+      internalID: 6746990278039776015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_113
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4995
+        width: 93
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d28c1f0ca74f2c80800000000000000
+      internalID: -8345372780180765999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_114
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 5028
+        width: 188
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7135e511aff566e0800000000000000
+      internalID: -1844787405016190598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_115
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 5033
+        width: 107
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fd6f0231c87e550800000000000000
+      internalID: 6190070226629353333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_116
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 5033
+        width: 105
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4929666d2956fb0800000000000000
+      internalID: -4655153190276000542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_117
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 5033
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8d9f4a3c95d1dd0800000000000000
+      internalID: -2513754320181536563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_118
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 4804
+        width: 104
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4947549157b9fb140800000000000000
+      internalID: 4737676260254512276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_119
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 4804
+        width: 127
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2660956705b91abd0800000000000000
+      internalID: -2620642738267683230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_120
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4804
+        width: 125
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f267d9e2b13e42dd0800000000000000
+      internalID: -2511632986280200657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_121
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 4804
+        width: 95
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a60e093be78b460800000000000000
+      internalID: 7257690109202426420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_122
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 4805
+        width: 128
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6ae7b72fe1c1010800000000000000
+      internalID: 1160836830757562020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_123
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 4805
+        width: 127
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5883fc9a869a8180800000000000000
+      internalID: -9112305373947918245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_124
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4665
+        width: 101
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b342fbc94444b870800000000000000
+      internalID: 8697651864104223668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_125
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 4667
+        width: 105
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112292c2663c03df0800000000000000
+      internalID: -202447139636698607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_126
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 4670
+        width: 123
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b8c1dda011db330800000000000000
+      internalID: 3728154804889619317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_127
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 4670
+        width: 145
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904041850d376aee0800000000000000
+      internalID: -1250184507880635383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_128
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 4670
+        width: 140
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ac4d19bf4714380800000000000000
+      internalID: -8988774757422544382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_129
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 4670
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e136e5ad4296b0490800000000000000
+      internalID: -7779008324349041890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_130
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4502
+        width: 81
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc1637476899bd70800000000000000
+      internalID: 9059439694776245498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_131
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4505
+        width: 79
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8352074706648c700800000000000000
+      internalID: 560775533691938104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_132
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 4519
+        width: 92
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a077c1a436b8100800000000000000
+      internalID: 111291785757002313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_133
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 4547
+        width: 137
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df08ee97d67646ef0800000000000000
+      internalID: -115853970510020355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_134
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 4552
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f940adacf3fe920800000000000000
+      internalID: 3021704015462571889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_135
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 4556
+        width: 123
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2127fa56b015590800000000000000
+      internalID: -7687350557581634899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_136
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 4544
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5894fed75aad52630800000000000000
+      internalID: 3901765056503695749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_137
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 4338
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a619f0e1135399320800000000000000
+      internalID: 2565139947838214506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_138
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 4338
+        width: 80
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb3b68134820e340800000000000000
+      internalID: 4890953463961959352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_139
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 4338
+        width: 103
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7dd7ab3326b0c70800000000000000
+      internalID: 8938345859758544835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_140
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 4338
+        width: 104
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5f4a105dfe66210800000000000000
+      internalID: 1326010838441850336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_141
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 4338
+        width: 106
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0200191e74cfe36f0800000000000000
+      internalID: -702847106165964768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_142
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 4335
+        width: 116
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee38cc3b4ba60a70800000000000000
+      internalID: 8792903662118125286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_143
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4177
+        width: 76
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5f0525ee17bb440800000000000000
+      internalID: 4952677483621184989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_144
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 4195
+        width: 88
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db62b640319b83f0800000000000000
+      internalID: -897464064199726127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_145
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4186
+        width: 89
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3334eb0706c8d51d0800000000000000
+      internalID: -3360375401112255693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_146
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 4181
+        width: 88
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee0ebeed734afbc0800000000000000
+      internalID: -3748609531677110546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_147
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 4184
+        width: 96
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5ca85df18316240800000000000000
+      internalID: 4783165988621960670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_148
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 4188
+        width: 99
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9949f1031a44ab60800000000000000
+      internalID: 7756405903736785308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_149
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4049
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b8e545b746ce940800000000000000
+      internalID: 5326742940131691357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_150
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 4053
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f788523a60a5b30800000000000000
+      internalID: 4276738093920845687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_151
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 4051
+        width: 138
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349e23661a51f2230800000000000000
+      internalID: 3616132808750328131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_152
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 4057
+        width: 136
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8992d19661b389f90800000000000000
+      internalID: -6946737457780151912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_153
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 4060
+        width: 127
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ac7df76237b7b10800000000000000
+      internalID: 1980303070350264991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_154
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 4052
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b017a4900a2a3d60800000000000000
+      internalID: 7870649480765706416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_155
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3903
+        width: 88
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4153da0cbb252b630800000000000000
+      internalID: 3941303590247544084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_156
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3902
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab869cadbe8697620800000000000000
+      internalID: 2772362407820486842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_157
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3904
+        width: 104
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc1e6e87da54a470800000000000000
+      internalID: 8404942686434237694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_158
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3904
+        width: 108
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c7257a250e9c2b0800000000000000
+      internalID: -5563669219040396238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_159
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 3904
+        width: 109
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07114c113ebe5980800000000000000
+      internalID: -8548185924565919986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_160
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 3905
+        width: 102
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38b7f6d923f47d60800000000000000
+      internalID: 7887196208458348603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_161
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3739
+        width: 71
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9410eab82e3b580800000000000000
+      internalID: -8812450956286277129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_162
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3764
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16232ddb1c5fcb00800000000000000
+      internalID: 851000129340253726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_163
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3761
+        width: 117
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e0ada2f13bba280800000000000000
+      internalID: -9030927681317106141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_164
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3763
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840bb1b71097e0740800000000000000
+      internalID: 5120162873634173000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_165
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 3791
+        width: 109
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5c5dd8e89bbc970800000000000000
+      internalID: 8776312320777635311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_166
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 3744
+        width: 72
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dfd82c9fe14a580800000000000000
+      internalID: -8816888112424813279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_167
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3569
+        width: 72
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2660772eda94a090800000000000000
+      internalID: -8024118357132286419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_168
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3572
+        width: 93
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746dc224bd109ac50800000000000000
+      internalID: 6676869963773171271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_169
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3571
+        width: 76
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ac2b32e738cc4a0800000000000000
+      internalID: -6571733178452358504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_170
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 3571
+        width: 69
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d52265dc5e4930800000000000000
+      internalID: 4129339979889760743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_171
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 3581
+        width: 96
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b7c8e99eec3b370800000000000000
+      internalID: 8337234837975628570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_172
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 3587
+        width: 106
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0358138e068e600800000000000000
+      internalID: 497754309203931313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_173
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 3591
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9777b285481f95700800000000000000
+      internalID: 529719981909964665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_174
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 3583
+        width: 94
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd703cd044a533930800000000000000
+      internalID: 4121737332309297117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_175
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 3574
+        width: 88
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70328a99ac8571d70800000000000000
+      internalID: 9013770806389908231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_176
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3466
+        width: 121
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865ef90ea4222d9a0800000000000000
+      internalID: -6209863231198993048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_177
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3470
+        width: 129
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f79bc5aff3278fe0800000000000000
+      internalID: -1186940395883620359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_178
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 3465
+        width: 135
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd4bd6307e30d8a0800000000000000
+      internalID: -6282452828504240654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_179
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 3459
+        width: 164
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695250d6e372e4640800000000000000
+      internalID: 5066029779908896150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_180
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 3455
+        width: 171
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a11dfc1c5f63e150800000000000000
+      internalID: 5900682378199503273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_181
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 3439
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904a9f06b62024ad0800000000000000
+      internalID: -2719608564766628855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_182
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3284
+        width: 92
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d884735f1f76ee6e0800000000000000
+      internalID: -1806392111630169971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_183
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 3278
+        width: 94
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143055c35f0d45640800000000000000
+      internalID: 5067905232396419905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_184
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3278
+        width: 68
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2568f146320eec70800000000000000
+      internalID: 9002135137218487595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_185
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3146
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e1845a9b422a1d0800000000000000
+      internalID: -3341067593794970035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_186
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3147
+        width: 130
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3aaa750b4c000680800000000000000
+      internalID: -8791012956273202625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_187
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3143
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9401813b2e30c6e0800000000000000
+      internalID: -1819385894222625633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_188
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3145
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef09b978ff2266810800000000000000
+      internalID: 1758131185421881598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_189
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 3142
+        width: 113
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715eaa2d2bcca9570800000000000000
+      internalID: 8474310717261669655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_190
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 3139
+        width: 95
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af9a10e7b7922140800000000000000
+      internalID: 4693480577668128681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_191
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2961
+        width: 76
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c415253994d9c66f0800000000000000
+      internalID: -690003703564709556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_192
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2975
+        width: 69
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282b212f6fdde4e50800000000000000
+      internalID: 6795612940441662082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_193
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2981
+        width: 82
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b41eecb1010f2830800000000000000
+      internalID: 4048455697005679793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_194
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2979
+        width: 112
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa3cf8ab949938c0800000000000000
+      internalID: -4019017796175512916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_195
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2993
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7234a168423598100800000000000000
+      internalID: 110711082181083943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_196
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2991
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622f8b15830ac41a0800000000000000
+      internalID: -6823903171623456218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_197
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2975
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27b5b1f8dffcf840800000000000000
+      internalID: 5259359772095133487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_198
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2797
+        width: 82
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae136f3ded77d8030800000000000000
+      internalID: 3498584284459315690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_199
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2798
+        width: 97
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c5ce65e1e2c2e80800000000000000
+      internalID: -8202130113506288502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_200
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2799
+        width: 123
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39610c575e478c880800000000000000
+      internalID: -8590487760337365357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_201
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2932
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f50b492919d2f9e0800000000000000
+      internalID: -1588969016418171400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_202
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2801
+        width: 87
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b6af058546f3fd0800000000000000
+      internalID: -2360057349240362201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_203
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2801
+        width: 73
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ecc103cb4e3d6f0800000000000000
+      internalID: -660933223381152115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_204
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2814
+        width: 104
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8966101c80f7dbe80800000000000000
+      internalID: -8161227274150910312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_205
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 2797
+        width: 102
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75539e058fc4d59b0800000000000000
+      internalID: -5089827374465731241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_206
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 2801
+        width: 112
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4ec11c4f8397220800000000000000
+      internalID: 2484079293334611109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_207
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 2798
+        width: 88
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117513790c7209d90800000000000000
+      internalID: -7093125704984733935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_208
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2797
+        width: 89
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ec3c32cc091fb90800000000000000
+      internalID: -7209822321995690383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_209
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2631
+        width: 96
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d71ec2e409a4ecb0800000000000000
+      internalID: -4835554261438949417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_210
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2631
+        width: 105
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bf3461fc7d855b0800000000000000
+      internalID: -5379312470462301359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_211
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2631
+        width: 109
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df367683d82235d0800000000000000
+      internalID: -3084357905836261419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_212
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2632
+        width: 137
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48b9ed63ddbceeb0800000000000000
+      internalID: -4689164396219746229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_213
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2632
+        width: 121
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2a296503968c2f0800000000000000
+      internalID: -952395664857062711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_214
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2632
+        width: 116
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f2586493df9b390800000000000000
+      internalID: -7801926457004576959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_215
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2476
+        width: 92
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b4ddb33736b74e0800000000000000
+      internalID: -1982881864349824156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_216
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2470
+        width: 103
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b94dfd764a32740800000000000000
+      internalID: 5126121566921595796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_217
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2471
+        width: 116
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1089de9d3171cf770800000000000000
+      internalID: 8645810758672553985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_218
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2474
+        width: 98
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d39057b1428aa50800000000000000
+      internalID: 6532510959847161198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_219
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2338
+        width: 95
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4960e07c3ea481e40800000000000000
+      internalID: 5627330076557051540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_220
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2338
+        width: 81
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc486d26302988b0800000000000000
+      internalID: -5149549281859318590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_221
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2338
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db057d2fc3bd46a90800000000000000
+      internalID: -7321486039378865987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_222
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2338
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d275c301260dd00800000000000000
+      internalID: 995403339520224579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_223
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2196
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541901e92353e49c0800000000000000
+      internalID: -3941154132386082491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_224
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2196
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa24325dabd56470800000000000000
+      internalID: 8387351418502392486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_225
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2066
+        width: 71
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72ff5ed4128ea060800000000000000
+      internalID: 6966648699730522749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_226
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2066
+        width: 73
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ea6b7d3d3169e50800000000000000
+      internalID: 6815656886649925258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_227
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1924
+        width: 101
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84b10e7004737d70800000000000000
+      internalID: 9039696422525580431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_228
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1924
+        width: 93
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cf199c04ec4ce90800000000000000
+      internalID: -7006248342626632604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_229
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1925
+        width: 85
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f009b2cd2d754ad50800000000000000
+      internalID: 6747614704856436751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_230
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1925
+        width: 82
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419f8cb271a5f3df0800000000000000
+      internalID: -198340803015673580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_231
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1787
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c316f0446bc43100800000000000000
+      internalID: 86917924273918916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_232
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1787
+        width: 88
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fe7d1227eaffcd0800000000000000
+      internalID: -2522105461086883941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_233
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1660
+        width: 82
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15e029bf7aa20c40800000000000000
+      internalID: 5477127562379453725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_234
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1660
+        width: 79
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22901166c899819c0800000000000000
+      internalID: -3956243444358117086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_235
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1544
+        width: 119
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e0a3ff9e8adabe0800000000000000
+      internalID: -1464328580862701978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_236
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1543
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a906b7faaac0ef0800000000000000
+      internalID: -140549817689400780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_237
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1543
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabdb414ddb0f7590800000000000000
+      internalID: -7674402195104867412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_238
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1543
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade540e9acd7b0be0800000000000000
+      internalID: -1509974940864717094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_239
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1426
+        width: 105
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99250ecf79efe32e0800000000000000
+      internalID: -2143996443845700967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_240
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1426
+        width: 117
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaa3a9ae37ce1410800000000000000
+      internalID: 1449815202007853796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_241
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1315
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f466722c3e21ba8a0800000000000000
+      internalID: -6292915284895898033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_242
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1314
+        width: 112
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96a56672e643a1a0800000000000000
+      internalID: -6799513073936390499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_243
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1189
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ccd0c773ac66890800000000000000
+      internalID: -7465056992666727289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_244
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1224
+        width: 133
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d908f693ce70d2d20800000000000000
+      internalID: 3255266816816021661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_245
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1204
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff40fec649e1e080800000000000000
+      internalID: -9159783676766040079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_246
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1235
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e26134b409b6330800000000000000
+      internalID: 3705213771364838931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_247
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1057
+        width: 88
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdae653774f8472b0800000000000000
+      internalID: -5587683700619416865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_248
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1058
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e22bb6f2cce9a50800000000000000
+      internalID: 6529881013776166423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_249
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1056
+        width: 81
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb09ed9f71d08180800000000000000
+      internalID: -9115055299757536259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_250
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1056
+        width: 93
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e39613901f08de30800000000000000
+      internalID: 4528385989182657511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_251
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 925
+        width: 111
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce60b3ea9405f2320800000000000000
+      internalID: 2535333392618817260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_252
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 925
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e6e1f935931f8a0800000000000000
+      internalID: -6273169774635749730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_253
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 951
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c6414e47cd3b6c0800000000000000
+      internalID: -4128714038767752128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_254
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 956
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4321026ca13fd30800000000000000
+      internalID: 4463941093898204326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_255
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 810
+        width: 152
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35789c308287dd380800000000000000
+      internalID: -8944861171630373037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_256
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 813
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81f59b69e815a6e0800000000000000
+      internalID: -1827026683017432691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_257
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 800
+        width: 153
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e62355e9b1bb720800000000000000
+      internalID: 2862912354972233306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_258
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 806
+        width: 143
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c3bd7c3834d42e0800000000000000
+      internalID: -2139980014658306950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_259
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 811
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37506e47efa6c3340800000000000000
+      internalID: 4844864940259280243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_260
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 811
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856be8b147f1890b0800000000000000
+      internalID: -5721788743035210152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_261
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 811
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb22af2cb8503b20800000000000000
+      internalID: 3112084907789265895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_262
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 633
+        width: 69
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05af47676ab673a0800000000000000
+      internalID: -6667937244997769970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_263
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 633
+        width: 61
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72a20d62c1c83330800000000000000
+      internalID: 3690912935426826879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_264
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 633
+        width: 61
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84e55c7e042d9c30800000000000000
+      internalID: 4367686858253395087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_265
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 633
+        width: 61
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a609ce1f76614280800000000000000
+      internalID: -9060848279129356640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_266
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 633
+        width: 61
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369d4dc445c1553b0800000000000000
+      internalID: -5524478219508197021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_267
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 633
+        width: 60
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4910d94fea408f20800000000000000
+      internalID: 3422818108397590858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_268
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 633
+        width: 62
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aef40625f47a4350800000000000000
+      internalID: 6001738049678278307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_269
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 633
+        width: 62
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33af2108494254060800000000000000
+      internalID: 6936991021256604211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_270
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 633
+        width: 62
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c2cfb84ef9382c0800000000000000
+      internalID: -4430521804452516777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_271
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 633
+        width: 74
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660149c423e33cd00800000000000000
+      internalID: 991704728705699942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_272
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 475
+        width: 78
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688fe279b7d67e380800000000000000
+      internalID: -8942058157535987578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_273
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 474
+        width: 77
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7568920f02bb2580800000000000000
+      internalID: -8850784865128782468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_274
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 474
+        width: 79
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0a08ae9cabc7b70800000000000000
+      internalID: 8898192340162748639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_275
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 474
+        width: 79
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d4b1395d7ce6270800000000000000
+      internalID: 8245747687871958330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_276
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 474
+        width: 78
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842f5ca1febdfc370800000000000000
+      internalID: 8345130454533665352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_277
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 307
+        width: 61
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298414710610fe7b0800000000000000
+      internalID: -5192930333116249966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_278
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 307
+        width: 60
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c03738068d23be0800000000000000
+      internalID: -1498897816927138796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_279
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 307
+        width: 61
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9aa656ba06d2880800000000000000
+      internalID: -8634138621342209543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_280
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 309
+        width: 84
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9ad56f4c1dd6b40800000000000000
+      internalID: 5435230969183185405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_281
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 311
+        width: 91
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68d5904a89fdaf70800000000000000
+      internalID: 9200283985972156526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_282
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 307
+        width: 61
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf438d25dd0871e0800000000000000
+      internalID: -2199993208727711826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_283
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 307
+        width: 61
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ad1021148311060800000000000000
+      internalID: 6922375954371303958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_284
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 307
+        width: 59
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c337a74cb076810800000000000000
+      internalID: 1758387118007335962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_285
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 307
+        width: 61
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030e68f73c93eb0b0800000000000000
+      internalID: -5711063765638258640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_286
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 157
+        width: 105
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093b0dcec3c6681d0800000000000000
+      internalID: -3348870263976447088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_287
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 157
+        width: 105
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857607f19b5ba8130800000000000000
+      internalID: 3569865461345576792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_288
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 92
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49ef7b59d1290f90800000000000000
+      internalID: -6987016129461884594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Super Saiyan Blue_289
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 95
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76668bbe83b84be20800000000000000
+      internalID: 3365467898141763175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

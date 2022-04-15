@@ -1,0 +1,1202 @@
+fileFormatVersion: 2
+guid: 785a6d82e37c77f418f39ce5a3231a05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3599868207304358974
+    second: PC Computer - MapleStory - Muscle Stone_0
+  - first:
+      213: 604676386592401420
+    second: PC Computer - MapleStory - Muscle Stone_1
+  - first:
+      213: 931817525591034782
+    second: PC Computer - MapleStory - Muscle Stone_2
+  - first:
+      213: 9119419891431870051
+    second: PC Computer - MapleStory - Muscle Stone_3
+  - first:
+      213: 94081499886533556
+    second: PC Computer - MapleStory - Muscle Stone_4
+  - first:
+      213: -1149372792842175147
+    second: PC Computer - MapleStory - Muscle Stone_5
+  - first:
+      213: -5375414898035194995
+    second: PC Computer - MapleStory - Muscle Stone_6
+  - first:
+      213: 2738935945366230903
+    second: PC Computer - MapleStory - Muscle Stone_7
+  - first:
+      213: 3997636571543505389
+    second: PC Computer - MapleStory - Muscle Stone_8
+  - first:
+      213: 1276396677230792472
+    second: PC Computer - MapleStory - Muscle Stone_9
+  - first:
+      213: 4213532517577489628
+    second: PC Computer - MapleStory - Muscle Stone_10
+  - first:
+      213: -4147639241804132817
+    second: PC Computer - MapleStory - Muscle Stone_11
+  - first:
+      213: -7539612598807182348
+    second: PC Computer - MapleStory - Muscle Stone_12
+  - first:
+      213: -5242943295321382358
+    second: PC Computer - MapleStory - Muscle Stone_13
+  - first:
+      213: 7945551870670141390
+    second: a8
+  - first:
+      213: -8819887069914397076
+    second: PC Computer - MapleStory - Muscle Stone_28
+  - first:
+      213: -5434421332479635938
+    second: PC Computer - MapleStory - Muscle Stone_29
+  - first:
+      213: -3430553844871351790
+    second: PC Computer - MapleStory - Muscle Stone_30
+  - first:
+      213: -4786891686234432246
+    second: PC Computer - MapleStory - Muscle Stone_31
+  - first:
+      213: -6510207181767271831
+    second: a1
+  - first:
+      213: -4949930288117965206
+    second: a7
+  - first:
+      213: 4564274690914033007
+    second: PC Computer - MapleStory - Muscle Stone_34
+  - first:
+      213: 7870819571960596558
+    second: PC Computer - MapleStory - Muscle Stone_35
+  - first:
+      213: 6532584897929788193
+    second: PC Computer - MapleStory - Muscle Stone_36
+  - first:
+      213: 4470716493220336854
+    second: PC Computer - MapleStory - Muscle Stone_37
+  - first:
+      213: -2570967314011288951
+    second: a2
+  - first:
+      213: -3385429548317003054
+    second: a3
+  - first:
+      213: -5058637937479372683
+    second: a4
+  - first:
+      213: 735745888241032188
+    second: a5
+  - first:
+      213: -8927548281453766657
+    second: a6
+  - first:
+      213: 2108481177582199697
+    second: a9
+  - first:
+      213: -7510126019918927047
+    second: a10
+  - first:
+      213: 5607692319852211307
+    second: PC Computer - MapleStory - Muscle Stone_45
+  - first:
+      213: -8548863967363608947
+    second: PC Computer - MapleStory - Muscle Stone_46
+  - first:
+      213: 7626473555702304669
+    second: PC Computer - MapleStory - Muscle Stone_48
+  - first:
+      213: 1629531992193696930
+    second: PC Computer - MapleStory - Muscle Stone_50
+  - first:
+      213: 9137579790220849482
+    second: PC Computer - MapleStory - Muscle Stone_53
+  - first:
+      213: 1817610712011415367
+    second: PC Computer - MapleStory - Muscle Stone_57
+  - first:
+      213: 906211266997036462
+    second: PC Computer - MapleStory - Muscle Stone_64
+  - first:
+      213: -6493462926413458241
+    second: PC Computer - MapleStory - Muscle Stone_65
+  - first:
+      213: 5314834983029728985
+    second: PC Computer - MapleStory - Muscle Stone_66
+  - first:
+      213: -5274490295020162296
+    second: PC Computer - MapleStory - Muscle Stone_67
+  - first:
+      213: 3604885605689099902
+    second: PC Computer - MapleStory - Muscle Stone_68
+  - first:
+      213: 2744010425035009625
+    second: PC Computer - MapleStory - Muscle Stone_69
+  - first:
+      213: -8114742694577740451
+    second: PC Computer - MapleStory - Muscle Stone_70
+  - first:
+      213: 9125949959442659426
+    second: PC Computer - MapleStory - Muscle Stone_71
+  - first:
+      213: -3662767017712833982
+    second: PC Computer - MapleStory - Muscle Stone_14
+  - first:
+      213: -6170536341108987157
+    second: PC Computer - MapleStory - Muscle Stone_15
+  - first:
+      213: -5903880872668485071
+    second: PC Computer - MapleStory - Muscle Stone_16
+  - first:
+      213: -4209066542726171130
+    second: PC Computer - MapleStory - Muscle Stone_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 767
+        width: 123
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c3996cf0d45f130800000000000000
+      internalID: 3599868207304358974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 767
+        width: 120
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0828ea48fd346800800000000000000
+      internalID: 604676386592401420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 767
+        width: 120
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b46504a1b7eec00800000000000000
+      internalID: 931817525591034782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 767
+        width: 119
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e8d621310be8e70800000000000000
+      internalID: 9119419891431870051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 767
+        width: 120
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb3cac20ae3e4100800000000000000
+      internalID: 94081499886533556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_5
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 767
+        width: 120
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55db428d88b9c00f0800000000000000
+      internalID: -1149372792842175147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 631
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83054261a0b665b0800000000000000
+      internalID: -5375414898035194995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 631
+        width: 128
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7775a161bb7a20620800000000000000
+      internalID: 2738935945366230903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 631
+        width: 134
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de906fb08457a7730800000000000000
+      internalID: 3997636571543505389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 631
+        width: 128
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f84dae30ca6b110800000000000000
+      internalID: 1276396677230792472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_10
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 631
+        width: 123
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc73cf1089797a30800000000000000
+      internalID: 4213532517577489628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 631
+        width: 120
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e4bcfa510a076c0800000000000000
+      internalID: -4147639241804132817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 492
+        width: 159
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3c908b94aed5790800000000000000
+      internalID: -7539612598807182348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 597
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a226ad8e9d25d37b0800000000000000
+      internalID: -5242943295321382358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a8
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 343
+        width: 142
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7fbbb3455444e60800000000000000
+      internalID: 7945551870670141390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_28
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 448
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6601be8077799580800000000000000
+      internalID: -8819887069914397076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_29
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 437
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e0fb5479e0594b0800000000000000
+      internalID: -5434421332479635938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 343
+        width: 123
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a909c8f0917a5a0800000000000000
+      internalID: -6510207181767271831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a7
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 343
+        width: 143
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e18c9f0a05e4bb0800000000000000
+      internalID: -4949930288117965206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_34
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 439
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d9c3916af875f30800000000000000
+      internalID: 4564274690914033007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 343
+        width: 120
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a873779d6125cd0800000000000000
+      internalID: -2570967314011288951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 343
+        width: 120
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2347833c98401d0800000000000000
+      internalID: -3385429548317003054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 343
+        width: 119
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5703a31099b1cc9b0800000000000000
+      internalID: -5058637937479372683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 343
+        width: 134
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb9f89bcf4e53a00800000000000000
+      internalID: 735745888241032188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a6
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 344
+        width: 140
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff79cc0632afa1480800000000000000
+      internalID: -8927548281453766657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a9
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 343
+        width: 141
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1936265b574d24d10800000000000000
+      internalID: 2108481177582199697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a10
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 343
+        width: 134
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b605cdc2ca6c790800000000000000
+      internalID: -7510126019918927047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 175
+        width: 99
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ec728f3855c5980800000000000000
+      internalID: -8548863967363608947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_48
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 175
+        width: 102
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fcb88ca4da6d960800000000000000
+      internalID: 7626473555702304669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_50
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 225
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a407d896b24d9610800000000000000
+      internalID: 1629531992193696930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_53
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 175
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41f6eef7643fce70800000000000000
+      internalID: 9137579790220849482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 180
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f926dff43793910800000000000000
+      internalID: 1817610712011415367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 29
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5a0d49852839c00800000000000000
+      internalID: 906211266997036462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_65
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 140
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb415fc4fd592e5a0800000000000000
+      internalID: -6493462926413458241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_66
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 26
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d66e43024612c940800000000000000
+      internalID: 5314834983029728985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_67
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 15
+        width: 138
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803f31aa50f3dc6b0800000000000000
+      internalID: -5274490295020162296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_68
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 15
+        width: 147
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76840fdb50270230800000000000000
+      internalID: 3604885605689099902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_69
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 26
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e2e2471fea41620800000000000000
+      internalID: 2744010425035009625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_70
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 15
+        width: 148
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d556ff55384a26f80800000000000000
+      internalID: -8114742694577740451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_71
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 15
+        width: 157
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268f1920323e5ae70800000000000000
+      internalID: 9125949959442659426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 175
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aa536bdcc3b2dc0800000000000000
+      internalID: -3662767017712833982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 175
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea6f8204e9dd5aa0800000000000000
+      internalID: -6170536341108987157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_16
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 14
+        width: 162
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a2f5c50a3311ea0800000000000000
+      internalID: -5903880872668485071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Muscle Stone_17
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 12
+        width: 180
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60633dca7446695c0800000000000000
+      internalID: -4209066542726171130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

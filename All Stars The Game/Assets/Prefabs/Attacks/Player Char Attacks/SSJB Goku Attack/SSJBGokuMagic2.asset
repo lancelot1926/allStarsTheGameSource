@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 489fd94c25c3ce64e891de04e1a39731, type: 3}
+  m_Name: SSJBGokuMagic2
+  m_EditorClassIdentifier: 
+  IsItAttack: 1
+  Melee: 1
+  CanTP: 0
+  Jump: 0
+  Element: Wind
+  Damage: 30
+  ManaCost: 15
+  TpDelay: 0
+  AttackDelay: 2.1
+  maxDelay: 6
+  AttackName: Dragon Rush
+  EventNameE: 
+  Projectile: 0
+  AttackNum: 3
+  EventName: 
+  AttackEffect: {fileID: 7801962148266975814, guid: ce43fba537b4b7546b053f4823c080c3,
+    type: 3}

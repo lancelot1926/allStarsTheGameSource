@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 346816a0f5cb18b48941f5c30c72c20c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4720731644249586505
+    second: Mobile - Final Sky Cross Summoner - Fire Warlock_0
+  - first:
+      213: 3065856680577872665
+    second: Mobile - Final Sky Cross Summoner - Fire Warlock_1
+  - first:
+      213: -4001027027456190127
+    second: Mobile - Final Sky Cross Summoner - Fire Warlock_2
+  - first:
+      213: 2296939339222858802
+    second: Mobile - Final Sky Cross Summoner - Fire Warlock_4
+  - first:
+      213: 6599909455684774915
+    second: Mobile - Final Sky Cross Summoner - Fire Warlock_5
+  - first:
+      213: 2085798911548580215
+    second: Mobile - Final Sky Cross Summoner - Fire Warlock_6
+  - first:
+      213: -896411252065621394
+    second: Mobile - Final Sky Cross Summoner - Fire Warlock_7
+  - first:
+      213: 8574817416062334184
+    second: Mobile - Final Sky Cross Summoner - Fire Warlock_8
+  - first:
+      213: -7942069651379434822
+    second: Mobile - Final Sky Cross Summoner - Fire Warlock_9
+  - first:
+      213: -5618101597299997260
+    second: Mobile - Final Sky Cross Summoner - Fire Warlock_10
+  - first:
+      213: -5724320960594359073
+    second: Mobile - Final Sky Cross Summoner - Fire Warlock_11
+  - first:
+      213: -7559077697869556104
+    second: Mobile - Final Sky Cross Summoner - Fire Warlock_12
+  - first:
+      213: 7723165868735421158
+    second: Mobile - Final Sky Cross Summoner - Fire Warlock_13
+  - first:
+      213: 9178974600212660236
+    second: Mobile - Final Sky Cross Summoner - Fire Warlock_14
+  - first:
+      213: -3825005489291738425
+    second: Mobile - Final Sky Cross Summoner - Fire Warlock_15
+  - first:
+      213: 8362130144995977855
+    second: Mobile - Final Sky Cross Summoner - Fire Warlock_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Fire Warlock_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 165
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b317f3b68638140800000000000000
+      internalID: 4720731644249586505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Fire Warlock_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 165
+        width: 67
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9133a1a486c1c8a20800000000000000
+      internalID: 3065856680577872665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Fire Warlock_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 165
+        width: 64
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1599cbbed1f7978c0800000000000000
+      internalID: -4001027027456190127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Fire Warlock_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 168
+        width: 85
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cbff8c82e50ef10800000000000000
+      internalID: 2296939339222858802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Fire Warlock_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 169
+        width: 87
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c25df9ea6979b50800000000000000
+      internalID: 6599909455684774915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Fire Warlock_6
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 164
+        width: 84
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771efbb1f0f32fc10800000000000000
+      internalID: 2085798911548580215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Fire Warlock_7
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 166
+        width: 84
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a27f337be4f83f0800000000000000
+      internalID: -896411252065621394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Fire Warlock_8
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 166
+        width: 70
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e47a32320fdff670800000000000000
+      internalID: 8574817416062334184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Fire Warlock_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 15
+        width: 65
+        height: 138
+      alignment: 9
+      pivot: {x: 0.602041, y: 0.51922494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba4e102bb918c190800000000000000
+      internalID: -7942069651379434822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Fire Warlock_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 64
+        height: 138
+      alignment: 9
+      pivot: {x: 0.64212704, y: 0.5200607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b501ecfc5e7802b0800000000000000
+      internalID: -5618101597299997260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Fire Warlock_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 15
+        width: 70
+        height: 136
+      alignment: 9
+      pivot: {x: 0.65254384, y: 0.51453996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc43734a602f80b0800000000000000
+      internalID: -5724320960594359073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Fire Warlock_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 14
+        width: 87
+        height: 135
+      alignment: 9
+      pivot: {x: 0.65910286, y: 0.52050656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87658ec22e2c81790800000000000000
+      internalID: -7559077697869556104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Fire Warlock_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 14
+        width: 90
+        height: 135
+      alignment: 9
+      pivot: {x: 0.66698235, y: 0.505859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea556340723e2b60800000000000000
+      internalID: 7723165868735421158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Fire Warlock_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 14
+        width: 133
+        height: 134
+      alignment: 9
+      pivot: {x: 0.6367839, y: 0.5029514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00420044c4426f70800000000000000
+      internalID: 9178974600212660236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Fire Warlock_15
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 14
+        width: 116
+        height: 131
+      alignment: 9
+      pivot: {x: 0.588643, y: 0.51207596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2c8d2f5c9daeac0800000000000000
+      internalID: -3825005489291738425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Fire Warlock_16
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 13
+        width: 130
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6338562, y: 0.5179766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a221aff014c0470800000000000000
+      internalID: 8362130144995977855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

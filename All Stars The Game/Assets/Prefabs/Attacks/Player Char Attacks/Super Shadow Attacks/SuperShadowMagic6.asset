@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 489fd94c25c3ce64e891de04e1a39731, type: 3}
+  m_Name: SuperShadowMagic6
+  m_EditorClassIdentifier: 
+  IsItAttack: 1
+  IsItSpecial: 0
+  IsItHeal: 0
+  IsItBuff: 0
+  Melee: 1
+  CanTP: 0
+  Jump: 0
+  Element: Dark
+  Damage: 90
+  ManaCost: 45
+  TpDelay: 0
+  AttackDelay: 2.9
+  maxDelay: 9
+  AttackName: Sword Style
+  EventNameE: 
+  Projectile: 0
+  IsItAoe: 0
+  AttackNum: 9
+  EventName: 
+  ChosenMeleeAoe: {fileID: 0}
+  AttackEffect: {fileID: 1459759614784389697, guid: 78c63db59b2023b428545edc2f8c4d31,
+    type: 3}

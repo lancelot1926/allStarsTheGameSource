@@ -1,0 +1,7832 @@
+fileFormatVersion: 2
+guid: faa9127d9ad84a845a4c09a96441ced0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3187547273000148799
+    second: dark sonic_0
+  - first:
+      213: -7057509161649728592
+    second: dark sonic_1
+  - first:
+      213: -5329093026227428849
+    second: dark sonic_2
+  - first:
+      213: -4787020261374173630
+    second: dark sonic_3
+  - first:
+      213: -2666725671050038963
+    second: dark sonic_4
+  - first:
+      213: -4985696215184467846
+    second: dark sonic_5
+  - first:
+      213: 6620967421800346891
+    second: dark sonic_6
+  - first:
+      213: -4159469399240742751
+    second: dark sonic_7
+  - first:
+      213: -1542065907520104996
+    second: dark sonic_8
+  - first:
+      213: 6169081837778425971
+    second: dark sonic_9
+  - first:
+      213: -757645663609283591
+    second: dark sonic_10
+  - first:
+      213: -2785458328731381125
+    second: dark sonic_11
+  - first:
+      213: -8351030447597648796
+    second: dark sonic_12
+  - first:
+      213: 9141895111216591145
+    second: dark sonic_13
+  - first:
+      213: -8522085864501188447
+    second: dark sonic_14
+  - first:
+      213: 4045391701837228288
+    second: dark sonic_15
+  - first:
+      213: 1503388736079578925
+    second: dark sonic_16
+  - first:
+      213: -3282979470784181935
+    second: dark sonic_17
+  - first:
+      213: -2746300782815568571
+    second: dark sonic_18
+  - first:
+      213: -5692525057129769466
+    second: dark sonic_19
+  - first:
+      213: -5937288527897728905
+    second: dark sonic_20
+  - first:
+      213: -3396706681514254857
+    second: dark sonic_21
+  - first:
+      213: 9047899835037681356
+    second: dark sonic_22
+  - first:
+      213: 7934795532936238944
+    second: dark sonic_23
+  - first:
+      213: -2771109405727347847
+    second: dark sonic_24
+  - first:
+      213: -8090625521197300709
+    second: dark sonic_25
+  - first:
+      213: 121337060646173425
+    second: dark sonic_26
+  - first:
+      213: 7959098424253340880
+    second: dark sonic_27
+  - first:
+      213: 6939536909706980213
+    second: dark sonic_28
+  - first:
+      213: 6399795319467310351
+    second: dark sonic_29
+  - first:
+      213: 694953051274388447
+    second: dark sonic_30
+  - first:
+      213: -2867131748381595654
+    second: dark sonic_31
+  - first:
+      213: 4489370349225021454
+    second: dark sonic_32
+  - first:
+      213: -8793920219328372549
+    second: dark sonic_33
+  - first:
+      213: 1576822790244900362
+    second: dark sonic_34
+  - first:
+      213: -5944397949209361185
+    second: dark sonic_35
+  - first:
+      213: 3352367619715153079
+    second: dark sonic_36
+  - first:
+      213: 3733997840469261644
+    second: dark sonic_37
+  - first:
+      213: 6899785268697352464
+    second: dark sonic_38
+  - first:
+      213: 4293739964771821018
+    second: dark sonic_39
+  - first:
+      213: 1434492431388937706
+    second: dark sonic_40
+  - first:
+      213: -4199129668181143445
+    second: dark sonic_41
+  - first:
+      213: -7383766884410228742
+    second: dark sonic_42
+  - first:
+      213: -5531228235839487642
+    second: dark sonic_43
+  - first:
+      213: 111696006639094202
+    second: dark sonic_50
+  - first:
+      213: -9036187877219641988
+    second: dark sonic_51
+  - first:
+      213: -85149710621581128
+    second: dark sonic_52
+  - first:
+      213: 4424051859134373398
+    second: dark sonic_53
+  - first:
+      213: -1127299184620320522
+    second: dark sonic_54
+  - first:
+      213: 2648844882181476095
+    second: dark sonic_55
+  - first:
+      213: 1254371323503595708
+    second: dark sonic_56
+  - first:
+      213: -5229215121520541905
+    second: dark sonic_57
+  - first:
+      213: -1296984558471351033
+    second: dark sonic_58
+  - first:
+      213: 7352267978272600658
+    second: dark sonic_59
+  - first:
+      213: 1991674614093079994
+    second: dark sonic_60
+  - first:
+      213: -642001067684684938
+    second: dark sonic_61
+  - first:
+      213: -1259815831014268982
+    second: dark sonic_62
+  - first:
+      213: 7776785856889085095
+    second: dark sonic_63
+  - first:
+      213: 3274222673789197269
+    second: dark sonic_64
+  - first:
+      213: -7701303998431779178
+    second: dark sonic_65
+  - first:
+      213: -8147422130432389849
+    second: dark sonic_66
+  - first:
+      213: -7402550832045939946
+    second: dark sonic_67
+  - first:
+      213: 8889224745767255235
+    second: dark sonic_68
+  - first:
+      213: -7359555258507440303
+    second: dark sonic_69
+  - first:
+      213: 6357638158287747855
+    second: dark sonic_70
+  - first:
+      213: -962233227939618196
+    second: dark sonic_71
+  - first:
+      213: -3273883119930532074
+    second: dark sonic_72
+  - first:
+      213: -3117931165966208039
+    second: dark sonic_73
+  - first:
+      213: -2831230161111586921
+    second: dark sonic_74
+  - first:
+      213: 1352540547878054605
+    second: dark sonic_75
+  - first:
+      213: -6211434248167536022
+    second: dark sonic_76
+  - first:
+      213: -6135449384800147903
+    second: dark sonic_77
+  - first:
+      213: -5381473712441630978
+    second: dark sonic_78
+  - first:
+      213: 7766122909162513518
+    second: dark sonic_79
+  - first:
+      213: 8883986018760630370
+    second: dark sonic_80
+  - first:
+      213: -4576743261410813671
+    second: dark sonic_81
+  - first:
+      213: 861904620984604479
+    second: dark sonic_82
+  - first:
+      213: -3477199163277300864
+    second: dark sonic_83
+  - first:
+      213: -2559369725250214311
+    second: dark sonic_84
+  - first:
+      213: -4706170731285102898
+    second: dark sonic_85
+  - first:
+      213: 728624004683559591
+    second: dark sonic_86
+  - first:
+      213: 1868061560353138142
+    second: dark sonic_87
+  - first:
+      213: -4452417598495298143
+    second: dark sonic_88
+  - first:
+      213: -210028274496772444
+    second: dark sonic_89
+  - first:
+      213: -1347790901900421356
+    second: dark sonic_90
+  - first:
+      213: -7860002731719507921
+    second: dark sonic_110
+  - first:
+      213: -7253392107398628612
+    second: dark sonic_111
+  - first:
+      213: -3969249150495451494
+    second: dark sonic_112
+  - first:
+      213: -5377424299105328842
+    second: dark sonic_113
+  - first:
+      213: 6673789394675585381
+    second: dark sonic_114
+  - first:
+      213: -2908905322560376009
+    second: dark sonic_115
+  - first:
+      213: -7906787475733769375
+    second: dark sonic_116
+  - first:
+      213: -9215396169143661699
+    second: dark sonic_117
+  - first:
+      213: 4776496865757660181
+    second: dark sonic_118
+  - first:
+      213: -620820221066554891
+    second: dark sonic_119
+  - first:
+      213: 3493377967498862063
+    second: dark sonic_120
+  - first:
+      213: 289966724356180372
+    second: dark sonic_121
+  - first:
+      213: -2045149848059380848
+    second: dark sonic_122
+  - first:
+      213: -2254216883324750630
+    second: dark sonic_123
+  - first:
+      213: -6752945214904570453
+    second: dark sonic_126
+  - first:
+      213: -565102264701514838
+    second: dark sonic_127
+  - first:
+      213: 215157491469716972
+    second: dark sonic_128
+  - first:
+      213: -3776373615679588888
+    second: dark sonic_129
+  - first:
+      213: 5815149661567617053
+    second: dark sonic_130
+  - first:
+      213: 2885423788539906332
+    second: dark sonic_131
+  - first:
+      213: -8380558457931319817
+    second: dark sonic_132
+  - first:
+      213: 9036352081015620832
+    second: dark sonic_133
+  - first:
+      213: -3746944887843791987
+    second: dark sonic_134
+  - first:
+      213: 8108270264870919423
+    second: dark sonic_135
+  - first:
+      213: -7928567295811802591
+    second: dark sonic_136
+  - first:
+      213: 2508724712636354322
+    second: dark sonic_137
+  - first:
+      213: -5782895572617004628
+    second: dark sonic_138
+  - first:
+      213: 2510984543570295077
+    second: dark sonic_139
+  - first:
+      213: -7668931482171689203
+    second: dark sonic_140
+  - first:
+      213: -983036914278525071
+    second: dark sonic_141
+  - first:
+      213: 4535949228676874394
+    second: dark sonic_142
+  - first:
+      213: -4591830387457420437
+    second: dark sonic_143
+  - first:
+      213: -1765588276687490776
+    second: dark sonic_144
+  - first:
+      213: -5520760135351574363
+    second: dark sonic_145
+  - first:
+      213: 135329392499063589
+    second: dark sonic_146
+  - first:
+      213: 8192656379001721660
+    second: dark sonic_147
+  - first:
+      213: -2235023242417202740
+    second: dark sonic_148
+  - first:
+      213: 2484488639866165378
+    second: dark sonic_149
+  - first:
+      213: -5445319229576151380
+    second: dark sonic_150
+  - first:
+      213: -8529861388156566816
+    second: dark sonic_151
+  - first:
+      213: 738049387850598896
+    second: dark sonic_152
+  - first:
+      213: -3848883974525884782
+    second: dark sonic_153
+  - first:
+      213: 2898479992320431499
+    second: dark sonic_154
+  - first:
+      213: 4411422600854029970
+    second: dark sonic_155
+  - first:
+      213: -7250970395597311783
+    second: dark sonic_156
+  - first:
+      213: -9113088165662133673
+    second: dark sonic_157
+  - first:
+      213: 3242197907602224175
+    second: dark sonic_158
+  - first:
+      213: -653419261446208063
+    second: dark sonic_159
+  - first:
+      213: 8799985234287626024
+    second: dark sonic_160
+  - first:
+      213: 3390322489588844999
+    second: dark sonic_161
+  - first:
+      213: -8152299562780890406
+    second: dark sonic_162
+  - first:
+      213: 3956406653750421153
+    second: dark sonic_163
+  - first:
+      213: -4721784521019685005
+    second: dark sonic_164
+  - first:
+      213: -3741831927048981916
+    second: dark sonic_165
+  - first:
+      213: 6478493914877305748
+    second: dark sonic_166
+  - first:
+      213: -8190194473089267175
+    second: dark sonic_167
+  - first:
+      213: 2385328149632028694
+    second: dark sonic_168
+  - first:
+      213: -6066563118090355110
+    second: dark sonic_169
+  - first:
+      213: 5814783235261230293
+    second: dark sonic_170
+  - first:
+      213: 8800145892856689191
+    second: dark sonic_171
+  - first:
+      213: -8067422122989023249
+    second: dark sonic_172
+  - first:
+      213: -1926926131606186742
+    second: dark sonic_173
+  - first:
+      213: 2753597218288942115
+    second: dark sonic_174
+  - first:
+      213: 2179694351375814123
+    second: dark sonic_175
+  - first:
+      213: -9154531460537270828
+    second: dark sonic_176
+  - first:
+      213: -4193851181707703704
+    second: dark sonic_177
+  - first:
+      213: -491820621539834628
+    second: dark sonic_178
+  - first:
+      213: 4716263361924216848
+    second: dark sonic_179
+  - first:
+      213: -8318177189704682028
+    second: dark sonic_180
+  - first:
+      213: -5647672119331023915
+    second: dark sonic_181
+  - first:
+      213: -5692685157920134254
+    second: dark sonic_182
+  - first:
+      213: 469758923275293854
+    second: dark sonic_183
+  - first:
+      213: 5214177351677497415
+    second: dark sonic_184
+  - first:
+      213: 5618533199687066765
+    second: dark sonic_185
+  - first:
+      213: 4268466936857537735
+    second: dark sonic_186
+  - first:
+      213: -1395734099398827040
+    second: dark sonic_187
+  - first:
+      213: 1196319521196764583
+    second: dark sonic_188
+  - first:
+      213: -8316668027260909360
+    second: dark sonic_189
+  - first:
+      213: 6713538335958296425
+    second: dark sonic_190
+  - first:
+      213: 6528267621097910985
+    second: dark sonic_191
+  - first:
+      213: 7130363643147426363
+    second: dark sonic_192
+  - first:
+      213: -3876693658223129693
+    second: dark sonic_193
+  - first:
+      213: -6798453818372805812
+    second: dark sonic_194
+  - first:
+      213: -1497661641104603367
+    second: dark sonic_195
+  - first:
+      213: -2427374247284985436
+    second: dark sonic_196
+  - first:
+      213: -9097139878846199996
+    second: dark sonic_197
+  - first:
+      213: -4972561041735454547
+    second: dark sonic_198
+  - first:
+      213: -266839292818301244
+    second: dark sonic_199
+  - first:
+      213: -3713338791387196126
+    second: dark sonic_200
+  - first:
+      213: 6438087069692556904
+    second: dark sonic_201
+  - first:
+      213: -1270604533933128392
+    second: dark sonic_202
+  - first:
+      213: -3309176890579434144
+    second: dark sonic_203
+  - first:
+      213: 2661628734254382851
+    second: dark sonic_204
+  - first:
+      213: -2396741697641861116
+    second: dark sonic_205
+  - first:
+      213: 8378047271718431172
+    second: dark sonic_206
+  - first:
+      213: -7711145814078487254
+    second: dark sonic_207
+  - first:
+      213: 7812949709861158564
+    second: dark sonic_208
+  - first:
+      213: -5955531964422673495
+    second: dark sonic_209
+  - first:
+      213: 7780678650130330351
+    second: dark sonic_210
+  - first:
+      213: -7537393410273858595
+    second: dark sonic_211
+  - first:
+      213: 4488380412984826649
+    second: dark sonic_212
+  - first:
+      213: 2629700436377092566
+    second: dark sonic_213
+  - first:
+      213: -7772640608698985032
+    second: dark sonic_214
+  - first:
+      213: -7865445979678150252
+    second: dark sonic_215
+  - first:
+      213: 4683436667735586750
+    second: dark sonic_216
+  - first:
+      213: -5496660460637159493
+    second: dark sonic_218
+  - first:
+      213: -3675799604036032174
+    second: dark sonic_219
+  - first:
+      213: 1752846870088482459
+    second: dark sonic_260
+  - first:
+      213: -1866378585780422798
+    second: dark sonic_261
+  - first:
+      213: 5213355212187800779
+    second: dark sonic_262
+  - first:
+      213: -4786739204010345261
+    second: dark sonic_263
+  - first:
+      213: 8689376449506942704
+    second: dark sonic_264
+  - first:
+      213: -4788307169775202134
+    second: dark sonic_265
+  - first:
+      213: -1928980962229169144
+    second: dark sonic_266
+  - first:
+      213: -3403277991245600285
+    second: dark sonic_267
+  - first:
+      213: -1457900128868382312
+    second: dark sonic_268
+  - first:
+      213: 7567671262388369330
+    second: dark sonic_269
+  - first:
+      213: -6167894518307254393
+    second: dark sonic_270
+  - first:
+      213: 8145156640455665796
+    second: dark sonic_271
+  - first:
+      213: 4056631785196612559
+    second: dark sonic_272
+  - first:
+      213: 5914819499850965599
+    second: dark sonic_273
+  - first:
+      213: 7574699467567870169
+    second: dark sonic_275
+  - first:
+      213: -7083141107627748631
+    second: dark sonic_276
+  - first:
+      213: -4805962326778302065
+    second: dark sonic_277
+  - first:
+      213: -510724944478631690
+    second: dark sonic_283
+  - first:
+      213: -5084671364273109839
+    second: dark sonic_285
+  - first:
+      213: -3595321211803085898
+    second: dark sonic_288
+  - first:
+      213: -134891084133655495
+    second: dark sonic_289
+  - first:
+      213: -6418400382997134038
+    second: dark sonic_290
+  - first:
+      213: 8121646889092811501
+    second: dark sonic_291
+  - first:
+      213: -4117431007509722015
+    second: dark sonic_292
+  - first:
+      213: -6497744176743390051
+    second: dark sonic_293
+  - first:
+      213: 4586807554104410390
+    second: dark sonic_294
+  - first:
+      213: 8734292781291438685
+    second: dark sonic_295
+  - first:
+      213: -5962522630517389369
+    second: dark sonic_296
+  - first:
+      213: 2185139500321411514
+    second: dark sonic_297
+  - first:
+      213: 6280689127094600278
+    second: dark sonic_298
+  - first:
+      213: 4418645979355268485
+    second: dark sonic_299
+  - first:
+      213: -8444867430472947843
+    second: dark sonic_300
+  - first:
+      213: -2773256383541931267
+    second: dark sonic_301
+  - first:
+      213: -2172514091364497551
+    second: dark sonic_302
+  - first:
+      213: -7850514305815217252
+    second: dark sonic_303
+  - first:
+      213: 3347085544627049090
+    second: dark sonic_304
+  - first:
+      213: -8464964686145924659
+    second: dark sonic_305
+  - first:
+      213: 1432935124287996454
+    second: dark sonic_306
+  - first:
+      213: 8820631723454083790
+    second: dark sonic_307
+  - first:
+      213: 6543054100592530634
+    second: dark sonic_308
+  - first:
+      213: -8864458760534091378
+    second: dark sonic_309
+  - first:
+      213: 7203717617847116470
+    second: dark sonic_310
+  - first:
+      213: 7782292585907807385
+    second: dark sonic_311
+  - first:
+      213: -5872429292537871459
+    second: dark sonic_312
+  - first:
+      213: -2321037019023553747
+    second: dark sonic_313
+  - first:
+      213: 5960545296823234451
+    second: dark sonic_314
+  - first:
+      213: -2917044707662388719
+    second: dark sonic_315
+  - first:
+      213: -8541698469138671886
+    second: dark sonic_316
+  - first:
+      213: -2519129545591347749
+    second: dark sonic_317
+  - first:
+      213: 5362940614109478640
+    second: dark sonic_318
+  - first:
+      213: -8671206016005907908
+    second: dark sonic_319
+  - first:
+      213: -4569794009821265895
+    second: dark sonic_321
+  - first:
+      213: 4441902931559035263
+    second: dark sonic_322
+  - first:
+      213: -3254828191347541837
+    second: dark sonic_324
+  - first:
+      213: 8996681141466600131
+    second: dark sonic_325
+  - first:
+      213: -1151270611169670605
+    second: dark sonic_327
+  - first:
+      213: -4741355296451326003
+    second: dark sonic_328
+  - first:
+      213: 1715136922719289211
+    second: dark sonic_329
+  - first:
+      213: 8489271100681119795
+    second: dark sonic_331
+  - first:
+      213: -5682528717348998977
+    second: dark sonic_334
+  - first:
+      213: 5649111794951193435
+    second: dark sonic_336
+  - first:
+      213: -9206216235087182634
+    second: dark sonic_337
+  - first:
+      213: -5045765382606463626
+    second: dark sonic_339
+  - first:
+      213: -2265229157452193361
+    second: dark sonic_340
+  - first:
+      213: -7990908906495979658
+    second: dark sonic_341
+  - first:
+      213: 4750082488934197930
+    second: dark sonic_342
+  - first:
+      213: -5888890397827329494
+    second: dark sonic_343
+  - first:
+      213: 3446869525471979377
+    second: dark sonic_344
+  - first:
+      213: -6467232731215776381
+    second: dark sonic_345
+  - first:
+      213: 2001392238571361679
+    second: dark sonic_346
+  - first:
+      213: 4629143484651561767
+    second: dark sonic_347
+  - first:
+      213: 4329928877201132836
+    second: dark sonic_348
+  - first:
+      213: -8801026632339149818
+    second: dark sonic_349
+  - first:
+      213: -5644202772681401405
+    second: dark sonic_350
+  - first:
+      213: 6200280202235359761
+    second: dark sonic_351
+  - first:
+      213: -7890786005754643967
+    second: dark sonic_352
+  - first:
+      213: -8584588381595059515
+    second: dark sonic_353
+  - first:
+      213: -1719383026398806890
+    second: dark sonic_354
+  - first:
+      213: 3500614597436976879
+    second: dark sonic_355
+  - first:
+      213: -3487140540104086949
+    second: dark sonic_356
+  - first:
+      213: -675124900207072516
+    second: dark sonic_357
+  - first:
+      213: 6324215544764404832
+    second: dark sonic_358
+  - first:
+      213: 8395879821215382815
+    second: dark sonic_359
+  - first:
+      213: -7920775639497901938
+    second: dark sonic_360
+  - first:
+      213: 3346267140313024154
+    second: dark sonic_361
+  - first:
+      213: 2323618051155551942
+    second: dark sonic_362
+  - first:
+      213: -3172681407439885277
+    second: dark sonic_363
+  - first:
+      213: 541545653138240848
+    second: dark sonic_364
+  - first:
+      213: 8168120097792278215
+    second: dark sonic_365
+  - first:
+      213: 8349160243080521209
+    second: dark sonic_366
+  - first:
+      213: -7749201877193557959
+    second: dark sonic_367
+  - first:
+      213: -5413797682148036615
+    second: dark sonic_368
+  - first:
+      213: 2759254560898133157
+    second: dark sonic_369
+  - first:
+      213: 5276412399544819130
+    second: dark sonic_370
+  - first:
+      213: -8427095023030375969
+    second: dark sonic_371
+  - first:
+      213: 914355732831517379
+    second: dark sonic_372
+  - first:
+      213: 31620432208505759
+    second: dark sonic_373
+  - first:
+      213: 8454020864523291072
+    second: dark sonic_374
+  - first:
+      213: 7003069247664186461
+    second: dark sonic_375
+  - first:
+      213: 2299896733182426064
+    second: dark sonic_376
+  - first:
+      213: -980726591948705883
+    second: dark sonic_377
+  - first:
+      213: 1299698140485731414
+    second: dark sonic_378
+  - first:
+      213: 228387662844519058
+    second: dark sonic_379
+  - first:
+      213: 2810206503915412930
+    second: dark sonic_380
+  - first:
+      213: -8910030800560327911
+    second: dark sonic_381
+  - first:
+      213: 2598679579107936550
+    second: dark sonic_382
+  - first:
+      213: -3225664786588221164
+    second: dark sonic_393
+  - first:
+      213: -7271950116627813249
+    second: dark sonic_396
+  - first:
+      213: -2845605338159069662
+    second: dark sonic_399
+  - first:
+      213: 1410677360997324621
+    second: dark sonic_402
+  - first:
+      213: 9013098276659278546
+    second: dark sonic_44
+  - first:
+      213: -3351001742683686599
+    second: dark sonic_45
+  - first:
+      213: 6537186925721598801
+    second: dark sonic_46
+  - first:
+      213: -1157337766162624542
+    second: dark sonic_47
+  - first:
+      213: -6851505533003586403
+    second: dark sonic_48
+  - first:
+      213: -1358864272259547926
+    second: dark sonic_49
+  - first:
+      213: 8458968261543556261
+    second: dark sonic_91
+  - first:
+      213: -2215143851587165901
+    second: dark sonic_92
+  - first:
+      213: 8062818607106319902
+    second: dark sonic_93
+  - first:
+      213: -5511837083531846448
+    second: dark sonic_94
+  - first:
+      213: 3443769246537249876
+    second: dark sonic_95
+  - first:
+      213: -656134071809728711
+    second: dark sonic_96
+  - first:
+      213: 4367144622218173099
+    second: dark sonic_97
+  - first:
+      213: 5122758840086723938
+    second: dark sonic_98
+  - first:
+      213: 17235826271681778
+    second: dark sonic_99
+  - first:
+      213: -5291664766298556030
+    second: dark sonic_100
+  - first:
+      213: -3754555513431083606
+    second: dark sonic_101
+  - first:
+      213: 8857994607602160485
+    second: dark sonic_102
+  - first:
+      213: 761864661740948275
+    second: dark sonic_103
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dark sonic_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1797
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0af00c4ae83c3d0800000000000000
+      internalID: -3187547273000148799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1797
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b39dcc4fc0be0e90800000000000000
+      internalID: -7057509161649728592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1797
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02e3bc90224b06b0800000000000000
+      internalID: -5329093026227428849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1797
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ed13c5f66119db0800000000000000
+      internalID: -4787020261374173630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1797
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41b5af8123edfad0800000000000000
+      internalID: -2666725671050038963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1797
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a789be725bf3fcab0800000000000000
+      internalID: -4985696215184467846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_6
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1795
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05f7dd6ac662eb50800000000000000
+      internalID: 6620967421800346891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1795
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8e5248e989646c0800000000000000
+      internalID: -4159469399240742751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_8
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1795
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd516023a3b799ae0800000000000000
+      internalID: -1542065907520104996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_9
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1795
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378d81b0f3bfc9550800000000000000
+      internalID: 6169081837778425971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_10
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1795
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb14fa784d4c75f0800000000000000
+      internalID: -757645663609283591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_11
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1793
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72105378601859d0800000000000000
+      internalID: -2785458328731381125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1750
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4648876bd0e2b1c80800000000000000
+      internalID: -8351030447597648796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1750
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921f1f5fa298ede70800000000000000
+      internalID: 9141895111216591145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1750
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a86705ee087bb980800000000000000
+      internalID: -8522085864501188447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1752
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0092255c15e142830800000000000000
+      internalID: 4045391701837228288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1752
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27c855171c1dd410800000000000000
+      internalID: 1503388736079578925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1753
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1594207b0938072d0800000000000000
+      internalID: -3282979470784181935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1703
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d96e11dfd23e9d0800000000000000
+      internalID: -2746300782815568571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1703
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60615ceee961001b0800000000000000
+      internalID: -5692525057129769466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_20
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1703
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77867ad7a838a9da0800000000000000
+      internalID: -5937288527897728905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_21
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1702
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd952a05497cd0d0800000000000000
+      internalID: -3396706681514254857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1702
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc68cbe46f8909d70800000000000000
+      internalID: 9047899835037681356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_23
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1702
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06755023f7e0e1e60800000000000000
+      internalID: 7934795532936238944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_24
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1698
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ba0ed6daa0b89d0800000000000000
+      internalID: -2771109405727347847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1699
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14435654f258bf80800000000000000
+      internalID: -8090625521197300709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_26
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1708
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fab7ede9631fa100800000000000000
+      internalID: 121337060646173425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_27
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1700
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcddf509d5647e60800000000000000
+      internalID: 7959098424253340880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_28
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1708
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bebc85d003e4060800000000000000
+      internalID: 6939536909706980213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1655
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d7e0c7fe3a0d850800000000000000
+      internalID: 6399795319467310351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1655
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3a8cc3e18f4a900800000000000000
+      internalID: 694953051274388447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1654
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af768759dd6e538d0800000000000000
+      internalID: -2867131748381595654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1656
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e009ab20c827d4e30800000000000000
+      internalID: 4489370349225021454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_33
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1656
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0aec71728b5f580800000000000000
+      internalID: -8793920219328372549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_34
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1652
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e994e29fff1e510800000000000000
+      internalID: 1576822790244900362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_35
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1651
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4c0d95f81418da0800000000000000
+      internalID: -5944397949209361185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_36
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1684
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcb4a9a690068e20800000000000000
+      internalID: 3352367619715153079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_37
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1684
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dfe399043d1d330800000000000000
+      internalID: 3733997840469261644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_38
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1684
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019cd2f2526f0cf50800000000000000
+      internalID: 6899785268697352464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_39
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1685
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad56f1eafbd669b30800000000000000
+      internalID: 4293739964771821018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_40
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1684
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed8ced144758e310800000000000000
+      internalID: 1434492431388937706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_41
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1683
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60524290d1b9b5c0800000000000000
+      internalID: -4199129668181143445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_42
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1683
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff7f66b327978990800000000000000
+      internalID: -7383766884410228742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_43
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1654
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6614d27a9312d33b0800000000000000
+      internalID: -5531228235839487642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1601
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab98d8e1de2dc8100800000000000000
+      internalID: 111696006639094202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1601
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75d1ae5003099280800000000000000
+      internalID: -9036187877219641988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_52
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1606
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b06ca11acc71def0800000000000000
+      internalID: -85149710621581128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_53
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1606
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e5c9be9b3656d30800000000000000
+      internalID: 4424051859134373398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_54
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1606
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f84e114d570b50f0800000000000000
+      internalID: -1127299184620320522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_55
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1607
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffec98bd26692c420800000000000000
+      internalID: 2648844882181476095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_56
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1606
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb05ed1a21c686110800000000000000
+      internalID: 1254371323503595708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_57
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1606
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fbaa37d881e67b0800000000000000
+      internalID: -5229215121520541905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_58
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1606
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705f5217a6f200ee0800000000000000
+      internalID: -1296984558471351033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_59
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1602
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252fa62b5c0880660800000000000000
+      internalID: 7352267978272600658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_60
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1601
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab56e295289d3ab10800000000000000
+      internalID: 1991674614093079994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_61
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1601
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b9b3f2e672717f0800000000000000
+      internalID: -642001067684684938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_62
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1601
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf1bfd2d2c348ee0800000000000000
+      internalID: -1259815831014268982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_63
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1553
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acd72e9881bceb60800000000000000
+      internalID: 7776785856889085095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1555
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db1cba9c20607d20800000000000000
+      internalID: 3274222673789197269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_65
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1557
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696ad2211d87f1590800000000000000
+      internalID: -7701303998431779178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_66
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1557
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dcb604dba8eee80800000000000000
+      internalID: -8147422130432389849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_67
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1556
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61321281d3bd44990800000000000000
+      internalID: -7402550832045939946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_68
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1553
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccb1142fcedc5b70800000000000000
+      internalID: 8889224745767255235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_69
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1553
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f4ec72c7b9dd990800000000000000
+      internalID: -7359555258507440303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_70
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1553
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bb533883eda3850800000000000000
+      internalID: 6357638158287747855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_71
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1553
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62e4913af575a2f0800000000000000
+      internalID: -962233227939618196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_72
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1553
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f9460f5a4d092d0800000000000000
+      internalID: -3273883119930532074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_73
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1494
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3f672cf12eab4d0800000000000000
+      internalID: -3117931165966208039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_74
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1495
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79762914b2375b8d0800000000000000
+      internalID: -2831230161111586921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1514
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca6594567035c210800000000000000
+      internalID: 1352540547878054605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_76
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1514
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a474cf57d8cc9a0800000000000000
+      internalID: -6211434248167536022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_77
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1506
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1462991aa418adaa0800000000000000
+      internalID: -6135449384800147903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_78
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1506
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe50d9bb2a2155b0800000000000000
+      internalID: -5381473712441630978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_79
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1510
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64a7a2a3afc6cb60800000000000000
+      internalID: 7766122909162513518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_80
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1508
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260a3c5f6324a4b70800000000000000
+      internalID: 8883986018760630370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_81
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1507
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919127b90442c70c0800000000000000
+      internalID: -4576743261410813671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_82
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1510
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f371e0cafa916fb00800000000000000
+      internalID: 861904620984604479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_83
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1466
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b2293b8c18ebfc0800000000000000
+      internalID: -3477199163277300864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_84
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1466
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95662958bca4b7cd0800000000000000
+      internalID: -2559369725250214311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_85
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1468
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece396d77a250beb0800000000000000
+      internalID: -4706170731285102898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_86
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1470
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a27cfdfba79c1a00800000000000000
+      internalID: 728624004683559591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_87
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1470
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5296b7710bce910800000000000000
+      internalID: 1868061560353138142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_88
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1460
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad6df9b8c5d532c0800000000000000
+      internalID: -4452417598495298143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_89
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1458
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e4d9a564d51df0800000000000000
+      internalID: -210028274496772444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_90
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1457
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417d8bcc05fab4de0800000000000000
+      internalID: -1347790901900421356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_110
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1380
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20424ad829abe290800000000000000
+      internalID: -7860002731719507921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_111
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1380
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaf1e5fe46c65b90800000000000000
+      internalID: -7253392107398628612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_112
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1380
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9692b77de46ae8c0800000000000000
+      internalID: -3969249150495451494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_113
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1379
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631e54d371d8f55b0800000000000000
+      internalID: -5377424299105328842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_114
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1380
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561586f58101e9c50800000000000000
+      internalID: 6673789394675585381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_115
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1331
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733bb8b650e71a7d0800000000000000
+      internalID: -2908905322560376009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_116
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1333
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163916acea2754290800000000000000
+      internalID: -7906787475733769375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_117
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1334
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b42b962065c1080800000000000000
+      internalID: -9215396169143661699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_118
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1333
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514804aa796894240800000000000000
+      internalID: 4776496865757660181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_119
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1334
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1d2f55c476267f0800000000000000
+      internalID: -620820221066554891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_120
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1332
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed12f2b0c8fa7030800000000000000
+      internalID: 3493377967498862063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_121
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1276
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4990fe1133b260400800000000000000
+      internalID: 289966724356180372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_122
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1275
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bf9f18c0b2e93e0800000000000000
+      internalID: -2045149848059380848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_123
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1274
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad47dbe10b967b0e0800000000000000
+      internalID: -2254216883324750630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_126
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1274
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad60fd0b18b842a0800000000000000
+      internalID: -6752945214904570453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_127
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1272
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab82bafb7a5828f0800000000000000
+      internalID: -565102264701514838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_128
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1272
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced01d939946cf200800000000000000
+      internalID: 215157491469716972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_129
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1272
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5b2426430a79bc0800000000000000
+      internalID: -3776373615679588888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_130
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1272
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d188875aecf83b050800000000000000
+      internalID: 5815149661567617053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_131
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1271
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c190266e5a51b0820800000000000000
+      internalID: 2885423788539906332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_132
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1272
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5bb9f0c7642bb80800000000000000
+      internalID: -8380558457931319817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_133
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1211
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e44c4e4752976d70800000000000000
+      internalID: 9036352081015620832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_134
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1211
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bda170a7d200cc0800000000000000
+      internalID: -3746944887843791987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_135
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1211
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc5e70b8dc568070800000000000000
+      internalID: 8108270264870919423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_136
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1211
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aab534d0218f190800000000000000
+      internalID: -7928567295811802591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_137
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1211
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f0fe795d7c0d220800000000000000
+      internalID: 2508724712636354322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_138
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1207
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9fbf4ad170fbfa0800000000000000
+      internalID: -5782895572617004628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_139
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1207
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529f00c732fc8d220800000000000000
+      internalID: 2510984543570295077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_140
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1207
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07b85ed27b729590800000000000000
+      internalID: -7668931482171689203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_141
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1207
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1771553822d8b52f0800000000000000
+      internalID: -983036914278525071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_142
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1207
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a900e7e7acde2fe30800000000000000
+      internalID: 4535949228676874394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_143
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1207
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6391c6579a8640c0800000000000000
+      internalID: -4591830387457420437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_144
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1153
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b27c11de5f77e0800000000000000
+      internalID: -1765588276687490776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_145
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1150
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a06b3a38e15263b0800000000000000
+      internalID: -5520760135351574363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_146
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1150
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b739f8d59c0e100800000000000000
+      internalID: 135329392499063589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_147
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1150
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c335c35f19922b170800000000000000
+      internalID: 8192656379001721660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_148
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1150
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc91bf2e33a9bf0e0800000000000000
+      internalID: -2235023242417202740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_149
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1150
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28857bb214daa7220800000000000000
+      internalID: 2484488639866165378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_150
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1150
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae7280e2075e64b0800000000000000
+      internalID: -5445319229576151380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_151
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1150
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e28b97b248df9980800000000000000
+      internalID: -8529861388156566816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_152
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1150
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9878502041e3a00800000000000000
+      internalID: 738049387850598896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_153
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1150
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296e0bcda64069ac0800000000000000
+      internalID: -3848883974525884782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_154
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1094
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8516da3238793820800000000000000
+      internalID: 2898479992320431499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_155
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1101
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296c8069b75883d30800000000000000
+      internalID: 4411422600854029970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_156
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1092
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d07c8da7d06f5b90800000000000000
+      internalID: -7250970395597311783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_157
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1093
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75274e6b89ec78180800000000000000
+      internalID: -9113088165662133673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_158
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1090
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24352ea1d99efc20800000000000000
+      internalID: 3242197907602224175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_159
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1108
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5c918c4a69ee6f0800000000000000
+      internalID: -653419261446208063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_160
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1093
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827856e32f3df1a70800000000000000
+      internalID: 8799985234287626024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_161
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1096
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c906f17758dc0f20800000000000000
+      internalID: 3390322489588844999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_162
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1091
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada6fd98db63dde80800000000000000
+      internalID: -8152299562780890406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_163
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1091
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a629cfb3eaf7e630800000000000000
+      internalID: 3956406653750421153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_164
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1044
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3770fa6cef9d87eb0800000000000000
+      internalID: -4721784521019685005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_165
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1044
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462b70bffa7521cc0800000000000000
+      internalID: -3741831927048981916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_166
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1044
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493aacb14eb38e950800000000000000
+      internalID: 6478493914877305748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_167
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1044
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a852e2585965e80800000000000000
+      internalID: -8190194473089267175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_168
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1045
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6109e8760536a1120800000000000000
+      internalID: 2385328149632028694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_169
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1048
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5efcb27cfc3fcba0800000000000000
+      internalID: -6066563118090355110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_170
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1048
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc64af5b8242b050800000000000000
+      internalID: 5814783235261230293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_171
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1048
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722f55b7016602a70800000000000000
+      internalID: 8800145892856689191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_172
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1048
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef8c1a7252ca0090800000000000000
+      internalID: -8067422122989023249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_173
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 996
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05123184ee2245e0800000000000000
+      internalID: -1926926131606186742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_174
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 996
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cbd92b41eb63620800000000000000
+      internalID: 2753597218288942115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_175
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 996
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed4eacc674df3e10800000000000000
+      internalID: 2179694351375814123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_176
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 992
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddb981b32294f080800000000000000
+      internalID: -9154531460537270828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_177
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 994
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ac579f1927cc5c0800000000000000
+      internalID: -4193851181707703704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_178
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 994
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf408ef10c3bc29f0800000000000000
+      internalID: -491820621539834628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_179
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 992
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018bea23a88837140800000000000000
+      internalID: 4716263361924216848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_180
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 957
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d535e4eae5ef8c80800000000000000
+      internalID: -8318177189704682028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_181
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 957
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3956f41207f91b0800000000000000
+      internalID: -5647672119331023915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_182
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 957
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b280092058ff0b0800000000000000
+      internalID: -5692685157920134254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_183
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 958
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94d4e7704be48600800000000000000
+      internalID: 469758923275293854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_184
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 908
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740df9aecaa7c5840800000000000000
+      internalID: 5214177351677497415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_185
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 908
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8426164d2a09fd40800000000000000
+      internalID: 5618533199687066765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_186
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 909
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cca4e25014ac3b30800000000000000
+      internalID: 4268466936857537735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_187
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 909
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3ee644b3b51ace0800000000000000
+      internalID: -1395734099398827040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_188
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 908
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad6cc2244e2a9010800000000000000
+      internalID: 1196319521196764583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_189
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 907
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8c3482e72459c80800000000000000
+      internalID: -8316668027260909360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_190
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 904
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967e2c4fb874b2d50800000000000000
+      internalID: 6713538335958296425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_191
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 904
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2b93a20d0199a50800000000000000
+      internalID: 6528267621097910985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_192
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 851
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a992584f324f260800000000000000
+      internalID: 7130363643147426363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_193
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 853
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abc99e48a7333ac0800000000000000
+      internalID: -3876693658223129693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_194
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 856
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4badfd954a07a1a0800000000000000
+      internalID: -6798453818372805812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_195
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 855
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9174b302cac373be0800000000000000
+      internalID: -1497661641104603367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_196
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 857
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1b5ad9bfb305ed0800000000000000
+      internalID: -2427374247284985436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_197
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 859
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44705599a7770c180800000000000000
+      internalID: -9097139878846199996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_198
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 860
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0796b041aedfab0800000000000000
+      internalID: -4972561041735454547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_199
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 859
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ced273b31ffb4cf0800000000000000
+      internalID: -266839292818301244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_200
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 859
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22510b81b02977cc0800000000000000
+      internalID: -3713338791387196126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_201
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 806
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8667f06541ea85950800000000000000
+      internalID: 6438087069692556904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_202
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 798
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8354ae888e7ed5ee0800000000000000
+      internalID: -1270604533933128392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_203
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 808
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065c41a96217312d0800000000000000
+      internalID: -3309176890579434144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_204
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 800
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f743d5b3100f420800000000000000
+      internalID: 2661628734254382851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_205
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 797
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400b0bddf101dbed0800000000000000
+      internalID: -2396741697641861116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_206
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 807
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c92536da9dc44470800000000000000
+      internalID: 8378047271718431172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_207
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 805
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a258c9cccb18cf490800000000000000
+      internalID: -7711145814078487254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_208
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 800
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aef348cd5c2d6c60800000000000000
+      internalID: 7812949709861158564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_209
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 805
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab2a1c6b33b95da0800000000000000
+      internalID: -5955531964422673495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_210
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 812
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2fb7c22068afb60800000000000000
+      internalID: 7780678650130330351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_211
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 816
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddba140d0acc56790800000000000000
+      internalID: -7537393410273858595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_212
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 811
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b18c4843ee94e30800000000000000
+      internalID: 4488380412984826649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_213
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 804
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d142f73d929e7420800000000000000
+      internalID: 2629700436377092566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_214
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 809
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b598bf2c88022490800000000000000
+      internalID: -7772640608698985032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_215
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 797
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491724ded8258d290800000000000000
+      internalID: -7865445979678150252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_216
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 797
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb73b6cd5d8eef040800000000000000
+      internalID: 4683436667735586750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_218
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 748
+        width: 91
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf79c00f60f7b3b0800000000000000
+      internalID: -5496660460637159493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_219
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 746
+        width: 86
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25929ef3cbfecfcc0800000000000000
+      internalID: -3675799604036032174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_260
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 649
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e774df0fc535810800000000000000
+      internalID: 1752846870088482459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_261
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 647
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2777922909a4916e0800000000000000
+      internalID: -1866378585780422798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_262
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 646
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc49266a1fe895840800000000000000
+      internalID: 5213355212187800779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_263
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 659
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcf6802e06129db0800000000000000
+      internalID: -4786739204010345261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_264
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 657
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe9180b7ddd69870800000000000000
+      internalID: 8689376449506942704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_265
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 654
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0d716aff38c8db0800000000000000
+      internalID: -4788307169775202134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_266
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 656
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804d6d7f802ea35e0800000000000000
+      internalID: -1928980962229169144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_267
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 653
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9a6e3c2b025c0d0800000000000000
+      internalID: -3403277991245600285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_268
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 655
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899cdcc9e8f74cbe0800000000000000
+      internalID: -1457900128868382312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_269
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 655
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7379bfae4c50960800000000000000
+      internalID: 7567671262388369330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_270
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 654
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f87305d9c376aa0800000000000000
+      internalID: -6167894518307254393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_271
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 599
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48826424fc8690170800000000000000
+      internalID: 8145156640455665796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_272
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 600
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbe33d9d1d0c4830800000000000000
+      internalID: 4056631785196612559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_273
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 598
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52ab2f3ff8a51250800000000000000
+      internalID: 5914819499850965599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_275
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 594
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d039b4880dbe1960800000000000000
+      internalID: 7574699467567870169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_276
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 592
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e291e1d0b0a3bd90800000000000000
+      internalID: -7083141107627748631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_277
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 589
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8138741abacd4db0800000000000000
+      internalID: -4805962326778302065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_283
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 588
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f88b627e5a89e8f0800000000000000
+      internalID: -510724944478631690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_285
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 589
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b486ec755e9f69b0800000000000000
+      internalID: -5084671364273109839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_288
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 548
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3dc0d186ada1ec0800000000000000
+      internalID: -3595321211803085898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_289
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 547
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c98de0645c02ef0800000000000000
+      internalID: -134891084133655495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_290
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 547
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2589399bd24de6a0800000000000000
+      internalID: -6418400382997134038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_291
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 547
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea8887b0d2e5b070800000000000000
+      internalID: 8121646889092811501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_292
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 547
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c44325052fbd6c0800000000000000
+      internalID: -4117431007509722015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_293
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 566
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94e8d7091063d5a0800000000000000
+      internalID: -6497744176743390051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_294
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 565
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611c8732b2d97af30800000000000000
+      internalID: 4586807554104410390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_295
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 566
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5282212201763970800000000000000
+      internalID: 8734292781291438685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_296
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 562
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c788c2224dd04da0800000000000000
+      internalID: -5962522630517389369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_297
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 539
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab115555ccc235e10800000000000000
+      internalID: 2185139500321411514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_298
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 540
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652c12d0c7d792750800000000000000
+      internalID: 6280689127094600278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_299
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 539
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585cda37b1f225d30800000000000000
+      internalID: 4418645979355268485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_300
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 539
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77e46790ddcdca80800000000000000
+      internalID: -8444867430472947843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_301
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 497
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df216e3330a6389d0800000000000000
+      internalID: -2773256383541931267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_302
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 498
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17740b2c1fda9d1e0800000000000000
+      internalID: -2172514091364497551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_303
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 498
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bf2c925de5d0390800000000000000
+      internalID: -7850514305815217252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_304
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 451
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2821758b19c337e20800000000000000
+      internalID: 3347085544627049090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_305
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 452
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1db0e9777668a80800000000000000
+      internalID: -8464964686145924659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_306
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 451
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622cd5d47eec2e310800000000000000
+      internalID: 1432935124287996454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_307
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 448
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2b50b91dd296a70800000000000000
+      internalID: 8820631723454083790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_308
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 396
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac41bf3b9099dca50800000000000000
+      internalID: 6543054100592530634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_309
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 393
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89144429bd1bf480800000000000000
+      internalID: -8864458760534091378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_310
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 396
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2200aa10fb8f360800000000000000
+      internalID: 7203717617847116470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_311
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 399
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994e031efd1400c60800000000000000
+      internalID: 7782292585907807385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_312
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 398
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d938ea10ca0f08ea0800000000000000
+      internalID: -5872429292537871459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_313
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 398
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bc19ae0250acfd0800000000000000
+      internalID: -2321037019023553747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_314
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 401
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f26ccfd5c18b250800000000000000
+      internalID: 5960545296823234451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_315
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 398
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112a9d52b439487d0800000000000000
+      internalID: -2917044707662388719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_316
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 399
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6dd788f7ac57980800000000000000
+      internalID: -8541698469138671886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_317
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 354
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd526d376014a0dd0800000000000000
+      internalID: -2519129545591347749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_318
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 354
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0feb28f031efc6a40800000000000000
+      internalID: 5362940614109478640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_319
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 354
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3adcb90210b9a780800000000000000
+      internalID: -8671206016005907908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_321
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 354
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91045e35f84d490c0800000000000000
+      internalID: -4569794009821265895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_322
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 354
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71b75a9e2fc4ad30800000000000000
+      internalID: 4441902931559035263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_324
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 354
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b87dc9310784d2d0800000000000000
+      internalID: -3254828191347541837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_325
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 354
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2929ae4d1aadc70800000000000000
+      internalID: 8996681141466600131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_327
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 354
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a82e49a7dd500f0800000000000000
+      internalID: -1151270611169670605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_328
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 354
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf0a198a72533eb0800000000000000
+      internalID: -4741355296451326003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_329
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 354
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ff6dba1f36dc710800000000000000
+      internalID: 1715136922719289211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_331
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 354
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33866168613ffc570800000000000000
+      internalID: 8489271100681119795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_334
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 354
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0f4782d3a9321b0800000000000000
+      internalID: -5682528717348998977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_336
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 354
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53098a4f3da56e40800000000000000
+      internalID: 5649111794951193435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_337
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 353
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4c13e5c13fc3080800000000000000
+      internalID: -9206216235087182634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_339
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 354
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d57cd3e17d9f9b0800000000000000
+      internalID: -5045765382606463626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_340
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 354
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1643f351a4090e0800000000000000
+      internalID: -2265229157452193361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_341
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 354
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f4dcbefa69a1190800000000000000
+      internalID: -7990908906495979658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_342
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 314
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaae9be4bdeabe140800000000000000
+      internalID: 4750082488934197930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_343
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 309
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a221b444265764ea0800000000000000
+      internalID: -5888890397827329494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_344
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 314
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17760e4329db5df20800000000000000
+      internalID: 3446869525471979377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_345
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 312
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385ba188816cf36a0800000000000000
+      internalID: -6467232731215776381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_346
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 307
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85154c13af56cb10800000000000000
+      internalID: 2001392238571361679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_347
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 316
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72368f819750e3040800000000000000
+      internalID: 4629143484651561767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_348
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 312
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d87447f5ff61c30800000000000000
+      internalID: 4329928877201132836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_349
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 310
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c2ca068e87cd580800000000000000
+      internalID: -8801026632339149818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_350
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 249
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbdc068b73cba1b0800000000000000
+      internalID: -5644202772681401405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_351
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 249
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11230225ef1db0650800000000000000
+      internalID: 6200280202235359761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_352
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 249
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10afe585feb4e7290800000000000000
+      internalID: -7890786005754643967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_353
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 249
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cab41c995a6dd880800000000000000
+      internalID: -8584588381595059515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_354
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 249
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cb9a64f368328e0800000000000000
+      internalID: -1719383026398806890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_355
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 249
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee27c7ed6ea49030800000000000000
+      internalID: 3500614597436976879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_356
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 249
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a6b3987203b9fc0800000000000000
+      internalID: -3487140540104086949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_357
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 249
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfae220fa7971a6f0800000000000000
+      internalID: -675124900207072516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_358
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 249
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0649fa4e78024c750800000000000000
+      internalID: 6324215544764404832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_359
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 249
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1db960d638248470800000000000000
+      internalID: 8395879821215382815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_360
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 249
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88f82e9580c31290800000000000000
+      internalID: -7920775639497901938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_361
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 249
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a968bed1c34507e20800000000000000
+      internalID: 3346267140313024154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_362
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 249
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6efc47e462f3020800000000000000
+      internalID: 2323618051155551942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_363
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 249
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c2f0cc11f58f3d0800000000000000
+      internalID: -3172681407439885277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_364
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 249
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05536fcf6e4f38700800000000000000
+      internalID: 541545653138240848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_365
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 249
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce33afc3fdfa5170800000000000000
+      internalID: 8168120097792278215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_366
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 249
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5e0ad510d2ed370800000000000000
+      internalID: 8349160243080521209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_367
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 203
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938761123fd457490800000000000000
+      internalID: -7749201877193557959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_368
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 203
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffabbd01b35ed4b0800000000000000
+      internalID: -5413797682148036615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_369
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 203
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aca53b6767da4620800000000000000
+      internalID: 2759254560898133157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_370
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 203
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdd55b2f15993940800000000000000
+      internalID: 5276412399544819130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_371
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 203
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9efc7a9b1fc0b80800000000000000
+      internalID: -8427095023030375969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_372
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 203
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cab3cdc1b170bc00800000000000000
+      internalID: 914355732831517379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_373
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 203
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bae659d96507000800000000000000
+      internalID: 31620432208505759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_374
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 203
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9c6a95f27b25570800000000000000
+      internalID: 8454020864523291072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_375
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 203
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d546c7c7066ef2160800000000000000
+      internalID: 7003069247664186461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_376
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 203
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db7b69b4efdaef10800000000000000
+      internalID: 2299896733182426064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_377
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 203
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af2e195c52c362f0800000000000000
+      internalID: -980726591948705883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_378
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 203
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65443ea9294790210800000000000000
+      internalID: 1299698140485731414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_379
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 203
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292edea8e556b2300800000000000000
+      internalID: 228387662844519058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_380
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 203
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdde5b1debdff620800000000000000
+      internalID: 2810206503915412930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_381
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 203
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913ffcab136395480800000000000000
+      internalID: -8910030800560327911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_382
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 203
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6294acd0f4d501420800000000000000
+      internalID: 2598679579107936550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_393
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 90
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4114ce687f22c33d0800000000000000
+      internalID: -3225664786588221164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_396
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 90
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ce90ab5e7d41b90800000000000000
+      internalID: -7271950116627813249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_399
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 90
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226c21885016288d0800000000000000
+      internalID: -2845605338159069662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_402
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 90
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d475ee2f59bb39310800000000000000
+      internalID: 1410677360997324621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1426
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d236f11125f41d70800000000000000
+      internalID: 9013098276659278546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_45
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1422
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939bf9d5ba9de71d0800000000000000
+      internalID: -3351001742683686599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1423
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bb6f99fd0c8ba50800000000000000
+      internalID: 6537186925721598801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1423
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef8bbafe6f40ffe0800000000000000
+      internalID: -1157337766162624542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_48
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1420
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94a2b0c4009ae0a0800000000000000
+      internalID: -6851505533003586403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_49
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1420
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecfff9d428542de0800000000000000
+      internalID: -1358864272259547926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_91
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1419
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a47b9bf0da446570800000000000000
+      internalID: 8458968261543556261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_92
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 803
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331a1cf376a3241e0800000000000000
+      internalID: -2215143851587165901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_93
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 801
+        width: 81
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e166bf4fdc2e4ef60800000000000000
+      internalID: 8062818607106319902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_94
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 796
+        width: 88
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc524020650283b0800000000000000
+      internalID: -5511837083531846448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_95
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 748
+        width: 88
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454744442e9bacf20800000000000000
+      internalID: 3443769246537249876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_96
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 693
+        width: 97
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f10ccb981f4e6f0800000000000000
+      internalID: -656134071809728711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_97
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 699
+        width: 91
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa521255e63b9c30800000000000000
+      internalID: 4367144622218173099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_98
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 746
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d7c550602b71740800000000000000
+      internalID: 5122758840086723938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_99
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 742
+        width: 99
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc755684eb3d3000800000000000000
+      internalID: 17235826271681778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_100
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 702
+        width: 88
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289f2567eea3096b0800000000000000
+      internalID: -5291664766298556030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_101
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 587
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5b47c27a325ebc0800000000000000
+      internalID: -3754555513431083606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_102
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 698
+        width: 90
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563d378f92bedea70800000000000000
+      internalID: 8857994607602160485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark sonic_103
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1652
+        width: 243
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b0ef19fdfa29a00800000000000000
+      internalID: 761864661740948275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: c76ecf06717c2a4468cadc9df43c78a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6406881388783883948
+    second: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_0
+  - first:
+      213: -6481965206183510969
+    second: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_1
+  - first:
+      213: -2382485676697723677
+    second: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_2
+  - first:
+      213: -4031594833732538063
+    second: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_6
+  - first:
+      213: 8220014896121274867
+    second: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_7
+  - first:
+      213: 2841318773316968143
+    second: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_8
+  - first:
+      213: 7783628544107419644
+    second: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_9
+  - first:
+      213: 6780904267065508248
+    second: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_10
+  - first:
+      213: -3719546898592307421
+    second: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_11
+  - first:
+      213: -7050754730888848090
+    second: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 386
+        width: 101
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca656809da0d9e850800000000000000
+      internalID: 6406881388783883948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 386
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c7df6ecfe6b06a0800000000000000
+      internalID: -6481965206183510969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 386
+        width: 103
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecd9f566e5bfeed0800000000000000
+      internalID: -2382485676697723677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_6
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 386
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1317219ebd5ec08c0800000000000000
+      internalID: -4031594833732538063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 203
+        width: 111
+        height: 130
+      alignment: 9
+      pivot: {x: 0.32914582, y: 0.51870304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f16abb1ffb531270800000000000000
+      internalID: 8220014896121274867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 203
+        width: 129
+        height: 162
+      alignment: 9
+      pivot: {x: 0.29267246, y: 0.4129503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fced431de546e6720800000000000000
+      internalID: 2841318773316968143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 203
+        width: 108
+        height: 167
+      alignment: 9
+      pivot: {x: 0.3469128, y: 0.3980857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf71d13ebe0050c60800000000000000
+      internalID: 7783628544107419644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 203
+        width: 94
+        height: 169
+      alignment: 9
+      pivot: {x: 0.432749, y: 0.38490486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891ce5e018c9a1e50800000000000000
+      internalID: 6780904267065508248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_11
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 203
+        width: 108
+        height: 168
+      alignment: 9
+      pivot: {x: 0.36942545, y: 0.3871142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327efff7dc3816cc0800000000000000
+      internalID: -3719546898592307421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Green Skeleton Archer_12
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 203
+        width: 112
+        height: 146
+      alignment: 9
+      pivot: {x: 0.33935493, y: 0.44670942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d17f2cdefa62e90800000000000000
+      internalID: -7050754730888848090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

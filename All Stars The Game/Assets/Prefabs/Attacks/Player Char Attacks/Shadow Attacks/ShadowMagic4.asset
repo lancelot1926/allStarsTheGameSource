@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 489fd94c25c3ce64e891de04e1a39731, type: 3}
+  m_Name: ShadowMagic4
+  m_EditorClassIdentifier: 
+  IsItAttack: 1
+  IsItSpecial: 0
+  IsItHeal: 0
+  IsItBuff: 0
+  Melee: 0
+  CanTP: 0
+  Jump: 0
+  Element: Poison
+  Damage: 20
+  ManaCost: 20
+  TpDelay: 1.3
+  AttackDelay: 2.6
+  maxDelay: 7
+  AttackName: Divine Chaos
+  EventNameE: 
+  Projectile: 0
+  IsItAoe: 1
+  AttackNum: 5
+  EventName: 
+  ChosenMeleeAoe: {fileID: 0}
+  AttackEffect: {fileID: 3765731234208473345, guid: 6667819652bf0bc4fb8977bc31181efe,
+    type: 3}

@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 1074434521b783e4abed5f644983c36a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4204332297137005712
+    second: Mobile - Final Sky Cross Summoner - Ardeur Spearman_0
+  - first:
+      213: 3472504014605890493
+    second: Mobile - Final Sky Cross Summoner - Ardeur Spearman_1
+  - first:
+      213: -7876217624242295771
+    second: Mobile - Final Sky Cross Summoner - Ardeur Spearman_2
+  - first:
+      213: -916710608200890348
+    second: Mobile - Final Sky Cross Summoner - Ardeur Spearman_3
+  - first:
+      213: -5516632274433692773
+    second: Mobile - Final Sky Cross Summoner - Ardeur Spearman_4
+  - first:
+      213: 6805379687663296805
+    second: Mobile - Final Sky Cross Summoner - Ardeur Spearman_5
+  - first:
+      213: -8382169404291380915
+    second: Mobile - Final Sky Cross Summoner - Ardeur Spearman_6
+  - first:
+      213: -110144219423347875
+    second: Mobile - Final Sky Cross Summoner - Ardeur Spearman_7
+  - first:
+      213: 8686575844700323793
+    second: Mobile - Final Sky Cross Summoner - Ardeur Spearman_8
+  - first:
+      213: 294218238709401159
+    second: Mobile - Final Sky Cross Summoner - Ardeur Spearman_9
+  - first:
+      213: 1344991788414043062
+    second: Mobile - Final Sky Cross Summoner - Ardeur Spearman_10
+  - first:
+      213: -2987067087856025239
+    second: Mobile - Final Sky Cross Summoner - Ardeur Spearman_11
+  - first:
+      213: -321545041930961055
+    second: Mobile - Final Sky Cross Summoner - Ardeur Spearman_12
+  - first:
+      213: -5518709738551026975
+    second: Mobile - Final Sky Cross Summoner - Ardeur Spearman_13
+  - first:
+      213: 5433327193114714917
+    second: Mobile - Final Sky Cross Summoner - Ardeur Spearman_14
+  - first:
+      213: -124431058272816919
+    second: Mobile - Final Sky Cross Summoner - Ardeur Spearman_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ardeur Spearman_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 371
+        width: 182
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b527f1d0637a5c0800000000000000
+      internalID: -4204332297137005712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ardeur Spearman_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 371
+        width: 185
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b3bfc000d03030800000000000000
+      internalID: 3472504014605890493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ardeur Spearman_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 371
+        width: 188
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ced5dfccd02b290800000000000000
+      internalID: -7876217624242295771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ardeur Spearman_3
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 371
+        width: 187
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4188a5c0f803743f0800000000000000
+      internalID: -916710608200890348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ardeur Spearman_4
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 371
+        width: 189
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bacedbc2cf073b0800000000000000
+      internalID: -5516632274433692773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ardeur Spearman_5
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 371
+        width: 180
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52164dcf4c0917e50800000000000000
+      internalID: 6805379687663296805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ardeur Spearman_6
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 371
+        width: 178
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d498012665d8cab80800000000000000
+      internalID: -8382169404291380915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ardeur Spearman_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 225
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b653f7a60b87ef0800000000000000
+      internalID: -110144219423347875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ardeur Spearman_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 225
+        width: 75
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dff9d115baec8870800000000000000
+      internalID: 8686575844700323793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ardeur Spearman_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 225
+        width: 215
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74607b4ede5451400800000000000000
+      internalID: 294218238709401159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ardeur Spearman_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 225
+        width: 198
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b38c3ec7ee5aa210800000000000000
+      internalID: 1344991788414043062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ardeur Spearman_11
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 226
+        width: 187
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961c41c4f4ecb86d0800000000000000
+      internalID: -2987067087856025239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ardeur Spearman_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 20
+        width: 112
+        height: 185
+      alignment: 9
+      pivot: {x: 0.408763, y: 0.61047083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fba6cec74a98bf0800000000000000
+      internalID: -321545041930961055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ardeur Spearman_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 21
+        width: 158
+        height: 188
+      alignment: 9
+      pivot: {x: 0.4756317, y: 0.62799835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea5d2f6bba9963b0800000000000000
+      internalID: -5518709738551026975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ardeur Spearman_14
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 20
+        width: 234
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55754364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523a21e8b4e076b40800000000000000
+      internalID: 5433327193114714917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Ardeur Spearman_15
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 21
+        width: 144
+        height: 118
+      alignment: 9
+      pivot: {x: 0.85481006, y: 0.81391734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e07f9c9c9ee54ef0800000000000000
+      internalID: -124431058272816919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

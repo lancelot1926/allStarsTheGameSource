@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 81c20560c401d544b93139c8f5faaf6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6249091461187388981
+    second: Mobile - Final Sky Cross Summoner - Forsayn Knight_0
+  - first:
+      213: 845310966957269240
+    second: Mobile - Final Sky Cross Summoner - Forsayn Knight_1
+  - first:
+      213: 7907717182158627766
+    second: Mobile - Final Sky Cross Summoner - Forsayn Knight_2
+  - first:
+      213: -2843402463653847837
+    second: Mobile - Final Sky Cross Summoner - Forsayn Knight_3
+  - first:
+      213: -3904071694250032588
+    second: Mobile - Final Sky Cross Summoner - Forsayn Knight_4
+  - first:
+      213: -8907002437505392297
+    second: Mobile - Final Sky Cross Summoner - Forsayn Knight_5
+  - first:
+      213: -9204141002195767418
+    second: Mobile - Final Sky Cross Summoner - Forsayn Knight_6
+  - first:
+      213: -4761433681685273899
+    second: Mobile - Final Sky Cross Summoner - Forsayn Knight_7
+  - first:
+      213: -1715253051449452115
+    second: Mobile - Final Sky Cross Summoner - Forsayn Knight_8
+  - first:
+      213: -4436627459582451567
+    second: Mobile - Final Sky Cross Summoner - Forsayn Knight_9
+  - first:
+      213: 7069682835008604370
+    second: Mobile - Final Sky Cross Summoner - Forsayn Knight_10
+  - first:
+      213: -6243999953235036445
+    second: Mobile - Final Sky Cross Summoner - Forsayn Knight_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Forsayn Knight_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 157
+        width: 138
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5364009239b39b650800000000000000
+      internalID: 6249091461187388981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Forsayn Knight_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 157
+        width: 139
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0ea3688d52bbb00800000000000000
+      internalID: 845310966957269240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Forsayn Knight_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 157
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b361da51eaddbd60800000000000000
+      internalID: 7907717182158627766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Forsayn Knight_4
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 164
+        width: 135
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432c19e8a73f1d9c0800000000000000
+      internalID: -3904071694250032588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Forsayn Knight_5
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 162
+        width: 107
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751e3f27978f36480800000000000000
+      internalID: -8907002437505392297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Forsayn Knight_6
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 157
+        width: 143
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f638d2682544080800000000000000
+      internalID: -9204141002195767418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Forsayn Knight_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 6
+        width: 162
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5572589, y: 0.5285036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2a19d2b4dfbedb0800000000000000
+      internalID: -4761433681685273899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Forsayn Knight_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 10
+        width: 135
+        height: 129
+      alignment: 9
+      pivot: {x: 0.7546335, y: 0.48731065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9537000723238e0800000000000000
+      internalID: -1715253051449452115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Forsayn Knight_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 10
+        width: 149
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4450698, y: 0.41502264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19028dee4deed62c0800000000000000
+      internalID: -4436627459582451567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Forsayn Knight_10
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 10
+        width: 147
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4406107, y: 0.52227116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d84d57e41f8c1260800000000000000
+      internalID: 7069682835008604370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Forsayn Knight_11
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 10
+        width: 143
+        height: 113
+      alignment: 9
+      pivot: {x: 0.41223955, y: 0.514486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6bed9ef1bd859a0800000000000000
+      internalID: -6243999953235036445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

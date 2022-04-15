@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: d60390e1600fd594097ae3085f4f43d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5924906773777188018
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_0
+  - first:
+      213: -2441866028300057990
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_1
+  - first:
+      213: -2305166391606266457
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_2
+  - first:
+      213: 314929848628978415
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_3
+  - first:
+      213: 604853505142660313
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_4
+  - first:
+      213: 1216171646974631491
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_5
+  - first:
+      213: 3690472884872947216
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_6
+  - first:
+      213: -3675787849297806035
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_7
+  - first:
+      213: 8051233679484481203
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_8
+  - first:
+      213: 8411830101168945861
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_9
+  - first:
+      213: 6492795643931181149
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_10
+  - first:
+      213: 4942302402245502179
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_11
+  - first:
+      213: -4088999857504643407
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_12
+  - first:
+      213: -6530409681443411404
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_13
+  - first:
+      213: -7007220756580391503
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_14
+  - first:
+      213: 9186265830311204808
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_15
+  - first:
+      213: 6894081881046430463
+    second: Mobile - Final Sky Cross Summoner - Black Goblin_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 228
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b48b4ab15f793250800000000000000
+      internalID: 5924906773777188018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 228
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72c41ae8cfbc1ed0800000000000000
+      internalID: -2441866028300057990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 228
+        width: 79
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5b32051676200e0800000000000000
+      internalID: -2305166391606266457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 228
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2a2bc570bde5400800000000000000
+      internalID: 314929848628978415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 228
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc9d2bee0fd46800800000000000000
+      internalID: 604853505142660313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_5
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 228
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e13db5ba5b0e010800000000000000
+      internalID: 1216171646974631491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_6
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 228
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016201c2981373330800000000000000
+      internalID: 3690472884872947216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 117
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d38ec1d6afcfcc0800000000000000
+      internalID: -3675787849297806035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 117
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be655dcf5abbbf60800000000000000
+      internalID: 8051233679484481203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 117
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cafc13c8e2dcb470800000000000000
+      internalID: 8411830101168945861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 117
+        width: 106
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50c8b3ec3b0b1a50800000000000000
+      internalID: 6492795643931181149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_11
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 117
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4276279d5969440800000000000000
+      internalID: 4942302402245502179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b610d64b44f047c0800000000000000
+      internalID: -4088999857504643407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 9
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a2bcb8ef25f55a0800000000000000
+      internalID: -6530409681443411404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 9
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5284509d951ce90800000000000000
+      internalID: -7007220756580391503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 9
+        width: 106
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7120c0a1c2c7f70800000000000000
+      internalID: 9186265830311204808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Black Goblin_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 9
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2ba34c1f2bcaf50800000000000000
+      internalID: 6894081881046430463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,7592 @@
+fileFormatVersion: 2
+guid: 089571d8df167334c9483cfb8003b6c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -278204753975731044
+    second: Vegeta Super Saiyan_0
+  - first:
+      213: -6187677614013329581
+    second: Vegeta Super Saiyan_1
+  - first:
+      213: 3420950975323437454
+    second: Vegeta Super Saiyan_2
+  - first:
+      213: -4389583675270613347
+    second: Vegeta Super Saiyan_3
+  - first:
+      213: -7693682348804425141
+    second: Vegeta Super Saiyan_4
+  - first:
+      213: 9062954342988417721
+    second: Vegeta Super Saiyan_5
+  - first:
+      213: -5708770113310182087
+    second: Vegeta Super Saiyan_6
+  - first:
+      213: 7157406662742977793
+    second: Vegeta Super Saiyan_7
+  - first:
+      213: 732551848858282628
+    second: Vegeta Super Saiyan_8
+  - first:
+      213: 1706076451890061415
+    second: Vegeta Super Saiyan_9
+  - first:
+      213: -7276305630829872518
+    second: Vegeta Super Saiyan_10
+  - first:
+      213: -5037346038226782787
+    second: Vegeta Super Saiyan_11
+  - first:
+      213: 7790782600734497793
+    second: Vegeta Super Saiyan_12
+  - first:
+      213: -4367042336132532188
+    second: Vegeta Super Saiyan_13
+  - first:
+      213: 2712050062551328093
+    second: Vegeta Super Saiyan_14
+  - first:
+      213: -430478190424418933
+    second: Vegeta Super Saiyan_15
+  - first:
+      213: 3192727161600311707
+    second: Vegeta Super Saiyan_16
+  - first:
+      213: 8579471493346261403
+    second: Vegeta Super Saiyan_17
+  - first:
+      213: -9083075383079399054
+    second: Vegeta Super Saiyan_18
+  - first:
+      213: 309701020518584984
+    second: Vegeta Super Saiyan_19
+  - first:
+      213: 6823177668459410682
+    second: Vegeta Super Saiyan_20
+  - first:
+      213: -3228285994898643206
+    second: Vegeta Super Saiyan_21
+  - first:
+      213: 4841176885429092262
+    second: Vegeta Super Saiyan_22
+  - first:
+      213: -7656365950182269235
+    second: Vegeta Super Saiyan_23
+  - first:
+      213: -4445191770522073037
+    second: Vegeta Super Saiyan_24
+  - first:
+      213: -3350680699157127418
+    second: Vegeta Super Saiyan_25
+  - first:
+      213: -1404232101406808316
+    second: Vegeta Super Saiyan_26
+  - first:
+      213: 8768729878094611772
+    second: Vegeta Super Saiyan_27
+  - first:
+      213: -2548110758199745305
+    second: Vegeta Super Saiyan_28
+  - first:
+      213: 4271422671155298709
+    second: Vegeta Super Saiyan_29
+  - first:
+      213: 6245509877324414555
+    second: Vegeta Super Saiyan_30
+  - first:
+      213: -3540312225574566826
+    second: Vegeta Super Saiyan_31
+  - first:
+      213: 2093003815920794842
+    second: Vegeta Super Saiyan_32
+  - first:
+      213: -3791756267977599701
+    second: Vegeta Super Saiyan_33
+  - first:
+      213: 407207110800693131
+    second: Vegeta Super Saiyan_34
+  - first:
+      213: 4061445113893852236
+    second: Vegeta Super Saiyan_35
+  - first:
+      213: -4267801046929784382
+    second: Vegeta Super Saiyan_36
+  - first:
+      213: -324631922487312800
+    second: Vegeta Super Saiyan_37
+  - first:
+      213: -2449050712577186769
+    second: Vegeta Super Saiyan_38
+  - first:
+      213: -7049925594096321460
+    second: Vegeta Super Saiyan_39
+  - first:
+      213: 160232083099090334
+    second: Vegeta Super Saiyan_40
+  - first:
+      213: 1566617661979914465
+    second: Vegeta Super Saiyan_41
+  - first:
+      213: 2186490670434224582
+    second: Vegeta Super Saiyan_42
+  - first:
+      213: -1959158683546625693
+    second: Vegeta Super Saiyan_43
+  - first:
+      213: -965655697763821710
+    second: Vegeta Super Saiyan_44
+  - first:
+      213: -3180776251187065621
+    second: Vegeta Super Saiyan_45
+  - first:
+      213: -4054495984717145398
+    second: Vegeta Super Saiyan_46
+  - first:
+      213: 84408433248947456
+    second: Vegeta Super Saiyan_47
+  - first:
+      213: -1254001313969588794
+    second: Vegeta Super Saiyan_48
+  - first:
+      213: 5606434179755286769
+    second: Vegeta Super Saiyan_49
+  - first:
+      213: -2397373430226673580
+    second: Vegeta Super Saiyan_50
+  - first:
+      213: -6849272618758714383
+    second: Vegeta Super Saiyan_51
+  - first:
+      213: 4758129464644248891
+    second: Vegeta Super Saiyan_52
+  - first:
+      213: 3689600447729374947
+    second: Vegeta Super Saiyan_53
+  - first:
+      213: -9032231510930451730
+    second: Vegeta Super Saiyan_54
+  - first:
+      213: 8970270777168179258
+    second: Vegeta Super Saiyan_55
+  - first:
+      213: -7220299135569359777
+    second: Vegeta Super Saiyan_56
+  - first:
+      213: 6126242067671263573
+    second: Vegeta Super Saiyan_57
+  - first:
+      213: 8720556480854281819
+    second: Vegeta Super Saiyan_58
+  - first:
+      213: -8281952725305916586
+    second: Vegeta Super Saiyan_59
+  - first:
+      213: -266023223996472947
+    second: Vegeta Super Saiyan_60
+  - first:
+      213: -7131432469815175830
+    second: Vegeta Super Saiyan_61
+  - first:
+      213: -8051221646140215478
+    second: Vegeta Super Saiyan_62
+  - first:
+      213: 5259366537538700198
+    second: Vegeta Super Saiyan_63
+  - first:
+      213: 5304599376631458615
+    second: Vegeta Super Saiyan_64
+  - first:
+      213: -1144726887920492303
+    second: Vegeta Super Saiyan_65
+  - first:
+      213: -756025433692061814
+    second: Vegeta Super Saiyan_66
+  - first:
+      213: 7533802407952711117
+    second: Vegeta Super Saiyan_67
+  - first:
+      213: 6041769677655140829
+    second: Vegeta Super Saiyan_68
+  - first:
+      213: -8707185369923172664
+    second: Vegeta Super Saiyan_69
+  - first:
+      213: -7559773154340850894
+    second: Vegeta Super Saiyan_70
+  - first:
+      213: -6368947749131501639
+    second: Vegeta Super Saiyan_71
+  - first:
+      213: -7469421054067311165
+    second: Vegeta Super Saiyan_72
+  - first:
+      213: -7572649232525716749
+    second: Vegeta Super Saiyan_73
+  - first:
+      213: 2739919767320837598
+    second: Vegeta Super Saiyan_74
+  - first:
+      213: -8331622540739028775
+    second: Vegeta Super Saiyan_75
+  - first:
+      213: -3093044492481140847
+    second: Vegeta Super Saiyan_76
+  - first:
+      213: -194646563187168946
+    second: Vegeta Super Saiyan_77
+  - first:
+      213: 810766555061829566
+    second: Vegeta Super Saiyan_78
+  - first:
+      213: -7821814957122487838
+    second: Vegeta Super Saiyan_79
+  - first:
+      213: -7586945141543566044
+    second: Vegeta Super Saiyan_80
+  - first:
+      213: -6506248067063843485
+    second: Vegeta Super Saiyan_81
+  - first:
+      213: 4456226452567530227
+    second: Vegeta Super Saiyan_82
+  - first:
+      213: -8568008056360014180
+    second: Vegeta Super Saiyan_83
+  - first:
+      213: 3287295745327166232
+    second: Vegeta Super Saiyan_84
+  - first:
+      213: 2322981706901585237
+    second: Vegeta Super Saiyan_85
+  - first:
+      213: -6402168340662984599
+    second: Vegeta Super Saiyan_86
+  - first:
+      213: 9047986239301375890
+    second: Vegeta Super Saiyan_87
+  - first:
+      213: -2036445849359148455
+    second: Vegeta Super Saiyan_88
+  - first:
+      213: 7266631135819715443
+    second: Vegeta Super Saiyan_89
+  - first:
+      213: 4407064867035931972
+    second: Vegeta Super Saiyan_90
+  - first:
+      213: -8214319964778757401
+    second: Vegeta Super Saiyan_91
+  - first:
+      213: -1140441338108929714
+    second: Vegeta Super Saiyan_92
+  - first:
+      213: -5852851506745700526
+    second: Vegeta Super Saiyan_93
+  - first:
+      213: 2071402425496214845
+    second: Vegeta Super Saiyan_94
+  - first:
+      213: 7664325068614310775
+    second: Vegeta Super Saiyan_95
+  - first:
+      213: -1983831989028621350
+    second: Vegeta Super Saiyan_96
+  - first:
+      213: 2786777666923837284
+    second: Vegeta Super Saiyan_97
+  - first:
+      213: -5298316091039080827
+    second: Vegeta Super Saiyan_98
+  - first:
+      213: -3363033139491951232
+    second: Vegeta Super Saiyan_99
+  - first:
+      213: 4342743238041680831
+    second: Vegeta Super Saiyan_100
+  - first:
+      213: 6503289201056482947
+    second: Vegeta Super Saiyan_101
+  - first:
+      213: 2101836050236270162
+    second: Vegeta Super Saiyan_102
+  - first:
+      213: -2822490934855228139
+    second: Vegeta Super Saiyan_103
+  - first:
+      213: 4589175698976442866
+    second: Vegeta Super Saiyan_104
+  - first:
+      213: 4578336862368692836
+    second: Vegeta Super Saiyan_105
+  - first:
+      213: -1792797086462196360
+    second: Vegeta Super Saiyan_106
+  - first:
+      213: 2586056113153210006
+    second: Vegeta Super Saiyan_107
+  - first:
+      213: 7273760818059792014
+    second: Vegeta Super Saiyan_108
+  - first:
+      213: -8471611878710897118
+    second: Vegeta Super Saiyan_109
+  - first:
+      213: -2522329058968895098
+    second: Vegeta Super Saiyan_110
+  - first:
+      213: -6716736813652741590
+    second: Vegeta Super Saiyan_111
+  - first:
+      213: -3581185936488865751
+    second: Vegeta Super Saiyan_112
+  - first:
+      213: -8213491702356775312
+    second: Vegeta Super Saiyan_113
+  - first:
+      213: 6615011890923047677
+    second: Vegeta Super Saiyan_114
+  - first:
+      213: 2633560345940831278
+    second: Vegeta Super Saiyan_115
+  - first:
+      213: -563643565093239143
+    second: Vegeta Super Saiyan_116
+  - first:
+      213: 1034912908334097420
+    second: Vegeta Super Saiyan_117
+  - first:
+      213: -8125471279904202850
+    second: Vegeta Super Saiyan_118
+  - first:
+      213: -4896874103812082075
+    second: Vegeta Super Saiyan_119
+  - first:
+      213: -6446599850654005996
+    second: Vegeta Super Saiyan_120
+  - first:
+      213: 5574903961113207987
+    second: Vegeta Super Saiyan_121
+  - first:
+      213: 8910529774572594015
+    second: Vegeta Super Saiyan_122
+  - first:
+      213: -1298360889383679025
+    second: Vegeta Super Saiyan_123
+  - first:
+      213: 3319810737265072443
+    second: Vegeta Super Saiyan_124
+  - first:
+      213: 5676543577929402950
+    second: Vegeta Super Saiyan_125
+  - first:
+      213: -7412133252068450486
+    second: Vegeta Super Saiyan_126
+  - first:
+      213: 938429131876075153
+    second: Vegeta Super Saiyan_127
+  - first:
+      213: 689308670431576443
+    second: Vegeta Super Saiyan_128
+  - first:
+      213: -4071107023920586842
+    second: Vegeta Super Saiyan_129
+  - first:
+      213: 5898602318395479461
+    second: Vegeta Super Saiyan_130
+  - first:
+      213: -644149639470794883
+    second: Vegeta Super Saiyan_131
+  - first:
+      213: 8815034415867568016
+    second: Vegeta Super Saiyan_132
+  - first:
+      213: -144344643255897422
+    second: Vegeta Super Saiyan_133
+  - first:
+      213: -7679140962620907621
+    second: Vegeta Super Saiyan_134
+  - first:
+      213: 4082224230549156462
+    second: Vegeta Super Saiyan_135
+  - first:
+      213: 576657741247077144
+    second: Vegeta Super Saiyan_136
+  - first:
+      213: -7211373733958936966
+    second: Vegeta Super Saiyan_137
+  - first:
+      213: 8446198110544954520
+    second: Vegeta Super Saiyan_138
+  - first:
+      213: -657927346380655799
+    second: Vegeta Super Saiyan_139
+  - first:
+      213: 2401281516232766276
+    second: Vegeta Super Saiyan_140
+  - first:
+      213: 7222668188700066024
+    second: Vegeta Super Saiyan_141
+  - first:
+      213: -7697126175355369482
+    second: Vegeta Super Saiyan_142
+  - first:
+      213: 4215505742441610651
+    second: Vegeta Super Saiyan_143
+  - first:
+      213: -3152104657639209977
+    second: Vegeta Super Saiyan_144
+  - first:
+      213: -1184646710961944488
+    second: Vegeta Super Saiyan_145
+  - first:
+      213: 849711112854483017
+    second: Vegeta Super Saiyan_146
+  - first:
+      213: -6135055507124243137
+    second: Vegeta Super Saiyan_147
+  - first:
+      213: -7192834386639510661
+    second: Vegeta Super Saiyan_148
+  - first:
+      213: -2821423782815042467
+    second: Vegeta Super Saiyan_149
+  - first:
+      213: -5646878496362526502
+    second: Vegeta Super Saiyan_150
+  - first:
+      213: 1173687982352254008
+    second: Vegeta Super Saiyan_151
+  - first:
+      213: -4327702633826591274
+    second: Vegeta Super Saiyan_152
+  - first:
+      213: -1108388537746190146
+    second: Vegeta Super Saiyan_153
+  - first:
+      213: 3147913321797163445
+    second: Vegeta Super Saiyan_154
+  - first:
+      213: -1137060110452635524
+    second: Vegeta Super Saiyan_155
+  - first:
+      213: 2955409692153273203
+    second: Vegeta Super Saiyan_156
+  - first:
+      213: 1209830207825473599
+    second: Vegeta Super Saiyan_157
+  - first:
+      213: -7624831188574154942
+    second: Vegeta Super Saiyan_158
+  - first:
+      213: 5627408256061997821
+    second: Vegeta Super Saiyan_159
+  - first:
+      213: 2729431119037983290
+    second: Vegeta Super Saiyan_160
+  - first:
+      213: 8113081608087637573
+    second: Vegeta Super Saiyan_161
+  - first:
+      213: -7580213885320279398
+    second: Vegeta Super Saiyan_162
+  - first:
+      213: -7141236473830276250
+    second: Vegeta Super Saiyan_163
+  - first:
+      213: -1268336904036095075
+    second: Vegeta Super Saiyan_164
+  - first:
+      213: 5714935062515412139
+    second: Vegeta Super Saiyan_165
+  - first:
+      213: 1083599073413640734
+    second: Vegeta Super Saiyan_166
+  - first:
+      213: 8789781323246313922
+    second: Vegeta Super Saiyan_167
+  - first:
+      213: 3787027205229933646
+    second: Vegeta Super Saiyan_168
+  - first:
+      213: 9221498955727915443
+    second: Vegeta Super Saiyan_169
+  - first:
+      213: -6933047728954596039
+    second: Vegeta Super Saiyan_170
+  - first:
+      213: 4422304449811892037
+    second: Vegeta Super Saiyan_171
+  - first:
+      213: -2131324345424823560
+    second: Vegeta Super Saiyan_172
+  - first:
+      213: 7887323053156386561
+    second: Vegeta Super Saiyan_173
+  - first:
+      213: 5480850943798646942
+    second: Vegeta Super Saiyan_174
+  - first:
+      213: 1660854298859802694
+    second: Vegeta Super Saiyan_175
+  - first:
+      213: -4445189004024494725
+    second: Vegeta Super Saiyan_176
+  - first:
+      213: -731841730240887689
+    second: Vegeta Super Saiyan_177
+  - first:
+      213: 3223537912322713281
+    second: Vegeta Super Saiyan_178
+  - first:
+      213: 635767869056032724
+    second: Vegeta Super Saiyan_179
+  - first:
+      213: 4329328510104709093
+    second: Vegeta Super Saiyan_180
+  - first:
+      213: -3408064381468157633
+    second: Vegeta Super Saiyan_181
+  - first:
+      213: -6053143369942957372
+    second: Vegeta Super Saiyan_182
+  - first:
+      213: -6583569792434421221
+    second: Vegeta Super Saiyan_183
+  - first:
+      213: -8865303318172065231
+    second: Vegeta Super Saiyan_184
+  - first:
+      213: 6747649627907312774
+    second: Vegeta Super Saiyan_185
+  - first:
+      213: 791013151597063967
+    second: Vegeta Super Saiyan_186
+  - first:
+      213: 7180963744315673018
+    second: Vegeta Super Saiyan_187
+  - first:
+      213: 4371959541917705359
+    second: Vegeta Super Saiyan_188
+  - first:
+      213: 6055785343724107428
+    second: Vegeta Super Saiyan_189
+  - first:
+      213: 1545296186058054422
+    second: Vegeta Super Saiyan_190
+  - first:
+      213: 4468273930880533648
+    second: Vegeta Super Saiyan_191
+  - first:
+      213: -3678464363472877912
+    second: Vegeta Super Saiyan_192
+  - first:
+      213: 2053809884649082933
+    second: Vegeta Super Saiyan_193
+  - first:
+      213: -3676029596548749107
+    second: Vegeta Super Saiyan_194
+  - first:
+      213: 2084416125402774558
+    second: Vegeta Super Saiyan_195
+  - first:
+      213: 1821693753559056867
+    second: Vegeta Super Saiyan_196
+  - first:
+      213: -3128287946017447069
+    second: Vegeta Super Saiyan_197
+  - first:
+      213: 2568832080616083441
+    second: Vegeta Super Saiyan_198
+  - first:
+      213: 2918898250086724988
+    second: Vegeta Super Saiyan_199
+  - first:
+      213: -6086106850109091404
+    second: Vegeta Super Saiyan_200
+  - first:
+      213: 8309140673613675154
+    second: Vegeta Super Saiyan_201
+  - first:
+      213: -2599228136328242605
+    second: Vegeta Super Saiyan_202
+  - first:
+      213: -461255143374131254
+    second: Vegeta Super Saiyan_203
+  - first:
+      213: 5663618659194944890
+    second: Vegeta Super Saiyan_204
+  - first:
+      213: -4691816573783002349
+    second: Vegeta Super Saiyan_205
+  - first:
+      213: -6269074137434812334
+    second: Vegeta Super Saiyan_206
+  - first:
+      213: -7670341357057228404
+    second: Vegeta Super Saiyan_207
+  - first:
+      213: -9059825046383623605
+    second: Vegeta Super Saiyan_208
+  - first:
+      213: -179103384568460858
+    second: Vegeta Super Saiyan_209
+  - first:
+      213: -565333525788186544
+    second: Vegeta Super Saiyan_210
+  - first:
+      213: -7529943656291991478
+    second: Vegeta Super Saiyan_211
+  - first:
+      213: 1393460526194700448
+    second: Vegeta Super Saiyan_212
+  - first:
+      213: 2318984982045992685
+    second: Vegeta Super Saiyan_213
+  - first:
+      213: -4678752921825277953
+    second: Vegeta Super Saiyan_214
+  - first:
+      213: 3511517051187651341
+    second: Vegeta Super Saiyan_215
+  - first:
+      213: 3199677214980808687
+    second: Vegeta Super Saiyan_216
+  - first:
+      213: 3988448648604201330
+    second: Vegeta Super Saiyan_217
+  - first:
+      213: -3707111145660821858
+    second: Vegeta Super Saiyan_218
+  - first:
+      213: 5697709308159248619
+    second: Vegeta Super Saiyan_219
+  - first:
+      213: 1762725078714549087
+    second: Vegeta Super Saiyan_220
+  - first:
+      213: 4092703738069033142
+    second: Vegeta Super Saiyan_221
+  - first:
+      213: 886458513454452867
+    second: Vegeta Super Saiyan_222
+  - first:
+      213: -6314725605410985354
+    second: Vegeta Super Saiyan_223
+  - first:
+      213: -9025990170951953521
+    second: Vegeta Super Saiyan_224
+  - first:
+      213: -3012146342301730881
+    second: Vegeta Super Saiyan_225
+  - first:
+      213: -5007931061705866362
+    second: Vegeta Super Saiyan_226
+  - first:
+      213: -1470780463388881702
+    second: Vegeta Super Saiyan_227
+  - first:
+      213: 3111535490447445637
+    second: Vegeta Super Saiyan_228
+  - first:
+      213: -2842409885617907249
+    second: Vegeta Super Saiyan_229
+  - first:
+      213: -5773322033818570249
+    second: Vegeta Super Saiyan_230
+  - first:
+      213: 5247793530844188658
+    second: Vegeta Super Saiyan_231
+  - first:
+      213: -2650383480319984360
+    second: Vegeta Super Saiyan_232
+  - first:
+      213: 1459922138195322611
+    second: Vegeta Super Saiyan_233
+  - first:
+      213: 6819216754271419871
+    second: Vegeta Super Saiyan_234
+  - first:
+      213: 4413919297234906808
+    second: Vegeta Super Saiyan_235
+  - first:
+      213: 4577458878889921522
+    second: Vegeta Super Saiyan_236
+  - first:
+      213: 5137728906139975044
+    second: Vegeta Super Saiyan_237
+  - first:
+      213: 1731130999390398028
+    second: Vegeta Super Saiyan_238
+  - first:
+      213: -2378289787878342456
+    second: Vegeta Super Saiyan_239
+  - first:
+      213: -4656312367071370383
+    second: Vegeta Super Saiyan_240
+  - first:
+      213: 1528289330605190968
+    second: Vegeta Super Saiyan_241
+  - first:
+      213: 7290750934860821664
+    second: Vegeta Super Saiyan_242
+  - first:
+      213: 992835288443306829
+    second: Vegeta Super Saiyan_243
+  - first:
+      213: 1703903757717083791
+    second: Vegeta Super Saiyan_244
+  - first:
+      213: -5457820882697339329
+    second: Vegeta Super Saiyan_245
+  - first:
+      213: 4994918234206113670
+    second: Vegeta Super Saiyan_246
+  - first:
+      213: 4290425464638428402
+    second: Vegeta Super Saiyan_247
+  - first:
+      213: 8054816511687318259
+    second: Vegeta Super Saiyan_248
+  - first:
+      213: 3034800071025924203
+    second: Vegeta Super Saiyan_249
+  - first:
+      213: -5355744297116856697
+    second: Vegeta Super Saiyan_250
+  - first:
+      213: 498484520033897400
+    second: Vegeta Super Saiyan_251
+  - first:
+      213: -6343131821209224092
+    second: Vegeta Super Saiyan_252
+  - first:
+      213: 8918189037997934932
+    second: Vegeta Super Saiyan_253
+  - first:
+      213: -8350292732394831331
+    second: Vegeta Super Saiyan_254
+  - first:
+      213: 570434612714733999
+    second: Vegeta Super Saiyan_255
+  - first:
+      213: -1279691417069310837
+    second: Vegeta Super Saiyan_256
+  - first:
+      213: -1175121656536788675
+    second: Vegeta Super Saiyan_257
+  - first:
+      213: 4651313746391269063
+    second: Vegeta Super Saiyan_258
+  - first:
+      213: -1044218084015534073
+    second: Vegeta Super Saiyan_259
+  - first:
+      213: -6733283173589412560
+    second: Vegeta Super Saiyan_260
+  - first:
+      213: -6959015231492581556
+    second: Vegeta Super Saiyan_261
+  - first:
+      213: -3133732940711022291
+    second: Vegeta Super Saiyan_262
+  - first:
+      213: 8960371578800812807
+    second: Vegeta Super Saiyan_263
+  - first:
+      213: -1629546682377191923
+    second: Vegeta Super Saiyan_264
+  - first:
+      213: 5705199501277632837
+    second: Vegeta Super Saiyan_265
+  - first:
+      213: 5247064647921282871
+    second: Vegeta Super Saiyan_266
+  - first:
+      213: -7869738890123157272
+    second: Vegeta Super Saiyan_267
+  - first:
+      213: -6983860230281340588
+    second: Vegeta Super Saiyan_268
+  - first:
+      213: 6111782250631791701
+    second: Vegeta Super Saiyan_269
+  - first:
+      213: -4697145794931397224
+    second: Vegeta Super Saiyan_270
+  - first:
+      213: 6476119557193146174
+    second: Vegeta Super Saiyan_271
+  - first:
+      213: -9194611254806971264
+    second: Vegeta Super Saiyan_272
+  - first:
+      213: -8386614644765021733
+    second: Vegeta Super Saiyan_273
+  - first:
+      213: 5728621573496455113
+    second: Vegeta Super Saiyan_274
+  - first:
+      213: 8449318648161258911
+    second: Vegeta Super Saiyan_275
+  - first:
+      213: 1945012481615725245
+    second: Vegeta Super Saiyan_276
+  - first:
+      213: 9197550163094140345
+    second: Vegeta Super Saiyan_277
+  - first:
+      213: -849300066365208885
+    second: Vegeta Super Saiyan_278
+  - first:
+      213: -1846010556569265468
+    second: Vegeta Super Saiyan_279
+  - first:
+      213: -9150209926080794434
+    second: Vegeta Super Saiyan_280
+  - first:
+      213: -6266561295792137007
+    second: Vegeta Super Saiyan_281
+  - first:
+      213: -8540418930435010451
+    second: Vegeta Super Saiyan_282
+  - first:
+      213: 4296716501307562927
+    second: Vegeta Super Saiyan_283
+  - first:
+      213: -1374489490976217093
+    second: Vegeta Super Saiyan_284
+  - first:
+      213: -5995802794708450211
+    second: Vegeta Super Saiyan_285
+  - first:
+      213: -3027846492628885178
+    second: Vegeta Super Saiyan_286
+  - first:
+      213: 3232063149819163418
+    second: Vegeta Super Saiyan_287
+  - first:
+      213: -4571424096775856462
+    second: Vegeta Super Saiyan_288
+  - first:
+      213: 4151178013033137094
+    second: Vegeta Super Saiyan_289
+  - first:
+      213: -269281026734256152
+    second: Vegeta Super Saiyan_290
+  - first:
+      213: -766867681135847914
+    second: Vegeta Super Saiyan_291
+  - first:
+      213: 6545667408512273830
+    second: Vegeta Super Saiyan_292
+  - first:
+      213: -370087654992630031
+    second: Vegeta Super Saiyan_293
+  - first:
+      213: -1588636017946380178
+    second: Vegeta Super Saiyan_294
+  - first:
+      213: -1198811064972000516
+    second: Vegeta Super Saiyan_295
+  - first:
+      213: -4051286559842419441
+    second: Vegeta Super Saiyan_296
+  - first:
+      213: 925644102243607065
+    second: Vegeta Super Saiyan_297
+  - first:
+      213: 8035567428655872480
+    second: Vegeta Super Saiyan_298
+  - first:
+      213: -8566896963466676696
+    second: Vegeta Super Saiyan_299
+  - first:
+      213: -5239535166130235218
+    second: Vegeta Super Saiyan_300
+  - first:
+      213: 2026878965610222269
+    second: Vegeta Super Saiyan_301
+  - first:
+      213: 4625375136183033895
+    second: Vegeta Super Saiyan_302
+  - first:
+      213: 5106615677476182650
+    second: Vegeta Super Saiyan_303
+  - first:
+      213: 8298818774582286397
+    second: Vegeta Super Saiyan_304
+  - first:
+      213: -55415161437487275
+    second: Vegeta Super Saiyan_305
+  - first:
+      213: -1435264685810983769
+    second: Vegeta Super Saiyan_306
+  - first:
+      213: -2757577244942425446
+    second: Vegeta Super Saiyan_307
+  - first:
+      213: -7064501368660533486
+    second: Vegeta Super Saiyan_308
+  - first:
+      213: -8087024913364863646
+    second: Vegeta Super Saiyan_309
+  - first:
+      213: -1390873303633824657
+    second: Vegeta Super Saiyan_310
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 8127
+        width: 197
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c9370104e932cf0800000000000000
+      internalID: -278204753975731044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 8121
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f49186ef3f02aa0800000000000000
+      internalID: -6187677614013329581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 8121
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89fd2e79c8a97f20800000000000000
+      internalID: 3420950975323437454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_3
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 8121
+        width: 516
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9634a387e01513c0800000000000000
+      internalID: -4389583675270613347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_4
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 8121
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ab1d8aaac8a3590800000000000000
+      internalID: -7693682348804425141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7986
+        width: 79
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba886515f416cd70800000000000000
+      internalID: 9062954342988417721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 7986
+        width: 79
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935b7cb04df56c0b0800000000000000
+      internalID: -5708770113310182087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 7986
+        width: 77
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d2fcd2077345360800000000000000
+      internalID: 7157406662742977793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7839
+        width: 72
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ae0ca760c8a2a00800000000000000
+      internalID: 732551848858282628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 7839
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760e09a6e733da710800000000000000
+      internalID: 1706076451890061415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 7696
+        width: 67
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7af53d849e550b90800000000000000
+      internalID: -7276305630829872518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 7696
+        width: 82
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db575cc9770c71ab0800000000000000
+      internalID: -5037346038226782787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 7697
+        width: 91
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cd21f7f7b6e1c60800000000000000
+      internalID: 7790782600734497793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 7698
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4287ab302262563c0800000000000000
+      internalID: -4367042336132532188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 7697
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55a27fa92323a520800000000000000
+      internalID: 2712050062551328093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 7697
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b851338dd52a60af0800000000000000
+      internalID: -430478190424418933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7550
+        width: 83
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b918deb0078de4c20800000000000000
+      internalID: 3192727161600311707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7550
+        width: 84
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b997e710ed7601770800000000000000
+      internalID: 8579471493346261403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 7550
+        width: 84
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2711573301f62f180800000000000000
+      internalID: -9083075383079399054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_19
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 7550
+        width: 85
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8921692ff674c4400800000000000000
+      internalID: 309701020518584984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_20
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 7550
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4b6ef40fbc0be50800000000000000
+      internalID: 6823177668459410682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 7550
+        width: 87
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6a2b8edf2d233d0800000000000000
+      internalID: -3228285994898643206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_22
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 7550
+        width: 87
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af35d64ab05f2340800000000000000
+      internalID: 4841176885429092262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7393
+        width: 79
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce5df4cbbf1fb590800000000000000
+      internalID: -7656365950182269235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 7399
+        width: 71
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338ca87e2a18f42c0800000000000000
+      internalID: -4445191770522073037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 7397
+        width: 64
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f5bf228adff71d0800000000000000
+      internalID: -3350680699157127418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_26
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 7397
+        width: 64
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407627df75a238ce0800000000000000
+      internalID: -1404232101406808316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_27
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 7397
+        width: 65
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c350f2b8d59c0b970800000000000000
+      internalID: 8768729878094611772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_28
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 7397
+        width: 64
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4272114ca43acd0800000000000000
+      internalID: -2548110758199745305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7173
+        width: 50
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59103c7d944274b30800000000000000
+      internalID: 4271422671155298709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 7173
+        width: 50
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e7d1fa4228ca650800000000000000
+      internalID: 6245509877324414555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 7173
+        width: 50
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654c7a8c9c84edec0800000000000000
+      internalID: -3540312225574566826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 7173
+        width: 50
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcfe71a1e7db0d10800000000000000
+      internalID: 2093003815920794842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7052
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25955c83c9f06bc0800000000000000
+      internalID: -3791756267977599701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7052
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87d945b5b0b6a500800000000000000
+      internalID: 407207110800693131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 7052
+        width: 93
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44936800d62d5830800000000000000
+      internalID: 4061445113893852236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_36
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 7052
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1c5b14f89b5c4c0800000000000000
+      internalID: -4267801046929784382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_37
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 7052
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e34698cfcae7bf0800000000000000
+      internalID: -324631922487312800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_38
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 7052
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f246bef3a59330ed0800000000000000
+      internalID: -2449050712577186769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6933
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c34f63602a92e90800000000000000
+      internalID: -7049925594096321460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 6930
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dfdba0b32493200800000000000000
+      internalID: 160232083099090334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 6929
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e07a29967ebdb510800000000000000
+      internalID: 1566617661979914465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6825
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c900f32ea9f75e10800000000000000
+      internalID: 2186490670434224582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_43
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 6820
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369d490be8bafc4e0800000000000000
+      internalID: -1959158683546625693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_44
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 6820
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2779477524d4992f0800000000000000
+      internalID: -965655697763821710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 6686
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec0ffd1adc9bd3d0800000000000000
+      internalID: -3180776251187065621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 6693
+        width: 72
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acadfaf22698bb7c0800000000000000
+      internalID: -4054495984717145398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 6704
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dc9d7d501eb2100800000000000000
+      internalID: 84408433248947456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6540
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c538fce274e89ee0800000000000000
+      internalID: -1254001313969588794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_49
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 6533
+        width: 64
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f02cecae2e0ecd40800000000000000
+      internalID: 5606434179755286769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_50
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 6539
+        width: 66
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45021692191dabed0800000000000000
+      internalID: -2397373430226673580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_51
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 6559
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbc31d97de72f0a0800000000000000
+      internalID: -6849272618758714383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_52
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 6556
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35a077d985480240800000000000000
+      internalID: 4758129464644248891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_53
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 6539
+        width: 60
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e618021f08143330800000000000000
+      internalID: 3689600447729374947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_54
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 6534
+        width: 50
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee296edab4117a280800000000000000
+      internalID: -9032231510930451730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6425
+        width: 87
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a303d2ccebdcc7c70800000000000000
+      internalID: 8970270777168179258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_56
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 6425
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c0454e0385ccb90800000000000000
+      internalID: -7220299135569359777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_57
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 6423
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559a99bc3b8c40550800000000000000
+      internalID: 6126242067671263573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_58
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6305
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ecc057ae3a50970800000000000000
+      internalID: 8720556480854281819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_59
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6331
+        width: 121
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653009140e7901d80800000000000000
+      internalID: -8281952725305916586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_60
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 6298
+        width: 58
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81afa78945ee4cf0800000000000000
+      internalID: -266023223996472947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6170
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65daf0e3ff080d90800000000000000
+      internalID: -7131432469815175830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_62
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 6181
+        width: 82
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f60ede190544090800000000000000
+      internalID: -8051221646140215478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_63
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 6157
+        width: 78
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3029520060df840800000000000000
+      internalID: 5259366537538700198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_64
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 6030
+        width: 86
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b60ef2709bd9940800000000000000
+      internalID: 5304599376631458615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_65
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 6075
+        width: 152
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f029a0e5fc1d10f0800000000000000
+      internalID: -1144726887920492303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 6030
+        width: 86
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fbf97afde0285f0800000000000000
+      internalID: -756025433692061814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_67
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 6036
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdf00ecf517d8860800000000000000
+      internalID: 7533802407952711117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5883
+        width: 85
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd96c5bd28da8d350800000000000000
+      internalID: 6041769677655140829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_69
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5883
+        width: 72
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c64048e90dd92780800000000000000
+      internalID: -8707185369923172664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 5883
+        width: 71
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233baf89e5a461790800000000000000
+      internalID: -7559773154340850894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_71
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 5883
+        width: 77
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf3efb24c3fc97a0800000000000000
+      internalID: -6368947749131501639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_72
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 5883
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd7e724029475890800000000000000
+      internalID: -7469421054067311165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_73
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 5883
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f29ba605ab88e690800000000000000
+      internalID: -7572649232525716749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_74
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 5887
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddba3cf286260620800000000000000
+      internalID: 2739919767320837598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_75
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5770
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8dc982171206c80800000000000000
+      internalID: -8331622540739028775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_76
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 5770
+        width: 131
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197ee27fb6c4315d0800000000000000
+      internalID: -3093044492481140847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_77
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 5770
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e496a786bf97c4df0800000000000000
+      internalID: -194646563187168946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_78
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 5770
+        width: 100
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf3a3ed2eb604b00800000000000000
+      internalID: 810766555061829566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_79
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 5630
+        width: 88
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e970edfcb4537390800000000000000
+      internalID: -7821814957122487838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_80
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 5630
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4258be35791c5b690800000000000000
+      internalID: -7586945141543566044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5630
+        width: 90
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3657616cad925b5a0800000000000000
+      internalID: -6506248067063843485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_82
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 5630
+        width: 92
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa9cf73952b7dd30800000000000000
+      internalID: 4456226452567530227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_83
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 5630
+        width: 89
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ee9f76112581980800000000000000
+      internalID: -8568008056360014180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5526
+        width: 140
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813f0e34012de9d20800000000000000
+      internalID: 3287295745327166232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_85
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5518
+        width: 125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d79930e83ec3020800000000000000
+      internalID: 2322981706901585237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_86
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 5511
+        width: 135
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960e78670dde627a0800000000000000
+      internalID: -6402168340662984599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_87
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5511
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2975e2edb87e09d70800000000000000
+      internalID: 9047986239301375890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_88
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 5511
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a11a02a471db3e0800000000000000
+      internalID: -2036445849359148455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_89
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 5511
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373d35c848248d460800000000000000
+      internalID: 7266631135819715443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_90
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 5511
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445e7cd952a092d30800000000000000
+      internalID: 4407064867035931972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_91
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 5511
+        width: 97
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e286fb638fd00e80800000000000000
+      internalID: -8214319964778757401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_92
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 5511
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4998d235a65c20f0800000000000000
+      internalID: -1140441338108929714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_93
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 5510
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f0059709e76cea0800000000000000
+      internalID: -5852851506745700526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_94
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 5404
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d959ef7891fbc10800000000000000
+      internalID: 2071402425496214845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_95
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 5405
+        width: 143
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b90e5ea072d5a60800000000000000
+      internalID: 7664325068614310775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_96
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 5405
+        width: 136
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad374e711530874e0800000000000000
+      internalID: -1983831989028621350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_97
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 5407
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467bcf8e58f9ca620800000000000000
+      internalID: 2786777666923837284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_98
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5299
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e11ed36999876b0800000000000000
+      internalID: -5298316091039080827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_99
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 5299
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d27b08d2b1451d0800000000000000
+      internalID: -3363033139491951232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_100
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 5301
+        width: 153
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb343657f5844c30800000000000000
+      internalID: 4342743238041680831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_101
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 5301
+        width: 150
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3860b9c8213504a50800000000000000
+      internalID: 6503289201056482947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_102
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 5301
+        width: 106
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256617e60c83b2d10800000000000000
+      internalID: 2101836050236270162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_103
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 5301
+        width: 113
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515a13ee27f74d8d0800000000000000
+      internalID: -2822490934855228139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_104
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 5301
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f98855dbf600bf30800000000000000
+      internalID: 4589175698976442866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_105
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5176
+        width: 87
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aff878e15898f30800000000000000
+      internalID: 4578336862368692836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_106
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 5174
+        width: 89
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875c01b6c84be17e0800000000000000
+      internalID: -1792797086462196360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_107
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 5174
+        width: 85
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69679b9555483e320800000000000000
+      internalID: 2586056113153210006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_108
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 5168
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ecb9d0de691f460800000000000000
+      internalID: 7273760818059792014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_109
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 5046
+        width: 97
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226157e71e9ce6a80800000000000000
+      internalID: -8471611878710897118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_110
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 5051
+        width: 109
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6818381b513eefcd0800000000000000
+      internalID: -2522329058968895098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_111
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 5045
+        width: 93
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22707c647b59c2a0800000000000000
+      internalID: -6716736813652741590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_112
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 5044
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920e4fc5d521d4ec0800000000000000
+      internalID: -3581185936488865751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_113
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 5041
+        width: 120
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ee76b40d0d30e80800000000000000
+      internalID: -8213491702356775312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_114
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 5044
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa0477544e3dcb50800000000000000
+      internalID: 6615011890923047677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4895
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cab527e294c8420800000000000000
+      internalID: 2633560345940831278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_116
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 4909
+        width: 83
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996cea2f9298d28f0800000000000000
+      internalID: -563643565093239143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_117
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 4896
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0468b29ecfbc5e00800000000000000
+      internalID: 1034912908334097420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_118
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 4902
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fdba8ebe68c3f80800000000000000
+      internalID: -8125471279904202850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_119
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 4905
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566b87482feca0cb0800000000000000
+      internalID: -4896874103812082075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_120
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 4891
+        width: 75
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4158ea467931986a0800000000000000
+      internalID: -6446599850654005996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_121
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 4893
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b422139d990e5d40800000000000000
+      internalID: 5574903961113207987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_122
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4770
+        width: 129
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53e0f5be9f88ab70800000000000000
+      internalID: 8910529774572594015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_123
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4764
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb860e66ab4bfde0800000000000000
+      internalID: -1298360889383679025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_124
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 4763
+        width: 95
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b395634c646521e20800000000000000
+      internalID: 3319810737265072443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_125
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 4761
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ac18afe4227ce40800000000000000
+      internalID: 5676543577929402950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_126
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4650
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f59921410d22990800000000000000
+      internalID: -7412133252068450486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_127
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 4651
+        width: 109
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1960a5cc258f50d00800000000000000
+      internalID: 938429131876075153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_128
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4647
+        width: 144
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71cba9659ae09900800000000000000
+      internalID: 689308670431576443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_129
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 4648
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af9d9c3bb58087c0800000000000000
+      internalID: -4071107023920586842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_130
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 4640
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a512437e8b0cd150800000000000000
+      internalID: 5898602318395479461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4518
+        width: 83
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77b525d0558f07f0800000000000000
+      internalID: -644149639470794883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_132
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 4517
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f11a0e81b455a70800000000000000
+      internalID: 8815034415867568016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_133
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 4517
+        width: 142
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2708dcf4f2ffdf0800000000000000
+      internalID: -144344643255897422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_134
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 4517
+        width: 136
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f54d6faf53e6590800000000000000
+      internalID: -7679140962620907621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_135
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 4517
+        width: 129
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62ff532f49f6a830800000000000000
+      internalID: 4082224230549156462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_136
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 4517
+        width: 98
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bd2001923b00800800000000000000
+      internalID: 576657741247077144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_137
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4368
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a769bc4ebcd0ceb90800000000000000
+      internalID: -7211373733958936966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_138
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4368
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8948b918e6ce63570800000000000000
+      internalID: 8446198110544954520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_139
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 4368
+        width: 81
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94337f670929ed6f0800000000000000
+      internalID: -657927346380655799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_140
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 4368
+        width: 84
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443f3c401d0135120800000000000000
+      internalID: 2401281516232766276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_141
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4239
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e04bf543721c3460800000000000000
+      internalID: 7222668188700066024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_142
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4238
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7059e46805e2590800000000000000
+      internalID: -7697126175355369482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_143
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4237
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9df9d6532c708a30800000000000000
+      internalID: 4215505742441610651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_144
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 4238
+        width: 120
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7048f82b3897144d0800000000000000
+      internalID: -3152104657639209977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_145
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 4108
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85847c8c71a4f8fe0800000000000000
+      internalID: -1184646710961944488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_146
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 4110
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940b46351c7cacb00800000000000000
+      internalID: 849711112854483017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_147
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 4113
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f353e8c6587ebdaa0800000000000000
+      internalID: -6135055507124243137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_148
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 4111
+        width: 94
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7323201c3bed2c90800000000000000
+      internalID: -7192834386639510661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_149
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3979
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d547870a40a48d8d0800000000000000
+      internalID: -2821423782815042467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_150
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3977
+        width: 102
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8058e0de142a1b0800000000000000
+      internalID: -5646878496362526502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_151
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3978
+        width: 91
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83440416007c94010800000000000000
+      internalID: 1173687982352254008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_152
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3981
+        width: 107
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd5e393269e0f3c0800000000000000
+      internalID: -4327702633826591274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_153
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 3981
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb016865f763e90f0800000000000000
+      internalID: -1108388537746190146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_154
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3980
+        width: 105
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b99071ec72afab20800000000000000
+      internalID: 3147913321797163445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_155
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 3981
+        width: 122
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78443c9ad95830f0800000000000000
+      internalID: -1137060110452635524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_156
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 3981
+        width: 122
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bda82e479b30920800000000000000
+      internalID: 2955409692153273203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_157
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 3981
+        width: 118
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3079fff92e2ac010800000000000000
+      internalID: 1209830207825473599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_158
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3832
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc7bc9e682f2690800000000000000
+      internalID: -7624831188574154942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_159
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3837
+        width: 134
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df20dac5ef1981e40800000000000000
+      internalID: 5627408256061997821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_160
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3859
+        width: 126
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ae7214423e0e520800000000000000
+      internalID: 2729431119037983290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_161
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3871
+        width: 116
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e81d3dcb4779070800000000000000
+      internalID: 8113081608087637573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_162
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 3851
+        width: 81
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a400c02abadc690800000000000000
+      internalID: -7580213885320279398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_163
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3693
+        width: 91
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6638840534b35ec90800000000000000
+      internalID: -7141236473830276250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_164
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3693
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9be8634e46f56ee0800000000000000
+      internalID: -1268336904036095075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_165
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3693
+        width: 99
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bace7ab09278f4f40800000000000000
+      internalID: 5714935062515412139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_166
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 3693
+        width: 115
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1233c9bd97b90f00800000000000000
+      internalID: 1083599073413640734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_167
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 3693
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1a5711b839bf970800000000000000
+      internalID: 8789781323246313922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_168
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 3693
+        width: 101
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44787abd293e8430800000000000000
+      internalID: 3787027205229933646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_169
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 3692
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b94cc0517859ff70800000000000000
+      internalID: 9221498955727915443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_170
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3578
+        width: 79
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93525d8c2ddd8cf90800000000000000
+      internalID: -6933047728954596039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_171
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 3592
+        width: 140
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547caab777e2f5d30800000000000000
+      internalID: 4422304449811892037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_172
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3593
+        width: 140
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fabfc1dcc30c62e0800000000000000
+      internalID: -2131324345424823560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_173
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 3582
+        width: 114
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107c22c2786657d60800000000000000
+      internalID: 7887323053156386561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_174
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3471
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e989bf305e4ef0c40800000000000000
+      internalID: 5480850943798646942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_175
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3446
+        width: 108
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640183b6f2a8c0710800000000000000
+      internalID: 1660854298859802694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_176
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 3446
+        width: 79
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75c5a707248f42c0800000000000000
+      internalID: -4445189004024494725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_177
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3444
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7744f25e2d9f7d5f0800000000000000
+      internalID: -731841730240887689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_178
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3459
+        width: 113
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6eff7f6ae4cbc20800000000000000
+      internalID: 3223537912322713281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_179
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 3454
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df11ba2283b2d800800000000000000
+      internalID: 635767869056032724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_180
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 3458
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e723c8975dd41c30800000000000000
+      internalID: 4329328510104709093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_181
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3301
+        width: 66
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39dde2708f14b0d0800000000000000
+      internalID: -3408064381468157633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_182
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3301
+        width: 107
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c20a0c0d2aeefba0800000000000000
+      internalID: -6053143369942957372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_183
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3302
+        width: 99
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1244ffa72672a4a0800000000000000
+      internalID: -6583569792434421221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_184
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3304
+        width: 103
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132234e3a9d18f480800000000000000
+      internalID: -8865303318172065231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_185
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3300
+        width: 70
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c4634069774ad50800000000000000
+      internalID: 6747649627907312774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_186
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3302
+        width: 90
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fea99354e3afa00800000000000000
+      internalID: 791013151597063967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_187
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 3300
+        width: 95
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab905e4aa78e7a360800000000000000
+      internalID: 7180963744315673018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_188
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 3306
+        width: 102
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84626c2a025cac30800000000000000
+      internalID: 4371959541917705359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_189
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3303
+        width: 97
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a631b86fa87a0450800000000000000
+      internalID: 6055785343724107428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_190
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 3302
+        width: 89
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b91c2a1bef17510800000000000000
+      internalID: 1545296186058054422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_191
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 3302
+        width: 82
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094c549577f720e30800000000000000
+      internalID: 4468273930880533648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_192
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 3310
+        width: 71
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a60448962873fcc0800000000000000
+      internalID: -3678464363472877912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_193
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3173
+        width: 89
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530d1b26539908c10800000000000000
+      internalID: 2053809884649082933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_194
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3198
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8a3e1fe8e1cfcc0800000000000000
+      internalID: -3676029596548749107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_195
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3196
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c7abe1c655dec10800000000000000
+      internalID: 2084416125402774558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_196
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3190
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e18f6e21d4f74910800000000000000
+      internalID: 1821693753559056867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_197
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 3183
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3636e7effa61694d0800000000000000
+      internalID: -3128287946017447069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_198
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3152
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffcfb4ca2356a320800000000000000
+      internalID: 2568832080616083441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_199
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 3144
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75bde35e72028820800000000000000
+      internalID: 2918898250086724988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_200
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3000
+        width: 95
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b11d2eb01ec98ba0800000000000000
+      internalID: -6086106850109091404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_201
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 3000
+        width: 107
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a3e7f3b6fff4370800000000000000
+      internalID: 8309140673613675154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_202
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 3000
+        width: 106
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a54f308cfadebd0800000000000000
+      internalID: -2599228136328242605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_203
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2999
+        width: 105
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfec5414ea4999f0800000000000000
+      internalID: -461255143374131254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_204
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2845
+        width: 66
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7db694d927399e40800000000000000
+      internalID: 5663618659194944890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_205
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2844
+        width: 79
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313bf583fa153eeb0800000000000000
+      internalID: -4691816573783002349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_206
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2849
+        width: 78
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2501c977946cff8a0800000000000000
+      internalID: -6269074137434812334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_207
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2841
+        width: 57
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81cd9acc297d8590800000000000000
+      internalID: -7670341357057228404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_208
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2841
+        width: 58
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b420e1f0f19054280800000000000000
+      internalID: -9059825046383623605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_209
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2841
+        width: 58
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c90ab0bb62b38df0800000000000000
+      internalID: -179103384568460858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_210
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2688
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058a6cf47288728f0800000000000000
+      internalID: -565333525788186544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_211
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2728
+        width: 84
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a408204d324408790800000000000000
+      internalID: -7529943656291991478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_212
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2730
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a03d5837f0965310800000000000000
+      internalID: 1393460526194700448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_213
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2719
+        width: 78
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6215efd80be2020800000000000000
+      internalID: 2318984982045992685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_214
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2715
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff788c6b10bb11fb0800000000000000
+      internalID: -4678752921825277953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_215
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2719
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0364ca372a6bb030800000000000000
+      internalID: 3511517051187651341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_216
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2532
+        width: 67
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef97d27979876c20800000000000000
+      internalID: 3199677214980808687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_217
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2538
+        width: 54
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271b0f80ae0d95730800000000000000
+      internalID: 3988448648604201330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_218
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2569
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ecefbdd02bd8cc0800000000000000
+      internalID: -3707111145660821858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_219
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2574
+        width: 94
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8c4429d64521f40800000000000000
+      internalID: 5697709308159248619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_220
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2573
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f530479ae15767810800000000000000
+      internalID: 1762725078714549087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_221
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2572
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0a48e9d543cc830800000000000000
+      internalID: 4092703738069033142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_222
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2571
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380d29242555d4c00800000000000000
+      internalID: 886458513454452867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_223
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 2569
+        width: 143
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a2a6bc4869d58a0800000000000000
+      internalID: -6314725605410985354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_224
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 2573
+        width: 101
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83dd32e2cd3db280800000000000000
+      internalID: -9025990170951953521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_225
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 2580
+        width: 101
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7fc975cd4b236d0800000000000000
+      internalID: -3012146342301730881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_226
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 2583
+        width: 108
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68380678b31408ab0800000000000000
+      internalID: -5007931061705866362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_227
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 2557
+        width: 71
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc0f1906fcb69be0800000000000000
+      internalID: -1470780463388881702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_228
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2380
+        width: 78
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e042efa056e2b20800000000000000
+      internalID: 3111535490447445637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_229
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2383
+        width: 78
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc99fadc44bbd88d0800000000000000
+      internalID: -2842409885617907249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_230
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2382
+        width: 105
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1fe48d23a01efa0800000000000000
+      internalID: -5773322033818570249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_231
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2380
+        width: 104
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff8f8c8968e3d840800000000000000
+      internalID: 5247793530844188658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_232
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2378
+        width: 103
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81db6f85442f73bd0800000000000000
+      internalID: -2650383480319984360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_233
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2382
+        width: 85
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f66cde137fa24410800000000000000
+      internalID: 1459922138195322611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_234
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2381
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd7dbc1289b2ae50800000000000000
+      internalID: 6819216754271419871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_235
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2381
+        width: 100
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beade20734614d30800000000000000
+      internalID: 4413919297234906808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_236
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2379
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb01321996668f30800000000000000
+      internalID: 4577458878889921522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_237
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2376
+        width: 96
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dbab22831ec4740800000000000000
+      internalID: 5137728906139975044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_238
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2244
+        width: 61
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46e456d876360810800000000000000
+      internalID: 1731130999390398028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_239
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2244
+        width: 83
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c08294e90e9efed0800000000000000
+      internalID: -2378289787878342456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_240
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2242
+        width: 73
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173e3758294716fb0800000000000000
+      internalID: -4656312367071370383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_241
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2235
+        width: 85
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fedb88c03953510800000000000000
+      internalID: 1528289330605190968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_242
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2039
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4f932e853fd2560800000000000000
+      internalID: 7290750934860821664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_243
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2036
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43c2204f6247cd00800000000000000
+      internalID: 992835288443306829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_244
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2037
+        width: 81
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f861e22a07b75a710800000000000000
+      internalID: 1703903757717083791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_245
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2039
+        width: 80
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ebd1fe2dce144b0800000000000000
+      internalID: -5457820882697339329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_246
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1924
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f0af77ba3815540800000000000000
+      internalID: 4994918234206113670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_247
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1925
+        width: 89
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4501b7a37aa8b30800000000000000
+      internalID: 4290425464638428402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_248
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1816
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fad21ee0f478cf60800000000000000
+      internalID: 8054816511687318259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_249
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1815
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6894d5e596cd1a20800000000000000
+      internalID: 3034800071025924203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_250
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1695
+        width: 96
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e868e00f29ca5b0800000000000000
+      internalID: -5355744297116856697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_251
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1694
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbc6a6a709fae600800000000000000
+      internalID: 498484520033897400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_252
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1694
+        width: 84
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cf859473ba8f7a0800000000000000
+      internalID: -6343131821209224092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_253
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1695
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45946a1fda5c3cb70800000000000000
+      internalID: 8918189037997934932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_254
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1573
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12841b600dcd1c80800000000000000
+      internalID: -8350292732394831331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_255
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1572
+        width: 85
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1037a02479ae700800000000000000
+      internalID: 570434612714733999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_256
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1456
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ca77faf6f9d3ee0800000000000000
+      internalID: -1279691417069310837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_257
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1457
+        width: 83
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d319146541121bfe0800000000000000
+      internalID: -1175121656536788675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_258
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1344
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cefa886539cc8040800000000000000
+      internalID: 4651313746391269063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_259
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1346
+        width: 117
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70017326f213281f0800000000000000
+      internalID: -1044218084015534073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_260
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1349
+        width: 131
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035961ac0a29e82a0800000000000000
+      internalID: -6733283173589412560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_261
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1346
+        width: 127
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c471a54748c9c6f90800000000000000
+      internalID: -6959015231492581556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_262
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1247
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21baff5e7eb284d0800000000000000
+      internalID: -3133732940711022291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_263
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1242
+        width: 114
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703bde11a72a95c70800000000000000
+      internalID: 8960371578800812807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_264
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1149
+        width: 111
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ebdf31defa269e0800000000000000
+      internalID: -1629546682377191923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_265
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1149
+        width: 114
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549936e08b0fc2f40800000000000000
+      internalID: 5705199501277632837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_266
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1045
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fabd44f7151d840800000000000000
+      internalID: 5247064647921282871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_267
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1067
+        width: 118
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0e123dc2219c290800000000000000
+      internalID: -7869738890123157272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_268
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1058
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4595a156f18541f90800000000000000
+      internalID: -6983860230281340588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_269
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1082
+        width: 95
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5540279439961d450800000000000000
+      internalID: 6111782250631791701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_270
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 929
+        width: 71
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89de4ea39c260deb0800000000000000
+      internalID: -4697145794931397224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_271
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 934
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f1571ec6ccfd950800000000000000
+      internalID: 6476119557193146174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_272
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 925
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cfb6567cd266080800000000000000
+      internalID: -9194611254806971264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_273
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 927
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd921be2a62cc9b80800000000000000
+      internalID: -8386614644765021733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_274
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 818
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf35e438f6208f40800000000000000
+      internalID: 5728621573496455113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_275
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 808
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d4cb94b82024570800000000000000
+      internalID: 8449318648161258911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_276
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 832
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db208620c821efa10800000000000000
+      internalID: 1945012481615725245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_277
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 821
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5ff03842344af70800000000000000
+      internalID: 9197550163094140345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_278
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 714
+        width: 132
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc60694e61ea634f0800000000000000
+      internalID: -849300066365208885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_279
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 723
+        width: 90
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca511ced27a166e0800000000000000
+      internalID: -1846010556569265468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_280
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 706
+        width: 131
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb073b75d8ce30180800000000000000
+      internalID: -9150209926080794434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_281
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 721
+        width: 109
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc191104b3b809a0800000000000000
+      internalID: -6266561295792137007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_282
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 716
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60566a5b365a7980800000000000000
+      internalID: -8540418930435010451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_283
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 715
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab1ff894e001ab30800000000000000
+      internalID: 4296716501307562927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_284
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 730
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7eade1715dcece0800000000000000
+      internalID: -1374489490976217093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_285
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 719
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54cb161021aacca0800000000000000
+      internalID: -5995802794708450211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_286
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 566
+        width: 85
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641617c38adeaf5d0800000000000000
+      internalID: -3027846492628885178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_287
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 566
+        width: 82
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13f9908f489adc20800000000000000
+      internalID: 3232063149819163418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_288
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 566
+        width: 86
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be9302210a0f80c0800000000000000
+      internalID: -4571424096775856462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_289
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 566
+        width: 84
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c38042b862fb9930800000000000000
+      internalID: 4151178013033137094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_290
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 417
+        width: 66
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef80c83552534cf0800000000000000
+      internalID: -269281026734256152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_291
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 414
+        width: 52
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6169b2438e98b55f0800000000000000
+      internalID: -766867681135847914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_292
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 413
+        width: 49
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adc93ed3d1e6da50800000000000000
+      internalID: 6545667408512273830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_293
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 413
+        width: 47
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe28641d3f2ddaf0800000000000000
+      internalID: -370087654992630031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_294
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 413
+        width: 47
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e683ae865f704f9e0800000000000000
+      internalID: -1588636017946380178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_295
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 413
+        width: 47
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2498f10b7fc5fe0800000000000000
+      internalID: -1198811064972000516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_296
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 413
+        width: 47
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d3745a650f6c7c0800000000000000
+      internalID: -4051286559842419441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_297
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 267
+        width: 82
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9126aae186c88dc00800000000000000
+      internalID: 925644102243607065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_298
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 266
+        width: 77
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e97bb98002148f60800000000000000
+      internalID: 8035567428655872480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_299
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 266
+        width: 71
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8263231e9944c1980800000000000000
+      internalID: -8566896963466676696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_300
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 267
+        width: 66
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8d3a2d68e6947b0800000000000000
+      internalID: -5239535166130235218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_301
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 266
+        width: 70
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db298eb2eabe02c10800000000000000
+      internalID: 2026878965610222269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_302
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 267
+        width: 80
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7202d191e22a03040800000000000000
+      internalID: 4625375136183033895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_303
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 268
+        width: 91
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a986417e75ed640800000000000000
+      internalID: 5106615677476182650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_304
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 269
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38d15ad4b35b2370800000000000000
+      internalID: 8298818774582286397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_305
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 268
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ff85b44302b3ff0800000000000000
+      internalID: -55415161437487275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_306
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 268
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acd2936f5ae41ce0800000000000000
+      internalID: -1435264685810983769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_307
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 134
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92a1822b1e1bb9d0800000000000000
+      internalID: -2757577244942425446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_308
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 143
+        width: 106
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f5abd3f69d5fd90800000000000000
+      internalID: -7064501368660533486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_309
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 89
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265372d20bd15cf80800000000000000
+      internalID: -8087024913364863646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Super Saiyan_310
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3
+        width: 87
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64f4597910a2bce0800000000000000
+      internalID: -1390873303633824657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

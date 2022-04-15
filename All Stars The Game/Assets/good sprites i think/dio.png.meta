@@ -1,0 +1,5384 @@
+fileFormatVersion: 2
+guid: a8a431a9f54b0774da83207d623730fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 722739431736446365
+    second: DS DSi - Jump Ultimate Stars - DIO_0
+  - first:
+      213: 2127233629505100440
+    second: DS DSi - Jump Ultimate Stars - DIO_1
+  - first:
+      213: 6396667190652670215
+    second: DS DSi - Jump Ultimate Stars - DIO_2
+  - first:
+      213: -3047543723056234361
+    second: DS DSi - Jump Ultimate Stars - DIO_3
+  - first:
+      213: -6938557667171446721
+    second: DS DSi - Jump Ultimate Stars - DIO_4
+  - first:
+      213: -9970287259732259
+    second: DS DSi - Jump Ultimate Stars - DIO_5
+  - first:
+      213: -8244234795371010660
+    second: DS DSi - Jump Ultimate Stars - DIO_6
+  - first:
+      213: 4226840537594180204
+    second: DS DSi - Jump Ultimate Stars - DIO_7
+  - first:
+      213: 7604012903344035122
+    second: DS DSi - Jump Ultimate Stars - DIO_8
+  - first:
+      213: -890763641468551698
+    second: DS DSi - Jump Ultimate Stars - DIO_9
+  - first:
+      213: -5805196150776316036
+    second: DS DSi - Jump Ultimate Stars - DIO_10
+  - first:
+      213: -2012028026869686119
+    second: DS DSi - Jump Ultimate Stars - DIO_11
+  - first:
+      213: -8951707244724816000
+    second: DS DSi - Jump Ultimate Stars - DIO_12
+  - first:
+      213: -1713371324058631633
+    second: DS DSi - Jump Ultimate Stars - DIO_13
+  - first:
+      213: -2290976425756223466
+    second: DS DSi - Jump Ultimate Stars - DIO_14
+  - first:
+      213: -8961901436971530563
+    second: DS DSi - Jump Ultimate Stars - DIO_15
+  - first:
+      213: 1849485191300894277
+    second: DS DSi - Jump Ultimate Stars - DIO_16
+  - first:
+      213: -8375243939390345055
+    second: DS DSi - Jump Ultimate Stars - DIO_17
+  - first:
+      213: 911780724630821479
+    second: DS DSi - Jump Ultimate Stars - DIO_18
+  - first:
+      213: -191265930939121262
+    second: DS DSi - Jump Ultimate Stars - DIO_19
+  - first:
+      213: 1616748876106909949
+    second: DS DSi - Jump Ultimate Stars - DIO_20
+  - first:
+      213: 3740730937949325826
+    second: DS DSi - Jump Ultimate Stars - DIO_21
+  - first:
+      213: -5294227351201859822
+    second: DS DSi - Jump Ultimate Stars - DIO_22
+  - first:
+      213: -2549051655243515553
+    second: DS DSi - Jump Ultimate Stars - DIO_23
+  - first:
+      213: 5762913638030465145
+    second: DS DSi - Jump Ultimate Stars - DIO_24
+  - first:
+      213: -3294186499782503464
+    second: DS DSi - Jump Ultimate Stars - DIO_25
+  - first:
+      213: -7058979152043991900
+    second: DS DSi - Jump Ultimate Stars - DIO_26
+  - first:
+      213: -101622434005372209
+    second: DS DSi - Jump Ultimate Stars - DIO_27
+  - first:
+      213: 6148687202209341614
+    second: DS DSi - Jump Ultimate Stars - DIO_28
+  - first:
+      213: -7682288134468210360
+    second: DS DSi - Jump Ultimate Stars - DIO_29
+  - first:
+      213: -8729368223641012998
+    second: DS DSi - Jump Ultimate Stars - DIO_30
+  - first:
+      213: -1603741835693655715
+    second: DS DSi - Jump Ultimate Stars - DIO_31
+  - first:
+      213: 826332886572307211
+    second: DS DSi - Jump Ultimate Stars - DIO_32
+  - first:
+      213: -2881974234651921133
+    second: DS DSi - Jump Ultimate Stars - DIO_33
+  - first:
+      213: 3066551730889766513
+    second: DS DSi - Jump Ultimate Stars - DIO_34
+  - first:
+      213: -7472600709944250186
+    second: DS DSi - Jump Ultimate Stars - DIO_35
+  - first:
+      213: 2025825752161640122
+    second: DS DSi - Jump Ultimate Stars - DIO_36
+  - first:
+      213: -4873157398804808389
+    second: DS DSi - Jump Ultimate Stars - DIO_37
+  - first:
+      213: 1815933067938599638
+    second: DS DSi - Jump Ultimate Stars - DIO_38
+  - first:
+      213: -8291422889625181828
+    second: DS DSi - Jump Ultimate Stars - DIO_39
+  - first:
+      213: -4678833238614548868
+    second: DS DSi - Jump Ultimate Stars - DIO_40
+  - first:
+      213: 455258607686012254
+    second: DS DSi - Jump Ultimate Stars - DIO_41
+  - first:
+      213: 6521307140243516700
+    second: DS DSi - Jump Ultimate Stars - DIO_42
+  - first:
+      213: -940117432211379834
+    second: DS DSi - Jump Ultimate Stars - DIO_43
+  - first:
+      213: -8038760134150934080
+    second: DS DSi - Jump Ultimate Stars - DIO_44
+  - first:
+      213: -308528387020955504
+    second: DS DSi - Jump Ultimate Stars - DIO_45
+  - first:
+      213: -6941296615023089636
+    second: DS DSi - Jump Ultimate Stars - DIO_46
+  - first:
+      213: -2835163319620869624
+    second: DS DSi - Jump Ultimate Stars - DIO_47
+  - first:
+      213: -8959404816037006289
+    second: DS DSi - Jump Ultimate Stars - DIO_48
+  - first:
+      213: 5580630997368628977
+    second: DS DSi - Jump Ultimate Stars - DIO_49
+  - first:
+      213: -4219380489945343398
+    second: DS DSi - Jump Ultimate Stars - DIO_50
+  - first:
+      213: 7572390912019515052
+    second: DS DSi - Jump Ultimate Stars - DIO_51
+  - first:
+      213: 7051457457927205899
+    second: DS DSi - Jump Ultimate Stars - DIO_52
+  - first:
+      213: 3924671896298183723
+    second: DS DSi - Jump Ultimate Stars - DIO_53
+  - first:
+      213: -7697133425712173295
+    second: DS DSi - Jump Ultimate Stars - DIO_54
+  - first:
+      213: -9164254764698836397
+    second: DS DSi - Jump Ultimate Stars - DIO_55
+  - first:
+      213: 2529910857969846286
+    second: DS DSi - Jump Ultimate Stars - DIO_56
+  - first:
+      213: 3479117009824963941
+    second: DS DSi - Jump Ultimate Stars - DIO_57
+  - first:
+      213: 5723499400275257838
+    second: DS DSi - Jump Ultimate Stars - DIO_58
+  - first:
+      213: 8382283319958946610
+    second: DS DSi - Jump Ultimate Stars - DIO_59
+  - first:
+      213: -9199440254324631565
+    second: DS DSi - Jump Ultimate Stars - DIO_60
+  - first:
+      213: -4378511674148061941
+    second: DS DSi - Jump Ultimate Stars - DIO_61
+  - first:
+      213: 4763851556677160764
+    second: DS DSi - Jump Ultimate Stars - DIO_62
+  - first:
+      213: -5959130547794688306
+    second: DS DSi - Jump Ultimate Stars - DIO_63
+  - first:
+      213: -3623054020562109982
+    second: DS DSi - Jump Ultimate Stars - DIO_64
+  - first:
+      213: 423347886154861173
+    second: DS DSi - Jump Ultimate Stars - DIO_65
+  - first:
+      213: 7453625201696924487
+    second: DS DSi - Jump Ultimate Stars - DIO_66
+  - first:
+      213: 398166694379671171
+    second: DS DSi - Jump Ultimate Stars - DIO_67
+  - first:
+      213: 8406515247862083645
+    second: DS DSi - Jump Ultimate Stars - DIO_68
+  - first:
+      213: 7414251859309533790
+    second: DS DSi - Jump Ultimate Stars - DIO_69
+  - first:
+      213: -1111338140029561642
+    second: DS DSi - Jump Ultimate Stars - DIO_70
+  - first:
+      213: -1668402267946935031
+    second: DS DSi - Jump Ultimate Stars - DIO_71
+  - first:
+      213: -2176810192099763140
+    second: DS DSi - Jump Ultimate Stars - DIO_72
+  - first:
+      213: -7408095555886460676
+    second: DS DSi - Jump Ultimate Stars - DIO_73
+  - first:
+      213: -5904254114873871366
+    second: DS DSi - Jump Ultimate Stars - DIO_74
+  - first:
+      213: -1404588555869873500
+    second: DS DSi - Jump Ultimate Stars - DIO_75
+  - first:
+      213: 5393891058395216723
+    second: DS DSi - Jump Ultimate Stars - DIO_76
+  - first:
+      213: -1837284117378035028
+    second: DS DSi - Jump Ultimate Stars - DIO_77
+  - first:
+      213: -7686326522202478718
+    second: DS DSi - Jump Ultimate Stars - DIO_78
+  - first:
+      213: 8571335491489299939
+    second: DS DSi - Jump Ultimate Stars - DIO_79
+  - first:
+      213: 8282691718615589483
+    second: DS DSi - Jump Ultimate Stars - DIO_80
+  - first:
+      213: -3800658233741435014
+    second: DS DSi - Jump Ultimate Stars - DIO_81
+  - first:
+      213: -8575790981532787255
+    second: DS DSi - Jump Ultimate Stars - DIO_82
+  - first:
+      213: -8599705202768411676
+    second: DS DSi - Jump Ultimate Stars - DIO_83
+  - first:
+      213: -3967130705864879356
+    second: DS DSi - Jump Ultimate Stars - DIO_84
+  - first:
+      213: 5341501308320684180
+    second: DS DSi - Jump Ultimate Stars - DIO_85
+  - first:
+      213: 3688034427329990566
+    second: DS DSi - Jump Ultimate Stars - DIO_86
+  - first:
+      213: -5415514743714193035
+    second: DS DSi - Jump Ultimate Stars - DIO_87
+  - first:
+      213: 3249450771589693751
+    second: DS DSi - Jump Ultimate Stars - DIO_88
+  - first:
+      213: -672059361324957703
+    second: DS DSi - Jump Ultimate Stars - DIO_89
+  - first:
+      213: -6976131469344820935
+    second: DS DSi - Jump Ultimate Stars - DIO_90
+  - first:
+      213: -5219201030942452903
+    second: DS DSi - Jump Ultimate Stars - DIO_91
+  - first:
+      213: -4481047411000793479
+    second: DS DSi - Jump Ultimate Stars - DIO_92
+  - first:
+      213: 4474358228818101646
+    second: DS DSi - Jump Ultimate Stars - DIO_93
+  - first:
+      213: 4508136272915670712
+    second: DS DSi - Jump Ultimate Stars - DIO_94
+  - first:
+      213: 5949297551946282801
+    second: DS DSi - Jump Ultimate Stars - DIO_95
+  - first:
+      213: -4134192535612124480
+    second: DS DSi - Jump Ultimate Stars - DIO_96
+  - first:
+      213: 3464759127350434441
+    second: DS DSi - Jump Ultimate Stars - DIO_97
+  - first:
+      213: 8217692369427980056
+    second: DS DSi - Jump Ultimate Stars - DIO_98
+  - first:
+      213: 6781683225581246836
+    second: DS DSi - Jump Ultimate Stars - DIO_99
+  - first:
+      213: -6450685051628771677
+    second: DS DSi - Jump Ultimate Stars - DIO_100
+  - first:
+      213: -3182618687715971059
+    second: DS DSi - Jump Ultimate Stars - DIO_101
+  - first:
+      213: -8840375144235584672
+    second: DS DSi - Jump Ultimate Stars - DIO_102
+  - first:
+      213: 224656166181433216
+    second: DS DSi - Jump Ultimate Stars - DIO_103
+  - first:
+      213: 2802932038078058119
+    second: DS DSi - Jump Ultimate Stars - DIO_104
+  - first:
+      213: -8550863077518527750
+    second: DS DSi - Jump Ultimate Stars - DIO_105
+  - first:
+      213: -5819176861590479704
+    second: DS DSi - Jump Ultimate Stars - DIO_106
+  - first:
+      213: 5446849829653781574
+    second: DS DSi - Jump Ultimate Stars - DIO_107
+  - first:
+      213: -462223593484804927
+    second: DS DSi - Jump Ultimate Stars - DIO_108
+  - first:
+      213: 6422926629944068158
+    second: DS DSi - Jump Ultimate Stars - DIO_109
+  - first:
+      213: 9202123722977437739
+    second: DS DSi - Jump Ultimate Stars - DIO_110
+  - first:
+      213: -2476494029015705128
+    second: DS DSi - Jump Ultimate Stars - DIO_111
+  - first:
+      213: 6743217191112318429
+    second: DS DSi - Jump Ultimate Stars - DIO_112
+  - first:
+      213: 6480798976063017766
+    second: DS DSi - Jump Ultimate Stars - DIO_113
+  - first:
+      213: 2384882183053137731
+    second: DS DSi - Jump Ultimate Stars - DIO_114
+  - first:
+      213: 537759049092947153
+    second: DS DSi - Jump Ultimate Stars - DIO_115
+  - first:
+      213: 4018528409617726624
+    second: DS DSi - Jump Ultimate Stars - DIO_116
+  - first:
+      213: 1159807021888449577
+    second: DS DSi - Jump Ultimate Stars - DIO_117
+  - first:
+      213: -2311797410180428384
+    second: DS DSi - Jump Ultimate Stars - DIO_118
+  - first:
+      213: 6674815116700159342
+    second: DS DSi - Jump Ultimate Stars - DIO_119
+  - first:
+      213: -4350917332876429697
+    second: DS DSi - Jump Ultimate Stars - DIO_120
+  - first:
+      213: 4666342182983377591
+    second: DS DSi - Jump Ultimate Stars - DIO_121
+  - first:
+      213: 6762709031217981532
+    second: DS DSi - Jump Ultimate Stars - DIO_122
+  - first:
+      213: 1997612152723908477
+    second: DS DSi - Jump Ultimate Stars - DIO_123
+  - first:
+      213: -2352937409260831591
+    second: DS DSi - Jump Ultimate Stars - DIO_124
+  - first:
+      213: -262764416498685789
+    second: DS DSi - Jump Ultimate Stars - DIO_125
+  - first:
+      213: -1877671046058496519
+    second: DS DSi - Jump Ultimate Stars - DIO_126
+  - first:
+      213: 4490941320811396102
+    second: DS DSi - Jump Ultimate Stars - DIO_127
+  - first:
+      213: 1305600037102431072
+    second: DS DSi - Jump Ultimate Stars - DIO_128
+  - first:
+      213: -3973469878743395689
+    second: DS DSi - Jump Ultimate Stars - DIO_129
+  - first:
+      213: 6260816664470151634
+    second: DS DSi - Jump Ultimate Stars - DIO_130
+  - first:
+      213: 7687292962922162985
+    second: DS DSi - Jump Ultimate Stars - DIO_131
+  - first:
+      213: 3742674841773942581
+    second: DS DSi - Jump Ultimate Stars - DIO_132
+  - first:
+      213: 4496929147903059506
+    second: DS DSi - Jump Ultimate Stars - DIO_133
+  - first:
+      213: -2372451284590670023
+    second: DS DSi - Jump Ultimate Stars - DIO_134
+  - first:
+      213: -1156559246544031221
+    second: DS DSi - Jump Ultimate Stars - DIO_135
+  - first:
+      213: 8435625367554621803
+    second: DS DSi - Jump Ultimate Stars - DIO_136
+  - first:
+      213: 1460096082886464568
+    second: DS DSi - Jump Ultimate Stars - DIO_137
+  - first:
+      213: -3977499258952892852
+    second: DS DSi - Jump Ultimate Stars - DIO_138
+  - first:
+      213: 2237359074536220621
+    second: DS DSi - Jump Ultimate Stars - DIO_139
+  - first:
+      213: -6860845532688797420
+    second: DS DSi - Jump Ultimate Stars - DIO_140
+  - first:
+      213: -4570231922275398550
+    second: DS DSi - Jump Ultimate Stars - DIO_141
+  - first:
+      213: -84758829846807402
+    second: DS DSi - Jump Ultimate Stars - DIO_142
+  - first:
+      213: -1640983004522301369
+    second: DS DSi - Jump Ultimate Stars - DIO_143
+  - first:
+      213: -6357625315873045666
+    second: DS DSi - Jump Ultimate Stars - DIO_144
+  - first:
+      213: -7411628333466776175
+    second: DS DSi - Jump Ultimate Stars - DIO_145
+  - first:
+      213: -2427625321037745317
+    second: DS DSi - Jump Ultimate Stars - DIO_146
+  - first:
+      213: 5914684641273333046
+    second: DS DSi - Jump Ultimate Stars - DIO_147
+  - first:
+      213: -327099283408477015
+    second: DS DSi - Jump Ultimate Stars - DIO_148
+  - first:
+      213: -7073226396937924183
+    second: DS DSi - Jump Ultimate Stars - DIO_149
+  - first:
+      213: 3814189380945340086
+    second: DS DSi - Jump Ultimate Stars - DIO_150
+  - first:
+      213: 8620709700981293955
+    second: DS DSi - Jump Ultimate Stars - DIO_151
+  - first:
+      213: 1450355253669555969
+    second: DS DSi - Jump Ultimate Stars - DIO_152
+  - first:
+      213: 7062943831771740525
+    second: DS DSi - Jump Ultimate Stars - DIO_153
+  - first:
+      213: -8094221448290154942
+    second: DS DSi - Jump Ultimate Stars - DIO_154
+  - first:
+      213: -6674020545219398595
+    second: DS DSi - Jump Ultimate Stars - DIO_155
+  - first:
+      213: -7783914723451933846
+    second: DS DSi - Jump Ultimate Stars - DIO_156
+  - first:
+      213: -5015246522136603077
+    second: DS DSi - Jump Ultimate Stars - DIO_157
+  - first:
+      213: -2428737388445511899
+    second: DS DSi - Jump Ultimate Stars - DIO_158
+  - first:
+      213: 1642404598150616362
+    second: DS DSi - Jump Ultimate Stars - DIO_159
+  - first:
+      213: 7225080361462141836
+    second: DS DSi - Jump Ultimate Stars - DIO_160
+  - first:
+      213: -2604815248143295865
+    second: DS DSi - Jump Ultimate Stars - DIO_161
+  - first:
+      213: 3874538396974383818
+    second: DS DSi - Jump Ultimate Stars - DIO_162
+  - first:
+      213: 1826833178540739967
+    second: DS DSi - Jump Ultimate Stars - DIO_163
+  - first:
+      213: -7637040423389361763
+    second: DS DSi - Jump Ultimate Stars - DIO_164
+  - first:
+      213: -8962882799561651159
+    second: DS DSi - Jump Ultimate Stars - DIO_165
+  - first:
+      213: 6612283237854473729
+    second: DS DSi - Jump Ultimate Stars - DIO_166
+  - first:
+      213: 4248907816995564982
+    second: DS DSi - Jump Ultimate Stars - DIO_167
+  - first:
+      213: -4642909657609913922
+    second: DS DSi - Jump Ultimate Stars - DIO_168
+  - first:
+      213: 114989732850911773
+    second: DS DSi - Jump Ultimate Stars - DIO_169
+  - first:
+      213: -63683671883508435
+    second: DS DSi - Jump Ultimate Stars - DIO_170
+  - first:
+      213: -2391816377201212824
+    second: DS DSi - Jump Ultimate Stars - DIO_171
+  - first:
+      213: 2437654477833556703
+    second: DS DSi - Jump Ultimate Stars - DIO_172
+  - first:
+      213: -7961413536287541596
+    second: DS DSi - Jump Ultimate Stars - DIO_173
+  - first:
+      213: 3400878055610462551
+    second: DS DSi - Jump Ultimate Stars - DIO_174
+  - first:
+      213: -2751341872017922678
+    second: DS DSi - Jump Ultimate Stars - DIO_175
+  - first:
+      213: 1830714203791446145
+    second: DS DSi - Jump Ultimate Stars - DIO_176
+  - first:
+      213: 4509784713643838026
+    second: DS DSi - Jump Ultimate Stars - DIO_177
+  - first:
+      213: -6971712488006381573
+    second: DS DSi - Jump Ultimate Stars - DIO_178
+  - first:
+      213: 8308066974187649298
+    second: DS DSi - Jump Ultimate Stars - DIO_179
+  - first:
+      213: 8738089981339764622
+    second: DS DSi - Jump Ultimate Stars - DIO_180
+  - first:
+      213: -7626407631247339345
+    second: DS DSi - Jump Ultimate Stars - DIO_181
+  - first:
+      213: 3305871875716101875
+    second: DS DSi - Jump Ultimate Stars - DIO_182
+  - first:
+      213: -1966066544122647644
+    second: DS DSi - Jump Ultimate Stars - DIO_183
+  - first:
+      213: -4830939484735061664
+    second: DS DSi - Jump Ultimate Stars - DIO_184
+  - first:
+      213: -3552555243842302350
+    second: DS DSi - Jump Ultimate Stars - DIO_185
+  - first:
+      213: -7168185147118294393
+    second: DS DSi - Jump Ultimate Stars - DIO_186
+  - first:
+      213: -2896141182818733951
+    second: DS DSi - Jump Ultimate Stars - DIO_187
+  - first:
+      213: 8768526400798996962
+    second: DS DSi - Jump Ultimate Stars - DIO_188
+  - first:
+      213: -4388533801700724751
+    second: DS DSi - Jump Ultimate Stars - DIO_189
+  - first:
+      213: -8290880595785266146
+    second: DS DSi - Jump Ultimate Stars - DIO_190
+  - first:
+      213: 646207324039980349
+    second: DS DSi - Jump Ultimate Stars - DIO_191
+  - first:
+      213: 6048700054499286811
+    second: DS DSi - Jump Ultimate Stars - DIO_192
+  - first:
+      213: 8182085112403060265
+    second: DS DSi - Jump Ultimate Stars - DIO_193
+  - first:
+      213: 3468675427548513571
+    second: DS DSi - Jump Ultimate Stars - DIO_194
+  - first:
+      213: -684423719537083900
+    second: DS DSi - Jump Ultimate Stars - DIO_195
+  - first:
+      213: 1861032170708775032
+    second: DS DSi - Jump Ultimate Stars - DIO_196
+  - first:
+      213: 3488159566964195295
+    second: DS DSi - Jump Ultimate Stars - DIO_197
+  - first:
+      213: 4795223290535637920
+    second: DS DSi - Jump Ultimate Stars - DIO_198
+  - first:
+      213: -3408259670777884870
+    second: DS DSi - Jump Ultimate Stars - DIO_199
+  - first:
+      213: -6912836740971937290
+    second: DS DSi - Jump Ultimate Stars - DIO_200
+  - first:
+      213: -6839457408352274591
+    second: DS DSi - Jump Ultimate Stars - DIO_201
+  - first:
+      213: -2436557090501240414
+    second: DS DSi - Jump Ultimate Stars - DIO_202
+  - first:
+      213: 4377236749591577417
+    second: DS DSi - Jump Ultimate Stars - DIO_203
+  - first:
+      213: 5418905973925003117
+    second: DS DSi - Jump Ultimate Stars - DIO_204
+  - first:
+      213: -2349523361913574385
+    second: DS DSi - Jump Ultimate Stars - DIO_205
+  - first:
+      213: 2305270113024311678
+    second: DS DSi - Jump Ultimate Stars - DIO_206
+  - first:
+      213: -1180793109500182826
+    second: DS DSi - Jump Ultimate Stars - DIO_207
+  - first:
+      213: 8227519270325931381
+    second: DS DSi - Jump Ultimate Stars - DIO_208
+  - first:
+      213: 4748512160932252711
+    second: DS DSi - Jump Ultimate Stars - DIO_209
+  - first:
+      213: 3195108891916240235
+    second: DS DSi - Jump Ultimate Stars - DIO_210
+  - first:
+      213: -7858887365260939432
+    second: DS DSi - Jump Ultimate Stars - DIO_211
+  - first:
+      213: -5254937371389705750
+    second: DS DSi - Jump Ultimate Stars - DIO_212
+  - first:
+      213: -212647531303782258
+    second: DS DSi - Jump Ultimate Stars - DIO_213
+  - first:
+      213: -1698779141142329559
+    second: DS DSi - Jump Ultimate Stars - DIO_214
+  - first:
+      213: 35767465299525321
+    second: DS DSi - Jump Ultimate Stars - DIO_215
+  - first:
+      213: 8264210545971264627
+    second: DS DSi - Jump Ultimate Stars - DIO_216
+  - first:
+      213: -4555360945713623896
+    second: DS DSi - Jump Ultimate Stars - DIO_217
+  - first:
+      213: 8134906976179562476
+    second: DS DSi - Jump Ultimate Stars - DIO_218
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2054
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d81d51fafa70a00800000000000000
+      internalID: 722739431736446365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2054
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a9ae827b3758d10800000000000000
+      internalID: 2127233629505100440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2054
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7019f3d3be685c850800000000000000
+      internalID: 6396667190652670215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2054
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78003c56123f4b5d0800000000000000
+      internalID: -3047543723056234361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_4
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2055
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30dea2509a45bf90800000000000000
+      internalID: -6938557667171446721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_5
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2055
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6339993149cdff0800000000000000
+      internalID: -9970287259732259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2055
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95eef82228969d80800000000000000
+      internalID: -8244234795371010660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_7
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2055
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62b58df211c8aa30800000000000000
+      internalID: 4226840537594180204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2054
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235de43a271e68960800000000000000
+      internalID: 7604012903344035122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_9
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2054
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedfe63003f53a3f0800000000000000
+      internalID: -890763641468551698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1957
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f338dabdccf6fa0800000000000000
+      internalID: -5805196150776316036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1957
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9906d447b27d314e0800000000000000
+      internalID: -2012028026869686119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1957
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087f2e860b525c380800000000000000
+      internalID: -8951707244724816000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_13
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1957
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22052dcbd1e838e0800000000000000
+      internalID: -1713371324058631633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1957
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61891023411d430e0800000000000000
+      internalID: -2290976425756223466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1957
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6cf31102ee0a380800000000000000
+      internalID: -8961901436971530563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1957
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ec5d48bf0baa910800000000000000
+      internalID: 1849485191300894277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_17
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1958
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a03565d20825cb80800000000000000
+      internalID: -8375243939390345055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_18
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1958
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a1bacfcbb47ac00800000000000000
+      internalID: 911780724630821479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_19
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1957
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2914db036ac785df0800000000000000
+      internalID: -191265930939121262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1860
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df84d537988df6610800000000000000
+      internalID: 1616748876106909949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1860
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a88c408feb9e330800000000000000
+      internalID: 3740730937949325826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1860
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217b47b26402786b0800000000000000
+      internalID: -5294227351201859822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1860
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59b6176603ff9cd0800000000000000
+      internalID: -2549051655243515553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_24
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1860
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9785f0aab6bf9ff40800000000000000
+      internalID: 5762913638030465145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_25
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1860
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d39390f4d2b842d0800000000000000
+      internalID: -3294186499782503464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_26
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1861
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac978d7cd7790e90800000000000000
+      internalID: -7058979152043991900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_27
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1862
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc236e74fe6f69ef0800000000000000
+      internalID: -101622434005372209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_28
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1878
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0adaaee66845550800000000000000
+      internalID: 6148687202209341614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_29
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1859
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841f2dae4a7036590800000000000000
+      internalID: -7682288134468210360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1775
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af47b4cc9dd0bd680800000000000000
+      internalID: -8729368223641012998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1780
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59fb042c4d5eb9e0800000000000000
+      internalID: -1603741835693655715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_32
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1780
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b039d5ad169b77b00800000000000000
+      internalID: 826332886572307211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1763
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3157eb3f3bb2108d0800000000000000
+      internalID: -2881974234651921133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_34
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1763
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1763b0d4d849e8a20800000000000000
+      internalID: 3066551730889766513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_35
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1764
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0f07fee3dfb4890800000000000000
+      internalID: -7472600709944250186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_36
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1764
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abede6ec9cd2d1c10800000000000000
+      internalID: 2025825752161640122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_37
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1764
+        width: 28
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d3ca53a211f5cb0800000000000000
+      internalID: -4873157398804808389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_38
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1764
+        width: 26
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d29d5a018d733910800000000000000
+      internalID: 1815933067938599638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_39
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1764
+        width: 25
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71295dcfc2feec80800000000000000
+      internalID: -8291422889625181828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1677
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ed61185f1711fb0800000000000000
+      internalID: -4678833238614548868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_41
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1667
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d4018aa47615600800000000000000
+      internalID: 455258607686012254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_42
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1672
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dee6dea46508a50800000000000000
+      internalID: 6521307140243516700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_43
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1684
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68963e52d2804f2f0800000000000000
+      internalID: -940117432211379834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_44
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1677
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1bc59cf36907090800000000000000
+      internalID: -8038760134150934080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_45
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1665
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090ed701113e7bbf0800000000000000
+      internalID: -308528387020955504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_46
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1665
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c186de4518f8baf90800000000000000
+      internalID: -6941296615023089636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_47
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1669
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802e7cd6bf977a8d0800000000000000
+      internalID: -2835163319620869624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_48
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1664
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24b03de9ccc9a380800000000000000
+      internalID: -8959404816037006289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_49
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1667
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6e0bc1352627d40800000000000000
+      internalID: 5580630997368628977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1569
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a1894bccfb175c0800000000000000
+      internalID: -4219380489945343398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1569
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6c15b0a69861960800000000000000
+      internalID: 7572390912019515052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_52
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1569
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04b780a23fcbd160800000000000000
+      internalID: 7051457457927205899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1569
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cdfcebb4c377630800000000000000
+      internalID: 3924671896298183723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_54
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1569
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fe3a33ee94e2590800000000000000
+      internalID: -7697133425712173295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_55
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1569
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352e1f688d602d080800000000000000
+      internalID: -9164254764698836397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_56
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1569
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0842b2758c0c1320800000000000000
+      internalID: 2529910857969846286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_57
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1569
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dd2aebc7e484030800000000000000
+      internalID: 3479117009824963941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_58
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1569
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee961915164fd6f40800000000000000
+      internalID: 5723499400275257838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_59
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1569
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233c5dca44ad35470800000000000000
+      internalID: 8382283319958946610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1472
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f71d8454d5055080800000000000000
+      internalID: -9199440254324631565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_61
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1472
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0df089a4d66c33c0800000000000000
+      internalID: -4378511674148061941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_62
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1472
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f0f6630c99c1240800000000000000
+      internalID: 4763851556677160764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_63
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1472
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6c480f65aec4da0800000000000000
+      internalID: -5959130547794688306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_64
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1472
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e93856609358bdc0800000000000000
+      internalID: -3623054020562109982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1472
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a4ca2d8a800e500800000000000000
+      internalID: 423347886154861173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_66
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1472
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7436b0441a8907760800000000000000
+      internalID: 7453625201696924487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_67
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1472
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e44ebbf72968500800000000000000
+      internalID: 398166694379671171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_68
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1472
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3079bb0411f9a470800000000000000
+      internalID: 8406515247862083645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_69
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1472
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a9c6d98c6b4e660800000000000000
+      internalID: 7414251859309533790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1375
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4d13a89dbb390f0800000000000000
+      internalID: -1111338140029561642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1375
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d11941af4a8d8e0800000000000000
+      internalID: -1668402267946935031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_72
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1375
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c917cd9aa6ac1e0800000000000000
+      internalID: -2176810192099763140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_73
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1375
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0dc397758213990800000000000000
+      internalID: -7408095555886460676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_74
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1375
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3fd432a20ef0ea0800000000000000
+      internalID: -5904254114873871366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_75
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1375
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa1cc77626e18ce0800000000000000
+      internalID: -1404588555869873500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_76
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1375
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b7dcce653fada40800000000000000
+      internalID: 5393891058395216723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_77
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1375
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2173064d7a086e0800000000000000
+      internalID: -1837284117378035028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_78
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1375
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287257080cea45590800000000000000
+      internalID: -7686326522202478718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_79
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1375
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edfae4773083f670800000000000000
+      internalID: 8571335491489299939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_80
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1278
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62e6280c3802f270800000000000000
+      internalID: 8282691718615589483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_81
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1278
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f9d212979514bc0800000000000000
+      internalID: -3800658233741435014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_82
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1278
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd5dbde98bacf880800000000000000
+      internalID: -8575790981532787255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_83
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1278
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e309e76ea5b7a880800000000000000
+      internalID: -8599705202768411676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_84
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1278
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403116b44abe1f8c0800000000000000
+      internalID: -3967130705864879356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_85
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1278
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4981db1b323d02a40800000000000000
+      internalID: 5341501308320684180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_86
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1278
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af4a6885c78e2330800000000000000
+      internalID: 3688034427329990566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_87
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1278
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5716601880a38d4b0800000000000000
+      internalID: -5415514743714193035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_88
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1278
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73109bba24e581d20800000000000000
+      internalID: 3249450771589693751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_89
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1278
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffff34529d5ca6f0800000000000000
+      internalID: -672059361324957703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_90
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1181
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9313747c36dcf2f90800000000000000
+      internalID: -6976131469344820935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_91
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1181
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953925b905ca197b0800000000000000
+      internalID: -5219201030942452903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_92
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1181
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9762d9d0f1f10d1c0800000000000000
+      internalID: -4481047411000793479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_93
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1181
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e858c8a5a1d181e30800000000000000
+      internalID: 4474358228818101646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_94
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1181
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6213a1e0e109e30800000000000000
+      internalID: 4508136272915670712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_95
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1182
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137fbde4a96209250800000000000000
+      internalID: 5949297551946282801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_96
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1181
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c294c1fac560a6c0800000000000000
+      internalID: -4134192535612124480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_97
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1181
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ad30ab11c451030800000000000000
+      internalID: 3464759127350434441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_98
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1181
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f5139bbab1b0270800000000000000
+      internalID: 8217692369427980056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_99
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1186
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479def776f06d1e50800000000000000
+      internalID: 6781683225581246836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_100
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1085
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6aebb6f109a76a0800000000000000
+      internalID: -6450685051628771677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_101
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1085
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d007b2f6a2115d3d0800000000000000
+      internalID: -3182618687715971059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_102
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1084
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06335a605ada05580800000000000000
+      internalID: -8840375144235584672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_103
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1084
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f68d5c7932e1300800000000000000
+      internalID: 224656166181433216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_104
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1084
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e443b86d306e620800000000000000
+      internalID: 2802932038078058119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_105
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1084
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2318dd55b355980800000000000000
+      internalID: -8550863077518527750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_106
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1084
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac1ab7c9712e3fa0800000000000000
+      internalID: -5819176861590479704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_107
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1084
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c1969bf09179b40800000000000000
+      internalID: 5446849829653781574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_108
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1084
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc9887371ad599f0800000000000000
+      internalID: -462223593484804927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_109
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1084
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3886346db1d22950800000000000000
+      internalID: 6422926629944068158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_110
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 986
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28e34765c284bf70800000000000000
+      internalID: 9202123722977437739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_111
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 986
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d994283dc9b1add0800000000000000
+      internalID: -2476494029015705128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_112
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 986
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd9e87ee48b49d50800000000000000
+      internalID: 6743217191112318429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_113
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 986
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62393fcf45c60f950800000000000000
+      internalID: 6480798976063017766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_114
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 986
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3475a08b5bdc81120800000000000000
+      internalID: 2384882183053137731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_115
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 986
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcdfe78101867700800000000000000
+      internalID: 537759049092947153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_116
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 988
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac74172c4ea4c730800000000000000
+      internalID: 4018528409617726624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_117
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 986
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c2aab6756781010800000000000000
+      internalID: 1159807021888449577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_118
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 986
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad078df088daefd0800000000000000
+      internalID: -2311797410180428384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_119
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 986
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d0254ebf4b1ac50800000000000000
+      internalID: 6674815116700159342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_120
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 889
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f767fc6ecbf6e93c0800000000000000
+      internalID: -4350917332876429697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_121
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 889
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b22529fd7d22c040800000000000000
+      internalID: 4666342182983377591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_122
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 889
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58e2159808f9dd50800000000000000
+      internalID: 6762709031217981532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_123
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 889
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77ac1a4ba1f8bb10800000000000000
+      internalID: 1997612152723908477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_124
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 889
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cb74684efa85fd0800000000000000
+      internalID: -2352937409260831591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_125
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 889
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8abf6c7297a5cf0800000000000000
+      internalID: -262764416498685789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_126
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 889
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fda5a6c12c21f5e0800000000000000
+      internalID: -1877671046058496519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_127
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 889
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c36165657035e30800000000000000
+      internalID: 4490941320811396102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_128
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 889
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b2a3ef05c6e1210800000000000000
+      internalID: 1305600037102431072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_129
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 889
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79219c792366bd8c0800000000000000
+      internalID: -3973469878743395689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 793
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1e699c593e2e650800000000000000
+      internalID: 6260816664470151634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_131
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 793
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92be5538830ceaa60800000000000000
+      internalID: 7687292962922162985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_132
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 793
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5372ab560f6a0f330800000000000000
+      internalID: 3742674841773942581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_133
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 793
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236acd8fb3d486e30800000000000000
+      internalID: 4496929147903059506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_134
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 795
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fcd0f502c531fd0800000000000000
+      internalID: -2372451284590670023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_135
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 795
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02bc043e7313ffe0800000000000000
+      internalID: -1156559246544031221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_136
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 798
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b610e53f39c511570800000000000000
+      internalID: 8435625367554621803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_137
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 796
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8341366c6ad434410800000000000000
+      internalID: 1460096082886464568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_138
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 794
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ebbb76f751dc8c0800000000000000
+      internalID: -3977499258952892852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_139
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 793
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc76ab86932bc0f10800000000000000
+      internalID: 2237359074536220621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_140
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 696
+        width: 29
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411324d965169c0a0800000000000000
+      internalID: -6860845532688797420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_141
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 697
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ccf93e7464390c0800000000000000
+      internalID: -4570231922275398550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_142
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 697
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c37671b40e2def0800000000000000
+      internalID: -84758829846807402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_143
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 697
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748bef4d6ae0a39e0800000000000000
+      internalID: -1640983004522301369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_144
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 697
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e534b58957d25c7a0800000000000000
+      internalID: -6357625315873045666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_145
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 708
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d0e789c4b942990800000000000000
+      internalID: -7411628333466776175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_146
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 683
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b533dc3f1a75f4ed0800000000000000
+      internalID: -2427625321037745317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_147
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 716
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6354e89085e251250800000000000000
+      internalID: 5914684641273333046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_148
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 690
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4272e4fe8e57bf0800000000000000
+      internalID: -327099283408477015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_149
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 696
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1599a411ad6dd90800000000000000
+      internalID: -7073226396937924183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_150
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 609
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b660559809bee430800000000000000
+      internalID: 3814189380945340086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_151
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 611
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38301ce6cc9e2a770800000000000000
+      internalID: 8620709700981293955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_152
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 611
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f681d3b62b02410800000000000000
+      internalID: 1450355253669555969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_153
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 611
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d697a417efd940260800000000000000
+      internalID: 7062943831771740525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_154
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 611
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24641515a7c8baf80800000000000000
+      internalID: -8094221448290154942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_155
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 609
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34f982bcad1163a0800000000000000
+      internalID: -6674020545219398595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_156
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 609
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6be6bacccaf9f390800000000000000
+      internalID: -7783914723451933846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_157
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 609
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36d80b2cd3466ab0800000000000000
+      internalID: -5015246522136603077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_158
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 609
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fcef496346b4ed0800000000000000
+      internalID: -2428737388445511899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_159
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 609
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a255c3ab74efac610800000000000000
+      internalID: 1642404598150616362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_160
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 539
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c831a920f44a44460800000000000000
+      internalID: 7225080361462141836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_161
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 539
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ad5ec2556d9dbd0800000000000000
+      internalID: -2604815248143295865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 539
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac20544d42025c530800000000000000
+      internalID: 3874538396974383818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_163
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 539
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d81dec8173a5910800000000000000
+      internalID: 1826833178540739967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_164
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 539
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99049c9238c30690800000000000000
+      internalID: -7637040423389361763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_165
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 539
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c4ba8c4917d9380800000000000000
+      internalID: -8962882799561651159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_166
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 539
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ee59a429c83cb50800000000000000
+      internalID: 6612283237854473729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_167
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 539
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bda66bd52727fa30800000000000000
+      internalID: 4248907816995564982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_168
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 539
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb93eedf342119fb0800000000000000
+      internalID: -4642909657609913922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_169
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 539
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a45638d86889100800000000000000
+      internalID: 114989732850911773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_170
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 469
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25146fa900cd1ff0800000000000000
+      internalID: -63683671883508435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_171
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 469
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862c5f46daf8eced0800000000000000
+      internalID: -2391816377201212824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_172
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 395
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2d86415d944d120800000000000000
+      internalID: 2437654477833556703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_173
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 395
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a63893f190638190800000000000000
+      internalID: -7961413536287541596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_174
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 395
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751351da298523f20800000000000000
+      internalID: 3400878055610462551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_175
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 395
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85a6b6052541d9d0800000000000000
+      internalID: -2751341872017922678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_176
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 395
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180504a6ed0086910800000000000000
+      internalID: 1830714203791446145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_177
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 395
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a4a3e9d49f59e30800000000000000
+      internalID: 4509784713643838026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_178
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 395
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff893c0e608f3f90800000000000000
+      internalID: -6971712488006381573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_179
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 395
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219fb9e15ee2c4370800000000000000
+      internalID: 8308066974187649298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_180
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 395
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e870829aa8ee34970800000000000000
+      internalID: 8738089981339764622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_181
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 395
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa09c237aae892690800000000000000
+      internalID: -7626407631247339345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_182
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 318
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f63309a4f0d0ed20800000000000000
+      internalID: 3305871875716101875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_183
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 318
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab2ac015e027b4e0800000000000000
+      internalID: -1966066544122647644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_184
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 310
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06145f0522e05fcb0800000000000000
+      internalID: -4830939484735061664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_185
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 310
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e04d5f3d9c2bec0800000000000000
+      internalID: -3552555243842302350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_186
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 310
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a68cd569d758c90800000000000000
+      internalID: -7168185147118294393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_187
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 310
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180b5ba40f6dec7d0800000000000000
+      internalID: -2896141182818733951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_188
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 310
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9324bcd4010b970800000000000000
+      internalID: 8768526400798996962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_189
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 310
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff65d042cbc813c0800000000000000
+      internalID: -4388533801700724751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_190
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 310
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c4a0d6600e0fc80800000000000000
+      internalID: -8290880595785266146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_191
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 310
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35a8a0332ac7f800800000000000000
+      internalID: 646207324039980349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_192
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 224
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fd055f6ac41f350800000000000000
+      internalID: 6048700054499286811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_193
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 224
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926ebc62f0b9c8170800000000000000
+      internalID: 8182085112403060265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_194
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 224
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325c72c6ce5332030800000000000000
+      internalID: 3468675427548513571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_195
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 224
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40af329d0407086f0800000000000000
+      internalID: -684423719537083900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_196
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 224
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870bbaa26e6b3d910800000000000000
+      internalID: 1861032170708775032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_197
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 224
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdff7c425ae686030800000000000000
+      internalID: 3488159566964195295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_198
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 224
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a37e033d2e0c8240800000000000000
+      internalID: 4795223290535637920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_199
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 224
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f8efc13ed63b0d0800000000000000
+      internalID: -3408259670777884870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_200
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 220
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f149102c9ba010a0800000000000000
+      internalID: -6912836740971937290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_201
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 220
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167bfbe59bd5511a0800000000000000
+      internalID: -6839457408352274591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_202
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 137
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9d6b15c3c9f2ed0800000000000000
+      internalID: -2436557090501240414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_203
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 137
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9430135d1a11fbc30800000000000000
+      internalID: 4377236749591577417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_204
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 138
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fba0fc542d33b40800000000000000
+      internalID: 5418905973925003117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_205
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 138
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ce8ad53f0d46fd0800000000000000
+      internalID: -2349523361913574385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_206
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 137
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71832634f6fdff10800000000000000
+      internalID: 2305270113024311678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_207
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 71
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de330b4ceafc9fe0800000000000000
+      internalID: -1180793109500182826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_208
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d45726f250e2270800000000000000
+      internalID: 8227519270325931381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_209
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 71
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c4df3d6aa16e140800000000000000
+      internalID: 4748512160932252711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_210
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 71
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b650c59db9e475c20800000000000000
+      internalID: 3195108891916240235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_211
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 71
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fe0d7549f9fe290800000000000000
+      internalID: -7858887365260939432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_212
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 71
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae144657d46b217b0800000000000000
+      internalID: -5254937371389705750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_213
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 71
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88364a62368c0df0800000000000000
+      internalID: -212647531303782258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_214
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 71
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9274e542f59bc68e0800000000000000
+      internalID: -1698779141142329559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_215
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 71
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceb1b7f1521f7000800000000000000
+      internalID: 35767465299525321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_216
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 71
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c77a5b4bf50b270800000000000000
+      internalID: 8264210545971264627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac4d0fea5b18c0c0800000000000000
+      internalID: -4555360945713623896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - DIO_218
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 157
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7a7045bcef4e070800000000000000
+      internalID: 8134906976179562476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

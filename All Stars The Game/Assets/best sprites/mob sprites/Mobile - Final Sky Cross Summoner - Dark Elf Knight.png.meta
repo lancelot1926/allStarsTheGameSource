@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 1e43d826a0773bf49b6c6f252608dbac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3385206140681053554
+    second: Mobile - Final Sky Cross Summoner - Dark Elf Knight_0
+  - first:
+      213: -3299958703155837550
+    second: Mobile - Final Sky Cross Summoner - Dark Elf Knight_1
+  - first:
+      213: -8887186068661217114
+    second: Mobile - Final Sky Cross Summoner - Dark Elf Knight_2
+  - first:
+      213: 3552783055624204383
+    second: Mobile - Final Sky Cross Summoner - Dark Elf Knight_3
+  - first:
+      213: -2199071374962385462
+    second: Mobile - Final Sky Cross Summoner - Dark Elf Knight_4
+  - first:
+      213: -8707701312355845758
+    second: Mobile - Final Sky Cross Summoner - Dark Elf Knight_5
+  - first:
+      213: -3121912808027896300
+    second: Mobile - Final Sky Cross Summoner - Dark Elf Knight_6
+  - first:
+      213: -8083175703742910770
+    second: Mobile - Final Sky Cross Summoner - Dark Elf Knight_7
+  - first:
+      213: -4136627394318859250
+    second: Mobile - Final Sky Cross Summoner - Dark Elf Knight_8
+  - first:
+      213: -8394652242252412376
+    second: Mobile - Final Sky Cross Summoner - Dark Elf Knight_9
+  - first:
+      213: -3307668557426135063
+    second: Mobile - Final Sky Cross Summoner - Dark Elf Knight_10
+  - first:
+      213: 6756729999040066974
+    second: Mobile - Final Sky Cross Summoner - Dark Elf Knight_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Dark Elf Knight_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 157
+        width: 138
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275e3c2ac0baafe20800000000000000
+      internalID: 3385206140681053554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Dark Elf Knight_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 157
+        width: 139
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29500fc1b013432d0800000000000000
+      internalID: -3299958703155837550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Dark Elf Knight_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 157
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8d5ac5b5f5aa480800000000000000
+      internalID: -8887186068661217114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Dark Elf Knight_3
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 157
+        width: 143
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50f18a9d550e4130800000000000000
+      internalID: 3552783055624204383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Dark Elf Knight_4
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 164
+        width: 135
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd13a35c345b71e0800000000000000
+      internalID: -2199071374962385462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Dark Elf Knight_5
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 162
+        width: 107
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289b3d2bac7082780800000000000000
+      internalID: -8707701312355845758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Dark Elf Knight_6
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 157
+        width: 143
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41641c977dcbca4d0800000000000000
+      internalID: -3121912808027896300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Dark Elf Knight_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 6
+        width: 162
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5606271, y: 0.5325756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecee551268ac2df80800000000000000
+      internalID: -8083175703742910770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Dark Elf Knight_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 10
+        width: 135
+        height: 129
+      alignment: 9
+      pivot: {x: 0.75867534, y: 0.48731065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0489793d4fb796c0800000000000000
+      internalID: -4136627394318859250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Dark Elf Knight_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 10
+        width: 149
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4523938, y: 0.41949517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82acb9f2344308b80800000000000000
+      internalID: -8394652242252412376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Dark Elf Knight_10
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 10
+        width: 147
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4368988, y: 0.52783895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efe2e7c8fcc812d0800000000000000
+      internalID: -3307668557426135063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Sky Cross Summoner - Dark Elf Knight_11
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 10
+        width: 143
+        height: 113
+      alignment: 9
+      pivot: {x: 0.41223955, y: 0.5193147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95320ca22ab4cd50800000000000000
+      internalID: 6756729999040066974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

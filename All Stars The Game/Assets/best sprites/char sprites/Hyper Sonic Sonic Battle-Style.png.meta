@@ -1,0 +1,6095 @@
+fileFormatVersion: 2
+guid: e3b469d6d3084b24898979153c4e971c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6613611102976705456
+    second: Hyper Sonic Sonic Battle-Style_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1387
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bce163a7d973aa0800000000000000
+      internalID: -6181298815323157748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1389
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0af342fec1264d60800000000000000
+      internalID: 7874018171215411723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1391
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54754928c52776330800000000000000
+      internalID: 3704054960188839749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1393
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4d99b3f4c411fa0800000000000000
+      internalID: -5831796139282017110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1391
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07bf0f63f943a260800000000000000
+      internalID: 7107605946809956109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1389
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caa8246f4c98a990800000000000000
+      internalID: -7374472525022451005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1342
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5678b619b0204a0800000000000000
+      internalID: -6628722982333749772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1342
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc67933d60413410800000000000000
+      internalID: 1455014992378555613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1347
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735a2425345fa9ab0800000000000000
+      internalID: -5000414766749801161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1348
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7f725ee7085c2b0800000000000000
+      internalID: -5564900482047543308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1349
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace20f3aacb48c4c0800000000000000
+      internalID: -4267077313227641142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1350
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fac80f5faf3faf0800000000000000
+      internalID: -363671210677194875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1349
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33598f6ebb17fb330800000000000000
+      internalID: 3728824068333933875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1348
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3c4b31fe9c0c180800000000000000
+      internalID: -9097049218623421507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_14
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1347
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b5f2cfb5d8c6b90800000000000000
+      internalID: -7247262274133468337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1346
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368f4af0b46844e10800000000000000
+      internalID: 2181015776497301603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1344
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf620fbc8c02daea0800000000000000
+      internalID: -5859991493352085764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_17
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1342
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53504923d6aa002a0800000000000000
+      internalID: -6773226453588507339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1309
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3c64f0ddf0b8f70800000000000000
+      internalID: 9190456906698113971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1309
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931fcf628c84c61e0800000000000000
+      internalID: -2203306093206245063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1309
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ec44d85eae842f0800000000000000
+      internalID: -988281846569316812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1308
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ef60a50a0e147d0800000000000000
+      internalID: -2935818502759055737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_26
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1309
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c60d5b01a5c6c080800000000000000
+      internalID: -9167422695995013432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1309
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4592c678aa59e4f20800000000000000
+      internalID: 3408826527615035732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1309
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502b21eeb08c15960800000000000000
+      internalID: 7589066800660394501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1259
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dcabbd2d85b01e0800000000000000
+      internalID: -2230591527779119773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1259
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a8731763b454850800000000000000
+      internalID: 6360572745930476135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1259
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1b29c0fd11c8e90800000000000000
+      internalID: -7022218069291126360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_34
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1260
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab574581908e9cc0800000000000000
+      internalID: -3702380481157309530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1259
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c88e2eae75d9610800000000000000
+      internalID: 1629555306518842454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_36
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1259
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc655f8ab5e376cb0800000000000000
+      internalID: -4870855908580305204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_37
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1260
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ecb1cb18b401e20800000000000000
+      internalID: 3319235945950858909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_38
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1260
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b934f231039a7250800000000000000
+      internalID: 5943224291627907512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_39
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1261
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e037a64bdf1c3e060800000000000000
+      internalID: 6981637142752162574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_41
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1267
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1419e0965a0ed6dc0800000000000000
+      internalID: -3644009522436075199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1210
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fd0fe506aabf620800000000000000
+      internalID: 2809026123482062613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1213
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebbd1e3fdb545760800000000000000
+      internalID: 7445677098328243176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1213
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433b5825334949b80800000000000000
+      internalID: -8388917257735654604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_46
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1213
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8aa3a987684c4d0800000000000000
+      internalID: -3115217189691807494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_47
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1210
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c0a6963d58aa00800000000000000
+      internalID: 767966225503406308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_48
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1208
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87808a0eb7ebfedd0800000000000000
+      internalID: -2454533832634267528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_49
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1207
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b157888da8da2d0800000000000000
+      internalID: -3265801492166796480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_50
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1209
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bee761a41a6c6ad0800000000000000
+      internalID: -2707672639116677453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_51
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1213
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad86e3f5d666aa1d0800000000000000
+      internalID: -3338743553806407462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_52
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1213
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9165b2a2694f9ed0800000000000000
+      internalID: -2405122988007136866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_53
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1213
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5143d3185aa1d6d70800000000000000
+      internalID: 9037909325342651413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_54
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1213
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de52dfb0e615902e0800000000000000
+      internalID: -2159105013258050067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_55
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1208
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d444f4798be77a2b0800000000000000
+      internalID: -5573346682570062771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_56
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1210
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de845d92146480b0800000000000000
+      internalID: -5727342794996674864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_57
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1213
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e694557f2add00c0800000000000000
+      internalID: -4607786946363353367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_58
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1207
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68a7d7c9f0cb05e0800000000000000
+      internalID: -1942246635248048019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1165
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c461d6de3e8a38c90800000000000000
+      internalID: -7168700484949305780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1165
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25b7d528a8e614b0800000000000000
+      internalID: -5469928888507845334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1164
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66c63a74be494d50800000000000000
+      internalID: 6721990455878665835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_62
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1164
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2ca783eb8495d00800000000000000
+      internalID: 961879977248866993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_63
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1164
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7078e47912d90de30800000000000000
+      internalID: 4526290393105336071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_64
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1164
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc193890b7a55920800000000000000
+      internalID: 2978471105485413591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_65
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1168
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f737ce9229bd6130800000000000000
+      internalID: 3561706438663813110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_66
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087710f6b36714a90800000000000000
+      internalID: -7331448720744941696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_67
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd2d55889ab826c0800000000000000
+      internalID: -4167876290896122416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_68
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85d86a2a5a1bea20800000000000000
+      internalID: 3092594543680869775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_69
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1163
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4276c9fc01fec650800000000000000
+      internalID: 6255201970496631371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_70
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1165
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98c823b667662db0800000000000000
+      internalID: -4817049060636047202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_71
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1164
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e43cd6afe855e050800000000000000
+      internalID: 5829163079020852450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_72
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1163
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2703e95044e0f27d0800000000000000
+      internalID: -2941116346334826382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_73
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1160
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c1b9e2acee589b0800000000000000
+      internalID: -5078390452657644448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_74
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1162
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992a5688cddb883c0800000000000000
+      internalID: -4357023884602137959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_75
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1162
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7573c2390a901ed90800000000000000
+      internalID: -7070359354726402217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_76
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1161
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb250ea170e25cd40800000000000000
+      internalID: 5603935919383007935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_77
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1157
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157817deb9ef05270800000000000000
+      internalID: 8237363664117663569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_78
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1095
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a37986b12d4efae0800000000000000
+      internalID: -1513687617558187100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_79
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1095
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887b8503aabf36800800000000000000
+      internalID: 604603483371911048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_80
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1093
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f373c16f081856f0800000000000000
+      internalID: -695779688084966414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_81
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1094
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96645bcbe1d8a300800000000000000
+      internalID: 263691388859999899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_82
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1093
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516d8c0da0f8b7f50800000000000000
+      internalID: 6880250132353832469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_84
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1090
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687b5b025719b9fe0800000000000000
+      internalID: -1181190545008642170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_86
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1089
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916103648bd502180800000000000000
+      internalID: -9142204197529184743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_90
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1087
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd82a2f960f422180800000000000000
+      internalID: -9141657403749947171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_91
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1087
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1941457b9b2720e0800000000000000
+      internalID: -2294817538434840291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_92
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1085
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c16353af3c02d80800000000000000
+      internalID: -8277400635704992655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_93
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1084
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365ccb872e18c3f00800000000000000
+      internalID: 1097895218859787619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_97
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1089
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21136f157e7af250800000000000000
+      internalID: 5979230496790614317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_104
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1021
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f604a1ab764ed7eb0800000000000000
+      internalID: -4720365700259364753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_105
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1009
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfb25adb12601510800000000000000
+      internalID: 1517820946190352347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_106
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1010
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6335ffc563939d0800000000000000
+      internalID: -2794142320758147380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_107
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1009
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f3630ed42c81330800000000000000
+      internalID: 3681906335105302297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_108
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1008
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e1544ef0713e620800000000000000
+      internalID: 2802108750176263839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_109
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1010
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf831c693a6ae5610800000000000000
+      internalID: 1611908938184341755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_110
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1007
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7dfea1713bb28c0800000000000000
+      internalID: -4022924930307860548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_111
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1038
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b73c7096240105b0800000000000000
+      internalID: -5404033514188556361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_112
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1042
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607d3f17b05993e00800000000000000
+      internalID: 1025014266592483078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_113
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1040
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f40ca7b4a342fb0800000000000000
+      internalID: -4673546417447350440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_114
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1043
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf6a82c5517f09b0800000000000000
+      internalID: -5111742438892212292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_115
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1038
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde539ff5a6f84730800000000000000
+      internalID: 3983705063227088605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_116
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1031
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9d12c7b80e4f580800000000000000
+      internalID: -8794157282660066836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_117
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1025
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc99034dc174389a0800000000000000
+      internalID: -6232059270206023220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_119
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 965
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d85e5b22ca1dfe50800000000000000
+      internalID: 6844656429926602968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_120
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 969
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8603e14b793868da0800000000000000
+      internalID: -5942917970683613080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_121
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 969
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be527bc4ebfb8780800000000000000
+      internalID: -8679566896742113607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_122
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 969
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b33a466133eece0800000000000000
+      internalID: -1374104665030706375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_123
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 960
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb0c6fcc4631ccd0800000000000000
+      internalID: -2539689011334870075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_124
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 969
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9776e0addd098b00800000000000000
+      internalID: 831210851764959132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_125
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 969
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e486be3f019b760800000000000000
+      internalID: 7474023696410627616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_126
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 969
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e98f82f009ac5a70800000000000000
+      internalID: 8817107992019175912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_127
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 969
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb61b718f3482cf0800000000000000
+      internalID: -276896644254831688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_128
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 965
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c843e92db4e5470800000000000000
+      internalID: 8385222924179901588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_129
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 966
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8b135f0496091b0800000000000000
+      internalID: -5651901804637472561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_130
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 967
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7583bfa32f1544580800000000000000
+      internalID: -8843853667435333545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_131
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 958
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32802f5e25eb32ef0800000000000000
+      internalID: -134054300636542941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_133
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 896
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd05a1e40c4c1940800000000000000
+      internalID: 5268169247965908402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_134
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 896
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2bced5052a7a350800000000000000
+      internalID: 6027965092315574996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 896
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0af5264ad0afeca0800000000000000
+      internalID: -5985388520411891185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_136
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 897
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138bf981a3e5be8a0800000000000000
+      internalID: -6274818052196419535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_137
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 891
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52556619051f5890800000000000000
+      internalID: -7467226528382365090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_138
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 891
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827b9c473582f6fa0800000000000000
+      internalID: -5805377055750506712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_139
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 892
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc457168a7edf42e0800000000000000
+      internalID: -2139246680160643893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_140
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 892
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f287ba8d331f2ccf0800000000000000
+      internalID: -233359025689102289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_141
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 884
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ec813b461624860800000000000000
+      internalID: 7512674213536779844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_142
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 882
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef09da600b16d9b0800000000000000
+      internalID: -5055823843070242843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_143
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 827
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e949009317fcd40800000000000000
+      internalID: 5606824550736371355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_144
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 826
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd43f9db81601240800000000000000
+      internalID: 4760412059415563743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_146
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 868
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2857729ed6e52860800000000000000
+      internalID: 7504658197697222703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_147
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 874
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1837bf00402e0f0800000000000000
+      internalID: -1089303757605076510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_148
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 871
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436d3d6d39d0e0870800000000000000
+      internalID: 8650866862840862260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_149
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 852
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6e17c78b90c3910800000000000000
+      internalID: 1818339037517309620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_150
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 862
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8a9450858c6a7f0800000000000000
+      internalID: -601573219835991832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_151
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 827
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bacf7ba4b363d4b0800000000000000
+      internalID: -5416876299174032711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_152
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 834
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1ab0a064a298150800000000000000
+      internalID: 5875273669186134499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_153
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 855
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407ec30c1b982c3a0800000000000000
+      internalID: -6646598703517997308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_154
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 830
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf84c576246031880800000000000000
+      internalID: -8641556377722140420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_156
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 786
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55099a5dcb5d29b80800000000000000
+      internalID: -8389408148822585259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_157
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09de4ac097e05f870800000000000000
+      internalID: 8715888566911430032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_158
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7249b1082219640800000000000000
+      internalID: 5084883387891853295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_159
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 784
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1cfb281240307f0800000000000000
+      internalID: -647669379437182544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_160
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 739
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf18c79a298cc4450800000000000000
+      internalID: 6074450529650246139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_161
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 740
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d7a40656edd7dd0800000000000000
+      internalID: -2486586892250088130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_162
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 739
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1e730aa4dab8b60800000000000000
+      internalID: 7749478119848272289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_163
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 738
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b08182388250d50800000000000000
+      internalID: 6702808164189342566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_164
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 737
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eee4fdb3b86a890800000000000000
+      internalID: -7447111844544713113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_165
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 736
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac4aea7b305cc5c0800000000000000
+      internalID: -4193888936593306451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_166
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 734
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aac46e803ef8dd40800000000000000
+      internalID: 5609512820390808225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_167
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 763
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7c5565fe8edfd90800000000000000
+      internalID: -7062232526003779676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_168
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 763
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5f984569855f7a0800000000000000
+      internalID: -6344067097394809353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_169
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 763
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1191e13b0c8c390800000000000000
+      internalID: -7797770879255375402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_170
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 767
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf4ad0097e136990800000000000000
+      internalID: -7394032658158039090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_171
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 767
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcac8565f08c2910800000000000000
+      internalID: 1813966541382528218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_172
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 767
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c8ed75bf2eca590800000000000000
+      internalID: -7661499296925184977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_173
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 767
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e55311325150a80800000000000000
+      internalID: -8501365481235194294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_174
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 685
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da112522609593350800000000000000
+      internalID: 5996922261701005741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_175
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 685
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66540988a26f17d0800000000000000
+      internalID: -2945527155284224404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_176
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 685
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6491dbd4483c51d60800000000000000
+      internalID: 7860403697652406598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_177
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 685
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a15b5e927820150800000000000000
+      internalID: 5837376681042844305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_178
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 685
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac95db109d706d20800000000000000
+      internalID: 3269751387366726821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_179
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 685
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8c80c69fa8c19a0800000000000000
+      internalID: -6260976578087827239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_180
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 632
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4227dafa1501cc2f0800000000000000
+      internalID: -951367478256242140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_181
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 635
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e47cc31c3f8614d0800000000000000
+      internalID: -3164184199988218650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_182
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 632
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf1795166ccb6bc0800000000000000
+      internalID: -3788709922681184294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_183
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 633
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09978526539d28d10800000000000000
+      internalID: 2126500797378754960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_184
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 631
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a0d94d809f2b050800000000000000
+      internalID: 5814983885210847878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_185
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 630
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02807f5a8dcc24cc0800000000000000
+      internalID: -3728192310639917024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_187
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 633
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbff5b1c6a54fe60800000000000000
+      internalID: 7995114658851716032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_190
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 628
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f25fa01c5329680800000000000000
+      internalID: -8749872022798651586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_191
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 606
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a268a4dfc72f410800000000000000
+      internalID: 1509406252441414194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_192
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 605
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a53da492fa66710800000000000000
+      internalID: 1686227702380714585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_193
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 605
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ca49763abaa82f0800000000000000
+      internalID: -969774051439104889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_194
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 602
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dd71a4b4444d170800000000000000
+      internalID: 8202255911504829751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_195
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 578
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9387d7fc749fee9c0800000000000000
+      internalID: -3895902540809799623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_196
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 580
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1afcc16bb906ad0800000000000000
+      internalID: -2710995769207315994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_197
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 579
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dab2e6b73badf370800000000000000
+      internalID: 8358024739249371858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_198
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 579
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea281148488ec0f0800000000000000
+      internalID: -1094787815493326104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_199
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 526
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8dec83c999fde40800000000000000
+      internalID: 5683430151011883171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_200
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 525
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e357a333b2f4a3bf0800000000000000
+      internalID: -343875374578764482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_201
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 525
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c46e6def8252d160800000000000000
+      internalID: 7048787144905483456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_202
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 524
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b28820c4a6eb0fd0800000000000000
+      internalID: -2374550783234899279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_203
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 524
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a9fd084d87771b0800000000000000
+      internalID: -5658921552677201349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_204
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 529
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12f7fecff7302b60800000000000000
+      internalID: 7719231333141574170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_205
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 526
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374e53519b25d01d0800000000000000
+      internalID: -3382956790207093645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_206
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 528
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7744967c250d5a840800000000000000
+      internalID: 5234819195839530103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_207
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 528
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e6c0cfb2104bd90800000000000000
+      internalID: -7083035025523052996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_208
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 527
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a8e6e58359d6830800000000000000
+      internalID: 4066070107920435852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_209
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 476
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00826e3672902c5e0800000000000000
+      internalID: -1890938828757784576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_210
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 476
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f56f1cd01a81270800000000000000
+      internalID: 8221498200225636247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_211
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 474
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fba10c15400ac50800000000000000
+      internalID: 6674339396924915533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_212
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 475
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305050f38b38abd40800000000000000
+      internalID: 5600933913943147779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_213
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 475
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9432eaab9a9c44e0800000000000000
+      internalID: -1996050541454412644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_214
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 474
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bbb1adf75ba2300800000000000000
+      internalID: 228194291860355967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_215
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 477
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50515ab5238a61c0800000000000000
+      internalID: -4509647878795210659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_216
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 475
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed75f3915d1e98430800000000000000
+      internalID: 3785805267149477854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_217
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 474
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5864bca93ec3b10800000000000000
+      internalID: 1962693791601559007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_218
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 424
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29ff6523beaf86c0800000000000000
+      internalID: -4138897448079722195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_219
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 422
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e6be44cea12840800000000000000
+      internalID: 5197627603119696179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_220
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 420
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1731af670d3329500800000000000000
+      internalID: 401440287231710065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_221
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 417
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eb3fba4fd816aa0800000000000000
+      internalID: -6169493932524454348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_222
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 420
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df7df5f0af594e90800000000000000
+      internalID: -7040991397490622506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_223
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 419
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7a675a5a0684d20800000000000000
+      internalID: 3262964194591811583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_224
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 421
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbd0bfbfd1b1c780800000000000000
+      internalID: -8664448633532261391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_225
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 422
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c015ba017ed5adb10800000000000000
+      internalID: 2007019830945468684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_226
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 424
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334e845acadd178b0800000000000000
+      internalID: -5156096364785376205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_227
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 420
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f87677f04b06e410800000000000000
+      internalID: 1505903499059558643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_228
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 417
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb082c18135c4a60800000000000000
+      internalID: 7659588429267078065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_229
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 419
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f06d8bb8b3e6940800000000000000
+      internalID: 5291232083494440728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_230
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 420
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1a8c7557583a260800000000000000
+      internalID: 7107671375951208908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_231
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 419
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63550448bec84b60800000000000000
+      internalID: 7730656051191960426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_232
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 414
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f1a85a970c7e850800000000000000
+      internalID: 6406300623658688362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_233
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 416
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c710ab7c0b142f0800000000000000
+      internalID: -990316071179158389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_234
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 372
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e6a97addc9a5660800000000000000
+      internalID: 7375379815586229888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_235
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 372
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974373242f063b0d0800000000000000
+      internalID: -3408273899380067207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_236
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 372
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4027a116296b45b90800000000000000
+      internalID: -7253972359976422908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_238
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 372
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927fe4cee84f34e60800000000000000
+      internalID: 7945463062298818345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_239
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 372
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa088318ef56ed40800000000000000
+      internalID: 5613279435928636152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_241
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 372
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc47c0cc2f6e4920800000000000000
+      internalID: 2976438641742007550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_242
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 372
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69940bdd90ac125b0800000000000000
+      internalID: -5394808734890309226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_244
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 372
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fa8d9cbdee8b070800000000000000
+      internalID: 8122504555714359044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_245
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 372
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7958b7e4f33c770800000000000000
+      internalID: 8629810917284354019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_246
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 372
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37ccf708d542bd50800000000000000
+      internalID: 6751535585531053886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_248
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 372
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f5f0307578f0af0800000000000000
+      internalID: -427974631793664131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_251
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 372
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940c321a6c211c430800000000000000
+      internalID: 3801340204793708617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_253
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 372
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1cb5f38e83de660800000000000000
+      internalID: 7416646731495621086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_254
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 372
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96653f974c945da30800000000000000
+      internalID: 4239375732447598185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_256
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 372
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5151b4b0e7415b0800000000000000
+      internalID: -5398551466340968967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_257
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 372
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9a9008ac4735fe0800000000000000
+      internalID: -1201488262497457726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_258
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 372
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a539f181894634460800000000000000
+      internalID: 7224728831634936666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_259
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 316
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a5f7031e93cde80800000000000000
+      internalID: -8152577586103362914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_260
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 317
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bb7a350112fafc0800000000000000
+      internalID: -3481527632927409271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_261
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 318
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a504ae0d2637c2f0800000000000000
+      internalID: -952733229018511966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_262
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 324
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bac2ac900a8b8c0800000000000000
+      internalID: -3983257906502128827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_263
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 324
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544f18b0fb14cb890800000000000000
+      internalID: -7441000195535276987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_264
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 318
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e870c9967065dd740800000000000000
+      internalID: 5178389736382531470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_265
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 322
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d695c410c6c7780800000000000000
+      internalID: -8683947228645462668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_266
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 318
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d466381d15262b0800000000000000
+      internalID: -5592817826946200162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_267
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 320
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bb71ded6a56f6d0800000000000000
+      internalID: -2957076677146461384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_268
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 255
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54b466184e856b20800000000000000
+      internalID: 3127061956543165534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_269
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 256
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a26fbbffe8e1eb0800000000000000
+      internalID: -4747199728180647290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_270
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 257
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaabf3fc7cff30d0800000000000000
+      internalID: -3440753976688268637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_271
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 257
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bd78fe61f922eb0800000000000000
+      internalID: -4746056136438326526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_272
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 257
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308fa6b1bcf422ab0800000000000000
+      internalID: -5034373699689842685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_273
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 257
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7445db7a1c0812d40800000000000000
+      internalID: 5557864984383149127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_274
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 257
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b725a4bc61035bf00800000000000000
+      internalID: 1131863755811607163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_275
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 257
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744efd970a0f0b110800000000000000
+      internalID: 1274783266576000071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_276
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 257
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a67474145a771f0800000000000000
+      internalID: -1047186688553031164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_277
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 257
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b61ab5c431d61d0800000000000000
+      internalID: -3356004928645403803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_278
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 257
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93e0b05551ffb570800000000000000
+      internalID: 8484765571717587871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_279
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 257
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf19481bd9e11b10800000000000000
+      internalID: 1950597240842690488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_280
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 257
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1858ac0d49cb8410800000000000000
+      internalID: 1480498235283363870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_281
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 257
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4838207eb399c10800000000000000
+      internalID: 2060744167864370388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_282
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 257
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebed18ebddd851f30800000000000000
+      internalID: 4545695382423854782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_283
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 257
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc6a2d51b2580410800000000000000
+      internalID: 1443494602297994459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_284
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 258
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97e54cd0942b6f80800000000000000
+      internalID: -8112350099188357218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_285
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 194
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f566c7f47918b60a0800000000000000
+      internalID: -6887268718259444129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_289
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 192
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d69e113f557dfc0800000000000000
+      internalID: -3470210485399753316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_292
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 193
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be80d2fa7804c6e80800000000000000
+      internalID: -8184095471335307029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_295
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 194
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3dbae77bf0d5ff0800000000000000
+      internalID: -45863140425214977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_297
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 199
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea07abe2cf8cc69f0800000000000000
+      internalID: -473782875339460434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_298
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 199
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550604872d1358440800000000000000
+      internalID: 4937407346511994965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_299
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 196
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a59c4d64cd6da700800000000000000
+      internalID: 553219019651192228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_300
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 196
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bc56ecea72d0430800000000000000
+      internalID: 3750697696410061612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_301
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 197
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75261c2b18cf98820800000000000000
+      internalID: 2921143467306476119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_310
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 140
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956ee9f413d6001f0800000000000000
+      internalID: -1080743852012280231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_311
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 140
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363613198a0f8c860800000000000000
+      internalID: 7550549382067741539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_312
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 140
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e904ec6f363fe4ed0800000000000000
+      internalID: -2427735538438094690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_313
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 138
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8f75ca542c14230800000000000000
+      internalID: 3621389179882567849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_314
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 140
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec8338d1653168f0800000000000000
+      internalID: -549098985207132953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_315
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 138
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf83b2a4ab832cfc0800000000000000
+      internalID: -3476153589617182469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_316
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 69
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a13c46d39de22fd0800000000000000
+      internalID: -2368069234832166493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_317
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 162
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb3b749bf3a037f0800000000000000
+      internalID: -634827246536016950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_318
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 164
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d707ddffce0672e0800000000000000
+      internalID: -2128497487406233647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_319
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 165
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7744ac7061246310800000000000000
+      internalID: 1397278482683414396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_320
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 120
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1eb93de6de3bc10800000000000000
+      internalID: 2068257714145583565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_321
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 121
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c619787f6b3f8ba40800000000000000
+      internalID: 5384321321683882348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_322
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 120
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecc89463e917db20800000000000000
+      internalID: 3159022128059698415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_323
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 93
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e887a081252e466b0800000000000000
+      internalID: -5303865618917066610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_324
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 70
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249b38b5ebcf19290800000000000000
+      internalID: -7885243578039682750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_325
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 70
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a525ee1665575800800000000000000
+      internalID: 601042972370609575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_326
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 70
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab44fadd5e1257eb0800000000000000
+      internalID: -4722831363077618502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_327
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 70
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8335d45b10bff20800000000000000
+      internalID: 3457359017134995627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_328
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 70
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081e3a47955f1aaf0800000000000000
+      internalID: -386758328419360384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_329
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 70
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d1ecba4a6254b20800000000000000
+      internalID: 3117940805722840420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_330
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 13
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45f34e80c5eb3310800000000000000
+      internalID: 1385953925529859406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_331
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 13
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40147a1cc8718cb20800000000000000
+      internalID: 3154797432284856580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_332
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 13
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c727b0c44f3408f0800000000000000
+      internalID: -575265287873026106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_333
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 14
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9699643b2a4f600800000000000000
+      internalID: 501204349412272621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_334
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 13
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902db04e2c02fe910800000000000000
+      internalID: 1868748391803769353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_335
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 15
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29df7e414e6add40800000000000000
+      internalID: 5609917512612305197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper Sonic Sonic Battle-Style_21
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 628
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c7e740ebbb734a0800000000000000
+      internalID: -6613611102976705456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

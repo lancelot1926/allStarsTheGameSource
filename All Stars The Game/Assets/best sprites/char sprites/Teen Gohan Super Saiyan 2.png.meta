@@ -1,0 +1,6752 @@
+fileFormatVersion: 2
+guid: 5e5d3edcf76333d449af52bce0bc92a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3610920247306738355
+    second: Teen Gohan Super Saiyan 2_0
+  - first:
+      213: 4960110115335021464
+    second: Teen Gohan Super Saiyan 2_6
+  - first:
+      213: 5388737717746835421
+    second: Teen Gohan Super Saiyan 2_7
+  - first:
+      213: 8266337690656993716
+    second: Teen Gohan Super Saiyan 2_8
+  - first:
+      213: 1482855352192946871
+    second: Teen Gohan Super Saiyan 2_9
+  - first:
+      213: -567371680686478109
+    second: Teen Gohan Super Saiyan 2_10
+  - first:
+      213: -144189006780738223
+    second: Teen Gohan Super Saiyan 2_11
+  - first:
+      213: 2943618508014442560
+    second: Teen Gohan Super Saiyan 2_12
+  - first:
+      213: -8031699767864573248
+    second: Teen Gohan Super Saiyan 2_13
+  - first:
+      213: -2363779436202412350
+    second: Teen Gohan Super Saiyan 2_14
+  - first:
+      213: 185198271025486881
+    second: Teen Gohan Super Saiyan 2_15
+  - first:
+      213: -6551189298552768581
+    second: Teen Gohan Super Saiyan 2_16
+  - first:
+      213: -9195894436744076392
+    second: Teen Gohan Super Saiyan 2_17
+  - first:
+      213: -4018887892730979469
+    second: Teen Gohan Super Saiyan 2_18
+  - first:
+      213: 1903476221296593758
+    second: Teen Gohan Super Saiyan 2_19
+  - first:
+      213: -3593157428012223483
+    second: Teen Gohan Super Saiyan 2_20
+  - first:
+      213: -2966698093282347978
+    second: Teen Gohan Super Saiyan 2_21
+  - first:
+      213: 8213767770460089644
+    second: Teen Gohan Super Saiyan 2_22
+  - first:
+      213: -3024394436494118859
+    second: Teen Gohan Super Saiyan 2_23
+  - first:
+      213: -2323183367788262239
+    second: Teen Gohan Super Saiyan 2_24
+  - first:
+      213: -1884756425949072724
+    second: Teen Gohan Super Saiyan 2_25
+  - first:
+      213: -8172666496826401497
+    second: Teen Gohan Super Saiyan 2_26
+  - first:
+      213: 4835535159645956478
+    second: Teen Gohan Super Saiyan 2_27
+  - first:
+      213: 703959947990629002
+    second: Teen Gohan Super Saiyan 2_28
+  - first:
+      213: 3338802787686310615
+    second: Teen Gohan Super Saiyan 2_29
+  - first:
+      213: 8619007358679747197
+    second: Teen Gohan Super Saiyan 2_30
+  - first:
+      213: -3980492348064291923
+    second: Teen Gohan Super Saiyan 2_31
+  - first:
+      213: 4742760965943282414
+    second: Teen Gohan Super Saiyan 2_32
+  - first:
+      213: 2257748198120138463
+    second: Teen Gohan Super Saiyan 2_33
+  - first:
+      213: -1602213011070922223
+    second: Teen Gohan Super Saiyan 2_34
+  - first:
+      213: -2409586329851555294
+    second: Teen Gohan Super Saiyan 2_35
+  - first:
+      213: -3480908787378076518
+    second: Teen Gohan Super Saiyan 2_36
+  - first:
+      213: 3345820708645968026
+    second: Teen Gohan Super Saiyan 2_37
+  - first:
+      213: 3077422753420922599
+    second: Teen Gohan Super Saiyan 2_38
+  - first:
+      213: -3337820026338131572
+    second: Teen Gohan Super Saiyan 2_39
+  - first:
+      213: 1085791633431099812
+    second: Teen Gohan Super Saiyan 2_40
+  - first:
+      213: -1419877157323440714
+    second: Teen Gohan Super Saiyan 2_41
+  - first:
+      213: 5442096743024656778
+    second: Teen Gohan Super Saiyan 2_42
+  - first:
+      213: -2001836048638062017
+    second: Teen Gohan Super Saiyan 2_43
+  - first:
+      213: 8497505641860612627
+    second: Teen Gohan Super Saiyan 2_44
+  - first:
+      213: 2674943713936791166
+    second: Teen Gohan Super Saiyan 2_45
+  - first:
+      213: -2087804199720303160
+    second: Teen Gohan Super Saiyan 2_46
+  - first:
+      213: 3146116718755550172
+    second: Teen Gohan Super Saiyan 2_47
+  - first:
+      213: -3189109267671369837
+    second: Teen Gohan Super Saiyan 2_48
+  - first:
+      213: 6213342559046631476
+    second: Teen Gohan Super Saiyan 2_49
+  - first:
+      213: -67028277640395874
+    second: Teen Gohan Super Saiyan 2_50
+  - first:
+      213: -3094606731843455251
+    second: Teen Gohan Super Saiyan 2_51
+  - first:
+      213: 4479505107999012476
+    second: Teen Gohan Super Saiyan 2_52
+  - first:
+      213: 7159964391882264699
+    second: Teen Gohan Super Saiyan 2_53
+  - first:
+      213: -8742115599254234283
+    second: Teen Gohan Super Saiyan 2_54
+  - first:
+      213: -6110504452465919613
+    second: Teen Gohan Super Saiyan 2_55
+  - first:
+      213: 703837892865378335
+    second: Teen Gohan Super Saiyan 2_56
+  - first:
+      213: -6362873069146354696
+    second: Teen Gohan Super Saiyan 2_57
+  - first:
+      213: 1704079237798772403
+    second: Teen Gohan Super Saiyan 2_58
+  - first:
+      213: -5380411324109796967
+    second: Teen Gohan Super Saiyan 2_59
+  - first:
+      213: 6337749001408322677
+    second: Teen Gohan Super Saiyan 2_60
+  - first:
+      213: 1658980726006195443
+    second: Teen Gohan Super Saiyan 2_61
+  - first:
+      213: -8097572465615982228
+    second: Teen Gohan Super Saiyan 2_62
+  - first:
+      213: -2050152727701467039
+    second: Teen Gohan Super Saiyan 2_63
+  - first:
+      213: 7367794226785673812
+    second: Teen Gohan Super Saiyan 2_64
+  - first:
+      213: 8492340332669620778
+    second: Teen Gohan Super Saiyan 2_65
+  - first:
+      213: 5583296028680099087
+    second: Teen Gohan Super Saiyan 2_66
+  - first:
+      213: 4814039641613049463
+    second: Teen Gohan Super Saiyan 2_67
+  - first:
+      213: 7748003345325518010
+    second: Teen Gohan Super Saiyan 2_68
+  - first:
+      213: 859704215697974471
+    second: Teen Gohan Super Saiyan 2_69
+  - first:
+      213: 3065386528220828038
+    second: Teen Gohan Super Saiyan 2_70
+  - first:
+      213: -377649873816145895
+    second: Teen Gohan Super Saiyan 2_71
+  - first:
+      213: -4523204530795330808
+    second: Teen Gohan Super Saiyan 2_72
+  - first:
+      213: 3602334892299968662
+    second: Teen Gohan Super Saiyan 2_73
+  - first:
+      213: -8070997818678395059
+    second: Teen Gohan Super Saiyan 2_74
+  - first:
+      213: 7160967984026268759
+    second: Teen Gohan Super Saiyan 2_75
+  - first:
+      213: 1842813507508252789
+    second: Teen Gohan Super Saiyan 2_76
+  - first:
+      213: 8622088664734870551
+    second: Teen Gohan Super Saiyan 2_77
+  - first:
+      213: 499016375669005127
+    second: Teen Gohan Super Saiyan 2_78
+  - first:
+      213: 740300221883639964
+    second: Teen Gohan Super Saiyan 2_79
+  - first:
+      213: 5019594295847670191
+    second: Teen Gohan Super Saiyan 2_80
+  - first:
+      213: 2151296731255073509
+    second: Teen Gohan Super Saiyan 2_81
+  - first:
+      213: 7782613394112557280
+    second: Teen Gohan Super Saiyan 2_82
+  - first:
+      213: 2945622170972311139
+    second: Teen Gohan Super Saiyan 2_83
+  - first:
+      213: 9090034403569337283
+    second: Teen Gohan Super Saiyan 2_84
+  - first:
+      213: -1800434909360414760
+    second: Teen Gohan Super Saiyan 2_85
+  - first:
+      213: -3000497794909320331
+    second: Teen Gohan Super Saiyan 2_86
+  - first:
+      213: -8483265621575228112
+    second: Teen Gohan Super Saiyan 2_87
+  - first:
+      213: -389058949225239285
+    second: Teen Gohan Super Saiyan 2_88
+  - first:
+      213: -5613961901029942224
+    second: Teen Gohan Super Saiyan 2_89
+  - first:
+      213: 1598811520104954444
+    second: Teen Gohan Super Saiyan 2_90
+  - first:
+      213: -8786208005106997282
+    second: Teen Gohan Super Saiyan 2_91
+  - first:
+      213: -5106899552225273193
+    second: Teen Gohan Super Saiyan 2_92
+  - first:
+      213: -833480721194731407
+    second: Teen Gohan Super Saiyan 2_93
+  - first:
+      213: 8642130336994311229
+    second: Teen Gohan Super Saiyan 2_94
+  - first:
+      213: -4389920963353591364
+    second: Teen Gohan Super Saiyan 2_95
+  - first:
+      213: 3568448836543006220
+    second: Teen Gohan Super Saiyan 2_96
+  - first:
+      213: -9179233099355382863
+    second: Teen Gohan Super Saiyan 2_97
+  - first:
+      213: -5331807814229528731
+    second: Teen Gohan Super Saiyan 2_98
+  - first:
+      213: -2404621937004937339
+    second: Teen Gohan Super Saiyan 2_99
+  - first:
+      213: -5139819678869636249
+    second: Teen Gohan Super Saiyan 2_100
+  - first:
+      213: -450652826475636538
+    second: Teen Gohan Super Saiyan 2_101
+  - first:
+      213: 5013486325117408742
+    second: Teen Gohan Super Saiyan 2_102
+  - first:
+      213: -8577171377629478263
+    second: Teen Gohan Super Saiyan 2_103
+  - first:
+      213: 1434137090656728806
+    second: Teen Gohan Super Saiyan 2_104
+  - first:
+      213: 5785874315519549302
+    second: Teen Gohan Super Saiyan 2_105
+  - first:
+      213: 2372575329197965724
+    second: Teen Gohan Super Saiyan 2_106
+  - first:
+      213: 5285892159045386476
+    second: Teen Gohan Super Saiyan 2_107
+  - first:
+      213: 1822413936662502799
+    second: Teen Gohan Super Saiyan 2_108
+  - first:
+      213: -7908561732997882432
+    second: Teen Gohan Super Saiyan 2_109
+  - first:
+      213: 1336238434341310213
+    second: Teen Gohan Super Saiyan 2_110
+  - first:
+      213: 2397457580755345610
+    second: Teen Gohan Super Saiyan 2_111
+  - first:
+      213: -5541224199520849873
+    second: Teen Gohan Super Saiyan 2_112
+  - first:
+      213: 401492051859902419
+    second: Teen Gohan Super Saiyan 2_113
+  - first:
+      213: -1954390631516149969
+    second: Teen Gohan Super Saiyan 2_114
+  - first:
+      213: 6122946449843343872
+    second: Teen Gohan Super Saiyan 2_115
+  - first:
+      213: -1036289837627305176
+    second: Teen Gohan Super Saiyan 2_116
+  - first:
+      213: -4923136887865263660
+    second: Teen Gohan Super Saiyan 2_117
+  - first:
+      213: -2632572228293203108
+    second: Teen Gohan Super Saiyan 2_118
+  - first:
+      213: -8823431843373742987
+    second: Teen Gohan Super Saiyan 2_119
+  - first:
+      213: 2871702453349835983
+    second: Teen Gohan Super Saiyan 2_120
+  - first:
+      213: 5233442293903890930
+    second: Teen Gohan Super Saiyan 2_121
+  - first:
+      213: 8174809887209333077
+    second: Teen Gohan Super Saiyan 2_122
+  - first:
+      213: 2999305767019254407
+    second: Teen Gohan Super Saiyan 2_123
+  - first:
+      213: 2503745695191397284
+    second: Teen Gohan Super Saiyan 2_124
+  - first:
+      213: -7199627750738637438
+    second: Teen Gohan Super Saiyan 2_125
+  - first:
+      213: -1521934013986753460
+    second: Teen Gohan Super Saiyan 2_126
+  - first:
+      213: 6145177881354055777
+    second: Teen Gohan Super Saiyan 2_127
+  - first:
+      213: 8763535929936744175
+    second: Teen Gohan Super Saiyan 2_128
+  - first:
+      213: 3878425064406958227
+    second: Teen Gohan Super Saiyan 2_129
+  - first:
+      213: -5736868093092048655
+    second: Teen Gohan Super Saiyan 2_130
+  - first:
+      213: 6804303747462368039
+    second: Teen Gohan Super Saiyan 2_131
+  - first:
+      213: 1225204707477623685
+    second: Teen Gohan Super Saiyan 2_132
+  - first:
+      213: -4208610688164115751
+    second: Teen Gohan Super Saiyan 2_133
+  - first:
+      213: -599371990341050476
+    second: Teen Gohan Super Saiyan 2_134
+  - first:
+      213: 4112079576083177971
+    second: Teen Gohan Super Saiyan 2_135
+  - first:
+      213: 3040309880693376011
+    second: Teen Gohan Super Saiyan 2_136
+  - first:
+      213: 4216115398464914219
+    second: Teen Gohan Super Saiyan 2_137
+  - first:
+      213: 6426050991260714781
+    second: Teen Gohan Super Saiyan 2_138
+  - first:
+      213: -5699139275343340893
+    second: Teen Gohan Super Saiyan 2_139
+  - first:
+      213: -1106379037176620657
+    second: Teen Gohan Super Saiyan 2_140
+  - first:
+      213: 7254113249994074293
+    second: Teen Gohan Super Saiyan 2_141
+  - first:
+      213: 7550492089111429488
+    second: Teen Gohan Super Saiyan 2_142
+  - first:
+      213: -1523321596647094430
+    second: Teen Gohan Super Saiyan 2_143
+  - first:
+      213: -5624295070513865250
+    second: Teen Gohan Super Saiyan 2_144
+  - first:
+      213: -6548824355055741134
+    second: Teen Gohan Super Saiyan 2_145
+  - first:
+      213: 9088901954340547635
+    second: Teen Gohan Super Saiyan 2_146
+  - first:
+      213: -2737914450651090053
+    second: Teen Gohan Super Saiyan 2_147
+  - first:
+      213: -2924984119116221650
+    second: Teen Gohan Super Saiyan 2_148
+  - first:
+      213: 1926097188394580281
+    second: Teen Gohan Super Saiyan 2_149
+  - first:
+      213: 5423010247506512715
+    second: Teen Gohan Super Saiyan 2_150
+  - first:
+      213: 2281682117989092573
+    second: Teen Gohan Super Saiyan 2_151
+  - first:
+      213: -2735383535782941905
+    second: Teen Gohan Super Saiyan 2_152
+  - first:
+      213: -5884115656819546409
+    second: Teen Gohan Super Saiyan 2_153
+  - first:
+      213: 9141960512525740639
+    second: Teen Gohan Super Saiyan 2_154
+  - first:
+      213: -2048356524274603552
+    second: Teen Gohan Super Saiyan 2_155
+  - first:
+      213: 3001927429666859782
+    second: Teen Gohan Super Saiyan 2_156
+  - first:
+      213: 8375794766527123148
+    second: Teen Gohan Super Saiyan 2_157
+  - first:
+      213: -7325231662098278696
+    second: Teen Gohan Super Saiyan 2_158
+  - first:
+      213: 1654821421846123760
+    second: Teen Gohan Super Saiyan 2_159
+  - first:
+      213: -7365083021578305221
+    second: Teen Gohan Super Saiyan 2_160
+  - first:
+      213: 2297194749782228925
+    second: Teen Gohan Super Saiyan 2_161
+  - first:
+      213: 7046780268141954675
+    second: Teen Gohan Super Saiyan 2_162
+  - first:
+      213: 8885484706355499956
+    second: Teen Gohan Super Saiyan 2_163
+  - first:
+      213: 2233166382163821263
+    second: Teen Gohan Super Saiyan 2_164
+  - first:
+      213: 4115519971488447950
+    second: Teen Gohan Super Saiyan 2_165
+  - first:
+      213: -219893177201371556
+    second: Teen Gohan Super Saiyan 2_166
+  - first:
+      213: 8864109097480114579
+    second: Teen Gohan Super Saiyan 2_167
+  - first:
+      213: 2636036912328813051
+    second: Teen Gohan Super Saiyan 2_168
+  - first:
+      213: 1354464416116442954
+    second: Teen Gohan Super Saiyan 2_169
+  - first:
+      213: -627667248796992667
+    second: Teen Gohan Super Saiyan 2_170
+  - first:
+      213: -2806262255736852088
+    second: Teen Gohan Super Saiyan 2_171
+  - first:
+      213: 3471666772842697833
+    second: Teen Gohan Super Saiyan 2_172
+  - first:
+      213: 5166432732899805941
+    second: Teen Gohan Super Saiyan 2_173
+  - first:
+      213: 2443906764097298758
+    second: Teen Gohan Super Saiyan 2_174
+  - first:
+      213: 768983588893569915
+    second: Teen Gohan Super Saiyan 2_175
+  - first:
+      213: -4237936020931481411
+    second: Teen Gohan Super Saiyan 2_176
+  - first:
+      213: 1235252865467347551
+    second: Teen Gohan Super Saiyan 2_177
+  - first:
+      213: -518996865058511339
+    second: Teen Gohan Super Saiyan 2_178
+  - first:
+      213: 6702432315637083764
+    second: Teen Gohan Super Saiyan 2_179
+  - first:
+      213: 6662380590994087003
+    second: Teen Gohan Super Saiyan 2_180
+  - first:
+      213: -5941427700424798093
+    second: Teen Gohan Super Saiyan 2_181
+  - first:
+      213: -1193368223856354574
+    second: Teen Gohan Super Saiyan 2_182
+  - first:
+      213: 6845994895851700044
+    second: Teen Gohan Super Saiyan 2_183
+  - first:
+      213: -2160283013416018527
+    second: Teen Gohan Super Saiyan 2_184
+  - first:
+      213: -6991042228256636946
+    second: Teen Gohan Super Saiyan 2_185
+  - first:
+      213: -5469725509758019455
+    second: Teen Gohan Super Saiyan 2_186
+  - first:
+      213: -9055303346660676769
+    second: Teen Gohan Super Saiyan 2_187
+  - first:
+      213: -533018927621717373
+    second: Teen Gohan Super Saiyan 2_188
+  - first:
+      213: 8417494358775943063
+    second: Teen Gohan Super Saiyan 2_189
+  - first:
+      213: -5027080181333725239
+    second: Teen Gohan Super Saiyan 2_190
+  - first:
+      213: -6537998974204960727
+    second: Teen Gohan Super Saiyan 2_191
+  - first:
+      213: 6885743609195060097
+    second: Teen Gohan Super Saiyan 2_192
+  - first:
+      213: -7504695390988048533
+    second: Teen Gohan Super Saiyan 2_193
+  - first:
+      213: -6951263161741138069
+    second: Teen Gohan Super Saiyan 2_194
+  - first:
+      213: 4424960458763189800
+    second: Teen Gohan Super Saiyan 2_195
+  - first:
+      213: -3275126466402122101
+    second: Teen Gohan Super Saiyan 2_196
+  - first:
+      213: -6346019846163751306
+    second: Teen Gohan Super Saiyan 2_197
+  - first:
+      213: 1090860652303846350
+    second: Teen Gohan Super Saiyan 2_198
+  - first:
+      213: -4519538355263954619
+    second: Teen Gohan Super Saiyan 2_199
+  - first:
+      213: -5795642848227809839
+    second: Teen Gohan Super Saiyan 2_200
+  - first:
+      213: -1185914930003201964
+    second: Teen Gohan Super Saiyan 2_201
+  - first:
+      213: 6774355277014629857
+    second: Teen Gohan Super Saiyan 2_202
+  - first:
+      213: -7886710974416748956
+    second: Teen Gohan Super Saiyan 2_203
+  - first:
+      213: 5017622255987837634
+    second: Teen Gohan Super Saiyan 2_204
+  - first:
+      213: 5235130065487681748
+    second: Teen Gohan Super Saiyan 2_205
+  - first:
+      213: 3889435979137018199
+    second: Teen Gohan Super Saiyan 2_206
+  - first:
+      213: 6689732275130448204
+    second: Teen Gohan Super Saiyan 2_207
+  - first:
+      213: 7992621418511842278
+    second: Teen Gohan Super Saiyan 2_208
+  - first:
+      213: 4334495895393516976
+    second: Teen Gohan Super Saiyan 2_209
+  - first:
+      213: -6270945728656686720
+    second: Teen Gohan Super Saiyan 2_210
+  - first:
+      213: -3237261096892387962
+    second: Teen Gohan Super Saiyan 2_211
+  - first:
+      213: 6785892093873704647
+    second: Teen Gohan Super Saiyan 2_212
+  - first:
+      213: 562726477333751327
+    second: Teen Gohan Super Saiyan 2_213
+  - first:
+      213: 1021271116290547877
+    second: Teen Gohan Super Saiyan 2_214
+  - first:
+      213: -2190002439640558941
+    second: Teen Gohan Super Saiyan 2_215
+  - first:
+      213: -4040285308323549078
+    second: Teen Gohan Super Saiyan 2_216
+  - first:
+      213: -6868307433803462765
+    second: Teen Gohan Super Saiyan 2_217
+  - first:
+      213: -8730055541474595923
+    second: Teen Gohan Super Saiyan 2_218
+  - first:
+      213: -8218143068941867955
+    second: Teen Gohan Super Saiyan 2_219
+  - first:
+      213: 1673622851535547556
+    second: Teen Gohan Super Saiyan 2_220
+  - first:
+      213: -4909721147537836054
+    second: Teen Gohan Super Saiyan 2_221
+  - first:
+      213: 8316073023823986230
+    second: Teen Gohan Super Saiyan 2_222
+  - first:
+      213: -949170980095134177
+    second: Teen Gohan Super Saiyan 2_223
+  - first:
+      213: -3397274227680785769
+    second: Teen Gohan Super Saiyan 2_224
+  - first:
+      213: -3999194473109726886
+    second: Teen Gohan Super Saiyan 2_225
+  - first:
+      213: -4935938006513532115
+    second: Teen Gohan Super Saiyan 2_226
+  - first:
+      213: -316255863824629066
+    second: Teen Gohan Super Saiyan 2_227
+  - first:
+      213: 3302926443529541745
+    second: Teen Gohan Super Saiyan 2_228
+  - first:
+      213: -1268577514593712298
+    second: Teen Gohan Super Saiyan 2_229
+  - first:
+      213: -4887054308204581968
+    second: Teen Gohan Super Saiyan 2_230
+  - first:
+      213: -457464136072007408
+    second: Teen Gohan Super Saiyan 2_231
+  - first:
+      213: -1957848032578612779
+    second: Teen Gohan Super Saiyan 2_232
+  - first:
+      213: -5490670662547263112
+    second: Teen Gohan Super Saiyan 2_233
+  - first:
+      213: -8411243526088286119
+    second: Teen Gohan Super Saiyan 2_234
+  - first:
+      213: -7029173515417605248
+    second: Teen Gohan Super Saiyan 2_235
+  - first:
+      213: -1601198252569143154
+    second: Teen Gohan Super Saiyan 2_236
+  - first:
+      213: 6304530389405901378
+    second: Teen Gohan Super Saiyan 2_237
+  - first:
+      213: -2404479630725436813
+    second: Teen Gohan Super Saiyan 2_238
+  - first:
+      213: 423653772491888781
+    second: Teen Gohan Super Saiyan 2_239
+  - first:
+      213: -4256348329231780661
+    second: Teen Gohan Super Saiyan 2_240
+  - first:
+      213: 5578767794355547978
+    second: Teen Gohan Super Saiyan 2_241
+  - first:
+      213: 521038312454312059
+    second: Teen Gohan Super Saiyan 2_242
+  - first:
+      213: -4268598770477762773
+    second: Teen Gohan Super Saiyan 2_243
+  - first:
+      213: -5314892941870421884
+    second: Teen Gohan Super Saiyan 2_244
+  - first:
+      213: 503665113692249105
+    second: Teen Gohan Super Saiyan 2_245
+  - first:
+      213: -5501553150607911430
+    second: Teen Gohan Super Saiyan 2_246
+  - first:
+      213: -9073382493769789331
+    second: Teen Gohan Super Saiyan 2_247
+  - first:
+      213: -5811475711893984345
+    second: Teen Gohan Super Saiyan 2_248
+  - first:
+      213: 6672592377501740714
+    second: Teen Gohan Super Saiyan 2_249
+  - first:
+      213: 5207782162319420955
+    second: Teen Gohan Super Saiyan 2_250
+  - first:
+      213: 4429698183029133680
+    second: Teen Gohan Super Saiyan 2_251
+  - first:
+      213: -6536658911545844096
+    second: Teen Gohan Super Saiyan 2_252
+  - first:
+      213: 7486292597173161397
+    second: Teen Gohan Super Saiyan 2_253
+  - first:
+      213: -1220775714901908146
+    second: Teen Gohan Super Saiyan 2_254
+  - first:
+      213: -4931627813094254648
+    second: Teen Gohan Super Saiyan 2_255
+  - first:
+      213: 2903045697957151095
+    second: Teen Gohan Super Saiyan 2_256
+  - first:
+      213: 1236053232497012592
+    second: Teen Gohan Super Saiyan 2_257
+  - first:
+      213: -8207816069653641914
+    second: Teen Gohan Super Saiyan 2_258
+  - first:
+      213: -6954982908610159198
+    second: Teen Gohan Super Saiyan 2_259
+  - first:
+      213: 7293994327506843880
+    second: Teen Gohan Super Saiyan 2_260
+  - first:
+      213: -936889345770460690
+    second: Teen Gohan Super Saiyan 2_261
+  - first:
+      213: -8244827215705037137
+    second: Teen Gohan Super Saiyan 2_262
+  - first:
+      213: 6628228483960991329
+    second: Teen Gohan Super Saiyan 2_263
+  - first:
+      213: 7955365555451342238
+    second: Teen Gohan Super Saiyan 2_264
+  - first:
+      213: -2355852099531108120
+    second: Teen Gohan Super Saiyan 2_265
+  - first:
+      213: 3654562517408696446
+    second: Teen Gohan Super Saiyan 2_266
+  - first:
+      213: -1700767566711409131
+    second: Teen Gohan Super Saiyan 2_267
+  - first:
+      213: 5559611406808368038
+    second: Teen Gohan Super Saiyan 2_268
+  - first:
+      213: 3925129151128077631
+    second: Teen Gohan Super Saiyan 2_269
+  - first:
+      213: 4181720086625107737
+    second: Teen Gohan Super Saiyan 2_270
+  - first:
+      213: -2560884213055906502
+    second: Teen Gohan Super Saiyan 2_271
+  - first:
+      213: -7540883590170133293
+    second: Teen Gohan Super Saiyan 2_272
+  - first:
+      213: 254569020980324910
+    second: Teen Gohan Super Saiyan 2_273
+  - first:
+      213: -319623225966203183
+    second: Teen Gohan Super Saiyan 2_274
+  - first:
+      213: -4506313223314662613
+    second: Teen Gohan Super Saiyan 2_275
+  - first:
+      213: -3750128087664256829
+    second: Teen Gohan Super Saiyan 2_276
+  - first:
+      213: 5720437924410020872
+    second: Teen Gohan Super Saiyan 2_277
+  - first:
+      213: -3592354040231545844
+    second: Teen Gohan Super Saiyan 2_278
+  - first:
+      213: 470517160763059321
+    second: Teen Gohan Super Saiyan 2_279
+  - first:
+      213: -4670832378985853377
+    second: Teen Gohan Super Saiyan 2_280
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 7015
+        width: 133
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d452403aa2f63edc0800000000000000
+      internalID: -3610920247306738355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6888
+        width: 57
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893ad5fbed9d5d440800000000000000
+      internalID: 4960110115335021464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6888
+        width: 57
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf9c0e4764a8ca40800000000000000
+      internalID: 5388737717746835421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 6888
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1780d255ee7b270800000000000000
+      internalID: 8266337690656993716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6756
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b25fb81619249410800000000000000
+      internalID: 1482855352192946871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 6754
+        width: 53
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ece015667a4028f0800000000000000
+      internalID: -567371680686478109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 6754
+        width: 53
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155515ebcdcbffdf0800000000000000
+      internalID: -144189006780738223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_12
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 6754
+        width: 53
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0485774ef65d9d820800000000000000
+      internalID: 2943618508014442560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 6754
+        width: 52
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c248d96d9ba98090800000000000000
+      internalID: -8031699767864573248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6622
+        width: 55
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c638c9602b223fd0800000000000000
+      internalID: -2363779436202412350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 6622
+        width: 53
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c9d75a8d4f19200800000000000000
+      internalID: 185198271025486881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 6622
+        width: 53
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7fb6bea008515a0800000000000000
+      internalID: -6551189298552768581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 6622
+        width: 53
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893e0e15bbe916080800000000000000
+      internalID: -9195894436744076392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6495
+        width: 69
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bd6a921ca0a38c0800000000000000
+      internalID: -4018887892730979469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 6495
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b49c8c9818a6a10800000000000000
+      internalID: 1903476221296593758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_20
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 6496
+        width: 75
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50476494b5a822ec0800000000000000
+      internalID: -3593157428012223483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 6495
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634b31a6dcb24d6d0800000000000000
+      internalID: -2966698093282347978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_22
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 6496
+        width: 79
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d63d1d44a2df170800000000000000
+      internalID: 8213767770460089644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_23
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 6496
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530b910b8413706d0800000000000000
+      internalID: -3024394436494118859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6372
+        width: 61
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac82e6290562cfd0800000000000000
+      internalID: -2323183367788262239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6372
+        width: 62
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2bb27340008d5e0800000000000000
+      internalID: -1884756425949072724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 6372
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d1dec2f1bd49e80800000000000000
+      internalID: -8172666496826401497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6267
+        width: 52
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79eb91ab954b1340800000000000000
+      internalID: 4835535159645956478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 6267
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a751cc7d7f4c900800000000000000
+      internalID: 703959947990629002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 6267
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d26027127fc55e20800000000000000
+      internalID: 3338802787686310615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6144
+        width: 52
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a859af68ddc9770800000000000000
+      internalID: 8619007358679747197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6144
+        width: 51
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3a77a8c4372c8c0800000000000000
+      internalID: -3980492348064291923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_32
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6145
+        width: 57
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea43a568fba1d140800000000000000
+      internalID: 4742760965943282414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6009
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6aa3d2602255f10800000000000000
+      internalID: 2257748198120138463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_34
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 6008
+        width: 45
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112db9c51cbc3c9e0800000000000000
+      internalID: -1602213011070922223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_35
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 6019
+        width: 51
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2229f81effd6f8ed0800000000000000
+      internalID: -2409586329851555294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 6026
+        width: 56
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a944bc886e351bfc0800000000000000
+      internalID: -3480908787378076518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_37
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 6016
+        width: 64
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a981df4253ebe6e20800000000000000
+      internalID: 3345820708645968026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_38
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 6009
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eecb5970b335ba20800000000000000
+      internalID: 3077422753420922599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_39
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 6008
+        width: 85
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c814eedde5eada1d0800000000000000
+      internalID: -3337820026338131572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5893
+        width: 61
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a970c2ecb1811f00800000000000000
+      internalID: 1085791633431099812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_41
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 5892
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd7b0d8f359b4ce0800000000000000
+      internalID: -1419877157323440714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5892
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a818b418726368b40800000000000000
+      internalID: 5442096743024656778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5775
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f325b5e48bc0834e0800000000000000
+      internalID: -2001836048638062017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_44
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 5798
+        width: 103
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312cafb0c543de570800000000000000
+      internalID: 8497505641860612627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 5784
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76dd57a22f4f1520800000000000000
+      internalID: 2674943713936791166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_46
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5652
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c54a1b5421a603e0800000000000000
+      internalID: -2087804199720303160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 5663
+        width: 75
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd39753ac7049ab20800000000000000
+      internalID: 3146116718755550172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_48
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 5649
+        width: 55
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397ba8684020eb3d0800000000000000
+      internalID: -3189109267671369837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5536
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4308ac3432a3a3650800000000000000
+      internalID: 6213342559046631476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5546
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e938659f22ed11ff0800000000000000
+      internalID: -67028277640395874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 5536
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de630f4c29fbd05d0800000000000000
+      internalID: -3094606731843455251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5409
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7634db89266a2e30800000000000000
+      internalID: 4479505107999012476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 5409
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b709696edad4d5360800000000000000
+      internalID: 7159964391882264699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 5409
+        width: 66
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bdc012e24cda680800000000000000
+      internalID: -8742115599254234283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 5410
+        width: 67
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38973584390233ba0800000000000000
+      internalID: -6110504452465919613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_56
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 5410
+        width: 67
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1843bf95d884c900800000000000000
+      internalID: 703837892865378335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_57
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 5410
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbc1a2d7a882b7a0800000000000000
+      internalID: -6362873069146354696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_58
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 5285
+        width: 63
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be3d16c90b16a710800000000000000
+      internalID: 1704079237798772403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_59
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 5355
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99942f84860f455b0800000000000000
+      internalID: -5380411324109796967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_60
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 5285
+        width: 71
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c9780532534f750800000000000000
+      internalID: 6337749001408322677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_61
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 5285
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4a1de3e22e50710800000000000000
+      internalID: 1658980726006195443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_62
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5285
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61b9fbceb4af9f80800000000000000
+      internalID: -8097572465615982228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_63
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 5283
+        width: 54
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1605e02d4f46c83e0800000000000000
+      internalID: -2050152727701467039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_64
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5139
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452ebb120d9af3660800000000000000
+      internalID: 7367794226785673812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_65
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 5153
+        width: 94
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22de78c98adad570800000000000000
+      internalID: 8492340332669620778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_66
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 5183
+        width: 118
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f059351182adb7d40800000000000000
+      internalID: 5583296028680099087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_67
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 5178
+        width: 99
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e9ef45c87eec240800000000000000
+      internalID: 4814039641613049463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_68
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 5165
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc6aacedff668b60800000000000000
+      internalID: 7748003345325518010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_69
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 5142
+        width: 64
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c46594ed684eeb00800000000000000
+      internalID: 859704215697974471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_70
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5028
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681ded96ec07a8a20800000000000000
+      internalID: 3065386528220828038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_71
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 5052
+        width: 184
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910b7bdc07152caf0800000000000000
+      internalID: -377649873816145895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_72
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 5050
+        width: 96
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803c187b1795a31c0800000000000000
+      internalID: -4523204530795330808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_73
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 5032
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690e881af701ef130800000000000000
+      internalID: 3602334892299968662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_74
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 5016
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fb8b2fe3e0eff80800000000000000
+      internalID: -8070997818678395059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_75
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4915
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754b4d7e07ed06360800000000000000
+      internalID: 7160967984026268759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_76
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 4915
+        width: 116
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57032561f1df29910800000000000000
+      internalID: 1842813507508252789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_77
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4916
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ca17375ffc7a770800000000000000
+      internalID: 8622088664734870551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_78
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4831
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b9ad0ffbcdce600800000000000000
+      internalID: 499016375669005127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_79
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 4825
+        width: 107
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9864882123164a00800000000000000
+      internalID: 740300221883639964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4825
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1d398ca6e29a540800000000000000
+      internalID: 5019594295847670191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_81
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4712
+        width: 63
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaeae0aaf0fadd10800000000000000
+      internalID: 2151296731255073509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_82
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4734
+        width: 125
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0b64cd5a5610c60800000000000000
+      internalID: 7782613394112557280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_83
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4731
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ec15702c3f0e820800000000000000
+      internalID: 2945622170972311139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_84
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 4598
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c384d4012a462e70800000000000000
+      internalID: 9090034403569337283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_85
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4603
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df1c523df19307e0800000000000000
+      internalID: -1800434909360414760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_86
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 4606
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b461127271c56d0800000000000000
+      internalID: -3000497794909320331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_87
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4598
+        width: 65
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035a9ba0dd2654a80800000000000000
+      internalID: -8483265621575228112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_88
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4491
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d2ebe62f8c99af0800000000000000
+      internalID: -389058949225239285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4502
+        width: 126
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c988225633712b0800000000000000
+      internalID: -5613961901029942224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_90
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 4504
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a78ae4b9e103610800000000000000
+      internalID: 1598811520104954444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_91
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 4504
+        width: 132
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed767e4ee5e111680800000000000000
+      internalID: -8786208005106997282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_92
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 4504
+        width: 128
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad20e2ae5a029b0800000000000000
+      internalID: -5106899552225273193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_93
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 4560
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1783d0633b1ee64f0800000000000000
+      internalID: -833480721194731407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_94
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4402
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c3c27e0c30fe770800000000000000
+      internalID: 8642130336994311229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_95
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4408
+        width: 108
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1c443842ed313c0800000000000000
+      internalID: -4389920963353591364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_96
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 4387
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c064d457f4da58130800000000000000
+      internalID: 3568448836543006220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_97
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 4389
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb1a6a3120dc9080800000000000000
+      internalID: -9179233099355382863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_98
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 4389
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f6236ca0d9106b0800000000000000
+      internalID: -5331807814229528731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_99
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 4393
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f75b9a61111aed0800000000000000
+      internalID: -2404621937004937339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4296
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bb967eb31bba8b0800000000000000
+      internalID: -5139819678869636249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_101
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4289
+        width: 124
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8d4e854a5feb9f0800000000000000
+      internalID: -450652826475636538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_102
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 4289
+        width: 109
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5d6e6004b739540800000000000000
+      internalID: 5013486325117408742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_103
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 4290
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9824fba6314c7f880800000000000000
+      internalID: -8577171377629478263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_104
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4175
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e67ec7e51417e310800000000000000
+      internalID: 1434137090656728806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_105
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 4173
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f599bf80e8b4050800000000000000
+      internalID: 5785874315519549302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_106
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 4169
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9143b301b41de020800000000000000
+      internalID: 2372575329197965724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_107
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 4210
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce04ceca9e24b5940800000000000000
+      internalID: 5285892159045386476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_108
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4166
+        width: 79
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d5d70e1d38a4910800000000000000
+      internalID: 1822413936662502799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_109
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 4174
+        width: 62
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdd96451052f3290800000000000000
+      internalID: -7908561732997882432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_110
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 4164
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f432eb6c54b8210800000000000000
+      internalID: 1336238434341310213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_111
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 4160
+        width: 56
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac06df8a7fa754120800000000000000
+      internalID: 2397457580755345610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_112
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4037
+        width: 63
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20f2cef2fd9913b0800000000000000
+      internalID: -5541224199520849873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_113
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4036
+        width: 61
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df804bd4e2629500800000000000000
+      internalID: 401492051859902419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_114
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4037
+        width: 65
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27e020531c90e4e0800000000000000
+      internalID: -1954390631516149969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4037
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002d6a9fa5319f450800000000000000
+      internalID: 6122946449843343872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_116
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4037
+        width: 65
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82390e712eb5e91f0800000000000000
+      internalID: -1036289837627305176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_117
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3919
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d93b2a95118dabb0800000000000000
+      internalID: -4923136887865263660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_118
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 3934
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b660f9189377bd0800000000000000
+      internalID: -2632572228293203108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_119
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3938
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57486dbac7fdc8580800000000000000
+      internalID: -8823431843373742987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_120
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3948
+        width: 129
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4e8889a265ad720800000000000000
+      internalID: 2871702453349835983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_121
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 3945
+        width: 124
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f995a0d90ce0a840800000000000000
+      internalID: 5233442293903890930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_122
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 3926
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551a679c742c27170800000000000000
+      internalID: 8174809887209333077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_123
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3817
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78296ff34bcaf9920800000000000000
+      internalID: 2999305767019254407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_124
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3825
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3fbc1c1771fb220800000000000000
+      internalID: 2503745695191397284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_125
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3828
+        width: 142
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dcd2ab4b8c51c90800000000000000
+      internalID: -7199627750738637438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_126
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 3824
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c443cbce31101eae0800000000000000
+      internalID: -1521934013986753460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_127
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 3809
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16032bb79be084550800000000000000
+      internalID: 6145177881354055777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_128
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3677
+        width: 60
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee80404f755e9970800000000000000
+      internalID: 8763535929936744175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_129
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3678
+        width: 60
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390c2fb1c0fe2d530800000000000000
+      internalID: 3878425064406958227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_130
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3677
+        width: 65
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0d9f35ddc8260b0800000000000000
+      internalID: -5736868093092048655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_131
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3678
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b8a53253ebd6e50800000000000000
+      internalID: 6804303747462368039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_132
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 3678
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5831756a03dc00110800000000000000
+      internalID: 1225204707477623685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_133
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3680
+        width: 75
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dac01690e20895c0800000000000000
+      internalID: -4208610688164115751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_134
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3551
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f1763b95a9ea7f0800000000000000
+      internalID: -599371990341050476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_135
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3558
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1a394769a011930800000000000000
+      internalID: 4112079576083177971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_136
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3566
+        width: 87
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04c6dd6ab9513a20800000000000000
+      internalID: 3040309880693376011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_137
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3562
+        width: 81
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b234e81fd96a28a30800000000000000
+      internalID: 4216115398464914219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_138
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3433
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1744a2745bed2950800000000000000
+      internalID: 6426050991260714781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_139
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3428
+        width: 60
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aadeaf360798e0b0800000000000000
+      internalID: -5699139275343340893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_140
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3428
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f891626a02a55a0f0800000000000000
+      internalID: -1106379037176620657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_141
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3428
+        width: 60
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8e9522199cba460800000000000000
+      internalID: 7254113249994074293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_142
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3428
+        width: 71
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07142e20d8cb8c860800000000000000
+      internalID: 7550492089111429488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_143
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3303
+        width: 71
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2674b2924131cdae0800000000000000
+      internalID: -1523321596647094430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_144
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3321
+        width: 129
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd5a02ae6d72f1b0800000000000000
+      internalID: -5624295070513865250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_145
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3319
+        width: 124
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237d97c32f6ed15a0800000000000000
+      internalID: -6548824355055741134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_146
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3140
+        width: 62
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c62d22c24422e70800000000000000
+      internalID: 9088901954340547635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_147
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3140
+        width: 65
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73788f2059f00ad0800000000000000
+      internalID: -2737914450651090053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_148
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3160
+        width: 66
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e233b6ed07e5867d0800000000000000
+      internalID: -2924984119116221650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_149
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3182
+        width: 75
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939332d103fdaba10800000000000000
+      internalID: 1926097188394580281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_150
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 3181
+        width: 75
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bcde77617624b40800000000000000
+      internalID: 5423010247506512715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_151
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3179
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcc9152cc92aaf10800000000000000
+      internalID: 2281682117989092573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_152
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 3166
+        width: 44
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ba439ba27f90ad0800000000000000
+      internalID: -2735383535782941905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_153
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 3153
+        width: 63
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6e4f94cfb675ea0800000000000000
+      internalID: -5884115656819546409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_154
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3011
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5aaeb366a4cede70800000000000000
+      internalID: 9141960512525740639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_155
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3013
+        width: 58
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e922450896c293e0800000000000000
+      internalID: -2048356524274603552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_156
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3011
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b6bc6a71df8a920800000000000000
+      internalID: 3001927429666859782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_157
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3012
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccecc6a96fccc3470800000000000000
+      internalID: 8375794766527123148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_158
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 3013
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d610333d9c875a90800000000000000
+      internalID: -7325231662098278696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_159
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3011
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f458d7c05b17f610800000000000000
+      internalID: 1654821421846123760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_160
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 3011
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3180958308f9c990800000000000000
+      internalID: -7365083021578305221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_161
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3011
+        width: 80
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf79a0347641ef10800000000000000
+      internalID: 2297194749782228925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_162
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2881
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37645d481513bc160800000000000000
+      internalID: 7046780268141954675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_163
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2878
+        width: 84
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b35c7b53459f4b70800000000000000
+      internalID: 8885484706355499956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_164
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2873
+        width: 103
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc208352efccdfe10800000000000000
+      internalID: 2233166382163821263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_165
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2876
+        width: 105
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd389eeb934d1930800000000000000
+      internalID: 4115519971488447950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_166
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2893
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5651640258c2fcf0800000000000000
+      internalID: -219893177201371556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_167
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2743
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3915c959244a30b70800000000000000
+      internalID: 8864109097480114579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_168
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2755
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf92d2efa95159420800000000000000
+      internalID: 2636036912328813051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_169
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2757
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47078fc5360cc210800000000000000
+      internalID: 1354464416116442954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_170
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2759
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bfe4676f31a47f0800000000000000
+      internalID: -627667248796992667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_171
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2762
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881f73cb8572e09d0800000000000000
+      internalID: -2806262255736852088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_172
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2769
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964d0d54986dd2030800000000000000
+      internalID: 3471666772842697833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_173
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2624
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa8178923bd2b740800000000000000
+      internalID: 5166432732899805941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_174
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2624
+        width: 62
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641a13ae0408ae120800000000000000
+      internalID: 2443906764097298758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_175
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2624
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b733b16ff7afbaa00800000000000000
+      internalID: 768983588893569915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_176
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2626
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0fb8b74a3df25c0800000000000000
+      internalID: -4237936020931481411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_177
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2624
+        width: 69
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52f6fdbfef742110800000000000000
+      internalID: 1235252865467347551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_178
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2624
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51665aad9172cc8f0800000000000000
+      internalID: -518996865058511339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_179
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2624
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ea5a81ea2d30d50800000000000000
+      internalID: 6702432315637083764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_180
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2624
+        width: 75
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cd8a449d7857c50800000000000000
+      internalID: 6662380590994087003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_181
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2517
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37093894cfecb8da0800000000000000
+      internalID: -5941427700424798093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_182
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2524
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa9dc25ced407fe0800000000000000
+      internalID: -1193368223856354574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_183
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2511
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fb06d061cd10f50800000000000000
+      internalID: 6845994895851700044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_184
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2518
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad17038b022502e0800000000000000
+      internalID: -2160283013416018527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_185
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2518
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeff10f2224dafe90800000000000000
+      internalID: -6991042228256636946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_186
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2506
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1881bf3f0a1a714b0800000000000000
+      internalID: -5469725509758019455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_187
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2502
+        width: 66
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b62e05599155280800000000000000
+      internalID: -9055303346660676769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_188
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2349
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3824c800c165a98f0800000000000000
+      internalID: -533018927621717373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_189
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2350
+        width: 67
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fc1b18582f0d470800000000000000
+      internalID: 8417494358775943063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_190
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2374
+        width: 69
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf623ea5393c3ab0800000000000000
+      internalID: -5027080181333725239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_191
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2375
+        width: 69
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92025a0a29c5445a0800000000000000
+      internalID: -6537998974204960727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_192
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2374
+        width: 67
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bdc7094531f8f50800000000000000
+      internalID: 6885743609195060097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_193
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2369
+        width: 68
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6765a0bd47f9d790800000000000000
+      internalID: -7504695390988048533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_194
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2349
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b672928dbf6288f90800000000000000
+      internalID: -6951263161741138069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_195
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2349
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ebab1c71e986d30800000000000000
+      internalID: 4424960458763189800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_196
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2349
+        width: 74
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b860f97c4d96c82d0800000000000000
+      internalID: -3275126466402122101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_197
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2349
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e94d392986ee7a0800000000000000
+      internalID: -6346019846163751306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_198
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2218
+        width: 58
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb8500dbf3832f00800000000000000
+      internalID: 1090860652303846350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_199
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2216
+        width: 46
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5412db9bfcf5741c0800000000000000
+      internalID: -4519538355263954619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_200
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2216
+        width: 46
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d52952498db19fa0800000000000000
+      internalID: -5795642848227809839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_201
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2216
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450b35787a8ca8fe0800000000000000
+      internalID: -1185914930003201964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_202
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2216
+        width: 82
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edffbc7b38530e50800000000000000
+      internalID: 6774355277014629857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_203
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2216
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ef6b38726cc8290800000000000000
+      internalID: -7886710974416748956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_204
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2086
+        width: 55
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cacf397bdc22a540800000000000000
+      internalID: 5017622255987837634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_205
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2088
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d85c52ce0be6a840800000000000000
+      internalID: 5235130065487681748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_206
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2086
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759e5197a6d0af530800000000000000
+      internalID: 3889435979137018199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_207
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2086
+        width: 70
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49bd9d7f04b6dc50800000000000000
+      internalID: 6689732275130448204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_208
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1965
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebb39a55de7bee60800000000000000
+      internalID: 7992621418511842278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_209
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1965
+        width: 59
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdb15d3d09372c30800000000000000
+      internalID: 4334495895393516976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_210
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1965
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0814aada51029f8a0800000000000000
+      internalID: -6270945728656686720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_211
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1965
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68da9822f20f213d0800000000000000
+      internalID: -3237261096892387962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_212
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1849
+        width: 61
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce497bf7e45c2e50800000000000000
+      internalID: 6785892093873704647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_213
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1849
+        width: 73
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f166f2befb43fc700800000000000000
+      internalID: 562726477333751327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_214
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1740
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a06dd95ba84c2e00800000000000000
+      internalID: 1021271116290547877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_215
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1740
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a25cff526c8b91e0800000000000000
+      internalID: -2190002439640558941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_216
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1616
+        width: 71
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60352e1be50ee7c0800000000000000
+      internalID: -4040285308323549078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_217
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1616
+        width: 79
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39748ff57cedea0a0800000000000000
+      internalID: -6868307433803462765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_218
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1616
+        width: 75
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabe9f42dbc98d680800000000000000
+      internalID: -8730055541474595923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_219
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1616
+        width: 73
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44a16e9b6a43fd80800000000000000
+      internalID: -8218143068941867955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_220
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1505
+        width: 69
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aca0c1cd17e93710800000000000000
+      internalID: 1673622851535547556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_221
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1505
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7b8ce01aa2ddbb0800000000000000
+      internalID: -4909721147537836054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_222
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1404
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ebc3fca50a86370800000000000000
+      internalID: 8316073023823986230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_223
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1404
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16f154c50ed3d2f0800000000000000
+      internalID: -949170980095134177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_224
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1299
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a4f76e6157ad0d0800000000000000
+      internalID: -3397274227680785769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_225
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1300
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59d69ab0d10088c0800000000000000
+      internalID: -3999194473109726886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_226
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1300
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d234968e886008bb0800000000000000
+      internalID: -4935938006513532115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_227
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1299
+        width: 86
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2499aa7fe6c9bf0800000000000000
+      internalID: -316255863824629066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_228
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1198
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17892d9c91a56dd20800000000000000
+      internalID: 3302926443529541745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_229
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1198
+        width: 97
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6570890c87b156ee0800000000000000
+      internalID: -1268577514593712298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_230
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1094
+        width: 79
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb6c69dff1bd2cb0800000000000000
+      internalID: -4887054308204581968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_231
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1094
+        width: 93
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01172ffbac2c6a9f0800000000000000
+      internalID: -457464136072007408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_232
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 988
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d154f5669354d4e0800000000000000
+      internalID: -1957848032578612779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_233
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 998
+        width: 101
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871363c8f183dc3b0800000000000000
+      internalID: -5490670662547263112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_234
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1000
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9502434e392454b80800000000000000
+      internalID: -8411243526088286119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_235
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1021
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b23fc0eeb537e90800000000000000
+      internalID: -7029173515417605248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_236
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 886
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88d3ac3ca667c9e0800000000000000
+      internalID: -1601198252569143154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_237
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 886
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242a1308cf03e7750800000000000000
+      internalID: 6304530389405901378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_238
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 885
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aa2fce38291aed0800000000000000
+      internalID: -2404479630725436813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_239
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 884
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8812298cde11e500800000000000000
+      internalID: 423653772491888781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_240
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 788
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4ffc3eeb96ee4c0800000000000000
+      internalID: -4256348329231780661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_241
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 781
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fa3fa50c3cb6d40800000000000000
+      internalID: 5578767794355547978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_242
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 804
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b705538a5991b3700800000000000000
+      internalID: 521038312454312059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_243
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 804
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27f005c804e2c4c0800000000000000
+      internalID: -4268598770477762773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_244
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 662
+        width: 124
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48825946705bd36b0800000000000000
+      internalID: -5314892941870421884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_245
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 656
+        width: 88
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c126b90c06df600800000000000000
+      internalID: 503665113692249105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_246
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 651
+        width: 133
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af59519de8e86a3b0800000000000000
+      internalID: -5501553150607911430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_247
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 657
+        width: 101
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d609a9bd1bed41280800000000000000
+      internalID: -9073382493769789331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_248
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 657
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abafbb61ad795fa0800000000000000
+      internalID: -5811475711893984345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_249
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 663
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae68f71a6fc99c50800000000000000
+      internalID: 6672592377501740714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_250
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 665
+        width: 61
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e2aacd842c54840800000000000000
+      internalID: 5207782162319420955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_251
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 533
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07115a52703797d30800000000000000
+      internalID: 4429698183029133680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_252
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 522
+        width: 118
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e1b674a5f1945a0800000000000000
+      internalID: -6536658911545844096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_253
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 521
+        width: 120
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd842bf377a4e760800000000000000
+      internalID: 7486292597173161397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_254
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 521
+        width: 120
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4529da84feee0fe0800000000000000
+      internalID: -1220775714901908146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_255
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 528
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7941402a65f8bb0800000000000000
+      internalID: -4931627813094254648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_256
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 528
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77146796ea0b94820800000000000000
+      internalID: 2903045697957151095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_257
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 528
+        width: 54
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f2576bdd7572110800000000000000
+      internalID: 1236053232497012592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_258
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 530
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6454d8285caf71e80800000000000000
+      internalID: -8207816069653641914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_259
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 530
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2add069c4efea7f90800000000000000
+      internalID: -6954982908610159198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_260
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 532
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e872c41239793560800000000000000
+      internalID: 7293994327506843880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_261
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 397
+        width: 63
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9e0879a108ff2f0800000000000000
+      internalID: -936889345770460690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_262
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 395
+        width: 72
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6ad6d845d749d80800000000000000
+      internalID: -8244827215705037137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_263
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 397
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16eee9430b23cfb50800000000000000
+      internalID: 6628228483960991329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_264
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 396
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d2e07c2d2276e60800000000000000
+      internalID: 7955365555451342238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_265
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 395
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e017105ff45e4fd0800000000000000
+      internalID: -2355852099531108120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_266
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 388
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e784a933f3d97b230800000000000000
+      internalID: 3654562517408696446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_267
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 388
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51639acb8e8a568e0800000000000000
+      internalID: -1700767566711409131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_268
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 254
+        width: 53
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3c5005e15b72d40800000000000000
+      internalID: 5559611406808368038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_269
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 254
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35058eaa2cd87630800000000000000
+      internalID: 3925129151128077631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_270
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 254
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fb7695344780a30800000000000000
+      internalID: 4181720086625107737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_271
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 254
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d95e95069e57cd0800000000000000
+      internalID: -2560884213055906502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_272
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 253
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc365bf356695790800000000000000
+      internalID: -7540883590170133293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_273
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 253
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ae9520d29688300800000000000000
+      internalID: 254569020980324910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_274
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 254
+        width: 67
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dee1529e58709bf0800000000000000
+      internalID: -319623225966203183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_275
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 253
+        width: 53
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b1fa5bffb5671c0800000000000000
+      internalID: -4506313223314662613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_276
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 254
+        width: 57
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c89e809f5ed4fbc0800000000000000
+      internalID: -3750128087664256829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_277
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 132
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804d12cebf3136f40800000000000000
+      internalID: 5720437924410020872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_278
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 138
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c043f849805652ec0800000000000000
+      internalID: -3592354040231545844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_279
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3
+        width: 59
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ce1046ddc978600800000000000000
+      internalID: 470517160763059321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teen Gohan Super Saiyan 2_280
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 19
+        width: 79
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ec72dc2bedd2fb0800000000000000
+      internalID: -4670832378985853377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
